@@ -1,0 +1,7 @@
+Portid=0, X=100.0, Y=200.0, containers=BasicContainer=19, RefrigeratedContainer=22
+
+Ship id=2, containers=BasicContainer=5, BasicContainer=6, BasicContainer=7, HeacvyContainer=8, HeacvyContainer=9, LiquadContainer=10, LiquadContainer=11, fuelofship=150.54, 
+Ship id=1, containers=BasicContainer=15, BasicContainer=16, BasicContainer=17, BasicContainer=18, LiquadContainer=20, LiquadContainer=21, LiquadContainer=23, fuelofship=7457500.0
+Portid=1, X=130.0, Y=240.0, containers=LiquadContainer=4, HeacvyContainer=12, BasicContainer=13, BasicContainer=14
+
+Ship id=0, containers=HeacvyContainer=0, BasicContainer=1, BasicContainer=2, RefrigeratedContainer=3, fuelofship=4488500.0

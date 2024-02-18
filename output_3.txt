@@ -1,0 +1,1502 @@
+Portid=0, X=98.64, Y=99.38, containers=HeacvyContainer=358, HeacvyContainer=1115, BasicContainer=1378, HeacvyContainer=1662, RefrigeratedContainer=3804, LiquadContainer=4299, HeacvyContainer=4483, LiquadContainer=4818 
+Ship id=125, containers= , fuelofship=4333308.723497803, 
+Ship id=478, containers= , fuelofship=4107574.72033995, 
+Ship id=714, containers= , fuelofship=3024253.38805746, 
+Ship id=238, containers= , fuelofship=4040715.701339179 
+Portid=1, X=92.52, Y=56.94, containers=RefrigeratedContainer=549, RefrigeratedContainer=801, LiquadContainer=1578, LiquadContainer=1596, BasicContainer=1961, HeacvyContainer=2062, RefrigeratedContainer=2642, HeacvyContainer=2718, HeacvyContainer=2821, HeacvyContainer=3194, RefrigeratedContainer=3224, HeacvyContainer=3250 
+Ship id=39, containers= , fuelofship=5429595.699430308 
+Portid=2, X=19.68, Y=29.5, containers=RefrigeratedContainer=1795, HeacvyContainer=1804, LiquadContainer=1991, LiquadContainer=2243, HeacvyContainer=3460, RefrigeratedContainer=4777 
+Ship id=45, containers= , fuelofship=8068722.531212596, 
+Ship id=600, containers= , fuelofship=5404991.997598757 
+Portid=3, X=74.94, Y=62.71, containers=HeacvyContainer=601, RefrigeratedContainer=1239, LiquadContainer=1843, LiquadContainer=1958, LiquadContainer=2105, BasicContainer=2591, BasicContainer=3308, LiquadContainer=3739, RefrigeratedContainer=3908, HeacvyContainer=4038, HeacvyContainer=4597, RefrigeratedContainer=4929  
+Portid=4, X=83.28, Y=47.51, containers=HeacvyContainer=598, HeacvyContainer=898, HeacvyContainer=1358, HeacvyContainer=1397, RefrigeratedContainer=1766, RefrigeratedContainer=1911, LiquadContainer=2377, RefrigeratedContainer=2603, LiquadContainer=3336, HeacvyContainer=4321, HeacvyContainer=4423 
+Ship id=491, containers= , fuelofship=2962642.5267198067 
+Portid=5, X=61.25, Y=59.67, containers=RefrigeratedContainer=1154, HeacvyContainer=1643, LiquadContainer=1805, LiquadContainer=1969, RefrigeratedContainer=2468, RefrigeratedContainer=2786, RefrigeratedContainer=3737, HeacvyContainer=4525, HeacvyContainer=4636 
+Ship id=169, containers= , fuelofship=5217229.796503173, 
+Ship id=77, containers= , fuelofship=4049323.1054924517, 
+Ship id=936, containers= , fuelofship=5956974.243422727 
+Portid=6, X=20.63, Y=14.66, containers=HeacvyContainer=697, RefrigeratedContainer=2110, LiquadContainer=2299, LiquadContainer=2579, HeacvyContainer=3347, LiquadContainer=3756, LiquadContainer=4049, LiquadContainer=4171 
+Ship id=463, containers= , fuelofship=2157125.067893571, 
+Ship id=660, containers= , fuelofship=9531382.865592977, 
+Ship id=770, containers= , fuelofship=4024478.3922123117, 
+Ship id=277, containers= , fuelofship=2951207.6100159665, 
+Ship id=304, containers= , fuelofship=1156234.5078024482 
+Portid=7, X=74.53, Y=61.44, containers=HeacvyContainer=806, BasicContainer=1190, HeacvyContainer=1530, HeacvyContainer=1814, LiquadContainer=3654, HeacvyContainer=3858, HeacvyContainer=4864  
+Portid=8, X=44.14, Y=83.88, containers=HeacvyContainer=402, HeacvyContainer=1028, BasicContainer=3789  
+Portid=9, X=86.14, Y=71.51, containers=LiquadContainer=823, HeacvyContainer=1885, HeacvyContainer=2109, HeacvyContainer=2481, BasicContainer=3144, HeacvyContainer=3493, HeacvyContainer=3591, HeacvyContainer=3595, RefrigeratedContainer=3763 
+Ship id=912, containers= , fuelofship=2040271.3806338294, 
+Ship id=12, containers= , fuelofship=6257428.041447479 
+Portid=10, X=8.15, Y=79.24, containers=LiquadContainer=124, RefrigeratedContainer=788, RefrigeratedContainer=1463, HeacvyContainer=1806, RefrigeratedContainer=1896, RefrigeratedContainer=2599, BasicContainer=2872  
+Portid=11, X=21.5, Y=68.49, containers=HeacvyContainer=145, RefrigeratedContainer=895, LiquadContainer=1876, RefrigeratedContainer=2607, BasicContainer=2612, RefrigeratedContainer=2756, LiquadContainer=2896, RefrigeratedContainer=3534, RefrigeratedContainer=4055, LiquadContainer=4138, HeacvyContainer=4978 
+Ship id=20, containers= , fuelofship=1965886.8701771316 
+Portid=12, X=21.68, Y=23.14, containers=HeacvyContainer=1082, LiquadContainer=1168, LiquadContainer=1656, RefrigeratedContainer=1674, RefrigeratedContainer=1718, RefrigeratedContainer=1868, HeacvyContainer=2350, HeacvyContainer=3032, HeacvyContainer=3117, BasicContainer=3323, RefrigeratedContainer=3408, LiquadContainer=4078, BasicContainer=4281, RefrigeratedContainer=4816 
+Ship id=901, containers= , fuelofship=4027744.8189816223, 
+Ship id=863, containers= , fuelofship=2282547.743576377, 
+Ship id=1000, containers= , fuelofship=3761887.5758766495 
+Portid=13, X=69.74, Y=82.68, containers=RefrigeratedContainer=927, HeacvyContainer=1387, BasicContainer=1765, HeacvyContainer=2285, HeacvyContainer=2356, RefrigeratedContainer=2931, RefrigeratedContainer=2989, BasicContainer=3229, LiquadContainer=4616 
+Ship id=340, containers= , fuelofship=5485903.2592180865, 
+Ship id=444, containers= , fuelofship=5368853.404105768 
+Portid=14, X=42.86, Y=44.07, containers=RefrigeratedContainer=510, HeacvyContainer=917, RefrigeratedContainer=1600, BasicContainer=1981, HeacvyContainer=2018, RefrigeratedContainer=2102, RefrigeratedContainer=2173, BasicContainer=2493, HeacvyContainer=2688, LiquadContainer=3073, HeacvyContainer=3699, HeacvyContainer=4303 
+Ship id=774, containers= , fuelofship=2560045.9761992237, 
+Ship id=385, containers= , fuelofship=5912117.139919117 
+Portid=15, X=73.21, Y=96.23, containers=HeacvyContainer=1462, LiquadContainer=1471, RefrigeratedContainer=1558, HeacvyContainer=1682, HeacvyContainer=1740, HeacvyContainer=1949, RefrigeratedContainer=4170, LiquadContainer=4587, HeacvyContainer=4893 
+Ship id=525, containers= , fuelofship=4268576.472714386, 
+Ship id=328, containers= , fuelofship=2424656.002695416 
+Portid=16, X=14.99, Y=55.88, containers=LiquadContainer=88, RefrigeratedContainer=1621, HeacvyContainer=2911, LiquadContainer=4168, HeacvyContainer=4534, BasicContainer=4561 
+Ship id=826, containers= , fuelofship=2924388.0977015705, 
+Ship id=699, containers= , fuelofship=5765630.238095409 
+Portid=17, X=3.51, Y=24.76, containers=HeacvyContainer=405, RefrigeratedContainer=646, RefrigeratedContainer=706, HeacvyContainer=1913, LiquadContainer=2345, HeacvyContainer=2417, LiquadContainer=2601, HeacvyContainer=3095, HeacvyContainer=3273, LiquadContainer=3844, HeacvyContainer=4166, LiquadContainer=4394, HeacvyContainer=4881 
+Ship id=516, containers= , fuelofship=3360342.1378307375, 
+Ship id=223, containers= , fuelofship=4738286.078850318 
+Portid=18, X=17.37, Y=49.99, containers=RefrigeratedContainer=34, RefrigeratedContainer=1756, LiquadContainer=2409, HeacvyContainer=2440, HeacvyContainer=2749, LiquadContainer=3958, LiquadContainer=4199, BasicContainer=4332, HeacvyContainer=4429 
+Ship id=532, containers= , fuelofship=5391920.884739331 
+Portid=19, X=16.88, Y=99.51, containers=HeacvyContainer=230, RefrigeratedContainer=573, HeacvyContainer=683, RefrigeratedContainer=956, LiquadContainer=1226, LiquadContainer=1673, LiquadContainer=2659, HeacvyContainer=2770, HeacvyContainer=2800, RefrigeratedContainer=4008, HeacvyContainer=4732 
+Ship id=148, containers= , fuelofship=6968847.04376633, 
+Ship id=438, containers= , fuelofship=4269019.907414435, 
+Ship id=397, containers= , fuelofship=6306085.642986597 
+Portid=20, X=11.07, Y=70.14, containers=LiquadContainer=422, RefrigeratedContainer=559, LiquadContainer=612, BasicContainer=1049, RefrigeratedContainer=1112, RefrigeratedContainer=1257, HeacvyContainer=2288, HeacvyContainer=2395, LiquadContainer=2573, HeacvyContainer=3558, LiquadContainer=3933, RefrigeratedContainer=4435, HeacvyContainer=4848 
+Ship id=598, containers= , fuelofship=6516957.893844699, 
+Ship id=614, containers= , fuelofship=4389816.826607445 
+Portid=21, X=45.14, Y=63.54, containers=RefrigeratedContainer=4, RefrigeratedContainer=134, RefrigeratedContainer=314, BasicContainer=670, RefrigeratedContainer=850, HeacvyContainer=1033, RefrigeratedContainer=1087, BasicContainer=1365, LiquadContainer=1704, HeacvyContainer=1920, HeacvyContainer=2707, LiquadContainer=3151, RefrigeratedContainer=4340  
+Portid=22, X=67.72, Y=19.69, containers=LiquadContainer=809, BasicContainer=1456, HeacvyContainer=2964, LiquadContainer=3384, LiquadContainer=3567, HeacvyContainer=3784, HeacvyContainer=3859, RefrigeratedContainer=3885  
+Portid=23, X=74.49, Y=21.45, containers=LiquadContainer=395, HeacvyContainer=1701, HeacvyContainer=2670, BasicContainer=3274, RefrigeratedContainer=3407, LiquadContainer=3633, HeacvyContainer=3923, RefrigeratedContainer=3925 
+Ship id=450, containers= , fuelofship=3859633.976361491 
+Portid=24, X=19.29, Y=77.75, containers=HeacvyContainer=42, LiquadContainer=727, RefrigeratedContainer=1068, LiquadContainer=1238, RefrigeratedContainer=1296, HeacvyContainer=1784, HeacvyContainer=2063, BasicContainer=2307, HeacvyContainer=2701, LiquadContainer=2928, LiquadContainer=3418, BasicContainer=4832 
+Ship id=841, containers= , fuelofship=4156984.3343387237, 
+Ship id=300, containers= , fuelofship=3661648.174347215, 
+Ship id=754, containers= , fuelofship=5354570.3499554545 
+Portid=25, X=72.54, Y=57.96, containers=HeacvyContainer=68, RefrigeratedContainer=381, HeacvyContainer=764, LiquadContainer=1606, LiquadContainer=2167, HeacvyContainer=2725, RefrigeratedContainer=3246, LiquadContainer=3264, BasicContainer=3860, RefrigeratedContainer=4120 
+Ship id=537, containers= , fuelofship=3424816.532777056, 
+Ship id=934, containers= , fuelofship=7358032.379821247 
+Portid=26, X=78.18, Y=56.35, containers=HeacvyContainer=1450, LiquadContainer=2183, LiquadContainer=2450, RefrigeratedContainer=3112, BasicContainer=4179 
+Ship id=997, containers= , fuelofship=3560668.070116896, 
+Ship id=80, containers= , fuelofship=5427415.045183992, 
+Ship id=121, containers=RefrigeratedContainer=3038 , fuelofship=7208209.115272761, 
+Ship id=15, containers= , fuelofship=3895526.8662121347, 
+Ship id=966, containers= , fuelofship=6790085.603055324 
+Portid=27, X=24.88, Y=26.53, containers=LiquadContainer=548, HeacvyContainer=634, RefrigeratedContainer=1267, HeacvyContainer=1699, RefrigeratedContainer=1732, HeacvyContainer=1789, LiquadContainer=2148, RefrigeratedContainer=2216, RefrigeratedContainer=2723, BasicContainer=3084, LiquadContainer=3181, RefrigeratedContainer=3585, LiquadContainer=3939, HeacvyContainer=4266, RefrigeratedContainer=4378, HeacvyContainer=4896 
+Ship id=89, containers= , fuelofship=5030609.069243112, 
+Ship id=40, containers= , fuelofship=3199353.670560039 
+Portid=28, X=4.52, Y=49.25, containers=RefrigeratedContainer=321, BasicContainer=335, RefrigeratedContainer=1540, LiquadContainer=2474, LiquadContainer=2539, LiquadContainer=3571, HeacvyContainer=3773, LiquadContainer=4538 
+Ship id=242, containers= , fuelofship=8581797.546383487, 
+Ship id=82, containers= , fuelofship=3866805.9002945577, 
+Ship id=735, containers= , fuelofship=6284281.090157291, 
+Ship id=466, containers= , fuelofship=5116394.813779743, 
+Ship id=275, containers= , fuelofship=3041127.456399842 
+Portid=29, X=48.51, Y=66.59, containers=LiquadContainer=1524, LiquadContainer=2789, BasicContainer=3603, HeacvyContainer=4087, BasicContainer=4660  
+Portid=30, X=90.39, Y=69.87, containers=HeacvyContainer=763, LiquadContainer=794, RefrigeratedContainer=1531, LiquadContainer=1618, RefrigeratedContainer=2926, RefrigeratedContainer=3630, RefrigeratedContainer=3839, HeacvyContainer=4493  
+Portid=31, X=61.94, Y=7.21, containers=LiquadContainer=990, HeacvyContainer=1478, HeacvyContainer=1703, HeacvyContainer=2122, HeacvyContainer=2411, LiquadContainer=2669, HeacvyContainer=2710, HeacvyContainer=3065, BasicContainer=3077, LiquadContainer=3653, HeacvyContainer=3900, RefrigeratedContainer=4419, HeacvyContainer=4575, RefrigeratedContainer=4998 
+Ship id=292, containers= , fuelofship=4150529.491842576, 
+Ship id=97, containers= , fuelofship=3315267.134801259, 
+Ship id=840, containers= , fuelofship=3369543.313118072 
+Portid=32, X=94.28, Y=95.12, containers=LiquadContainer=1234, RefrigeratedContainer=1283, RefrigeratedContainer=1285, BasicContainer=1679, LiquadContainer=1831, HeacvyContainer=2325, RefrigeratedContainer=2801, LiquadContainer=2818, RefrigeratedContainer=3085, LiquadContainer=4118, HeacvyContainer=4228, HeacvyContainer=4443, RefrigeratedContainer=4704 
+Ship id=768, containers= , fuelofship=3956480.447002652, 
+Ship id=118, containers= , fuelofship=5563769.422024497 
+Portid=33, X=88.45, Y=95.04, containers=HeacvyContainer=695, LiquadContainer=1268, RefrigeratedContainer=2253, BasicContainer=2661, HeacvyContainer=2686, HeacvyContainer=2815, LiquadContainer=4254, LiquadContainer=4522, LiquadContainer=4727 
+Ship id=740, containers= , fuelofship=3906617.561227064, 
+Ship id=60, containers= , fuelofship=4838434.93186206 
+Portid=34, X=14.66, Y=16.79, containers=LiquadContainer=605, HeacvyContainer=1685, RefrigeratedContainer=2319, HeacvyContainer=2396, RefrigeratedContainer=2963, BasicContainer=4112 
+Ship id=317, containers= , fuelofship=4793378.69411793, 
+Ship id=42, containers= , fuelofship=5029620.997307563 
+Portid=35, X=8.75, Y=8.18, containers=RefrigeratedContainer=67, LiquadContainer=154, LiquadContainer=1406, LiquadContainer=1454, LiquadContainer=1782, RefrigeratedContainer=2025, LiquadContainer=2034, HeacvyContainer=3286, LiquadContainer=3899 
+Ship id=836, containers= , fuelofship=5036463.853020807, 
+Ship id=108, containers= , fuelofship=3786509.886984865, 
+Ship id=784, containers= , fuelofship=6588429.98443113, 
+Ship id=883, containers= , fuelofship=3987615.031801473, 
+Ship id=609, containers= , fuelofship=5725658.797590019 
+Portid=36, X=7.47, Y=68.4, containers=HeacvyContainer=543, RefrigeratedContainer=725, HeacvyContainer=1821, HeacvyContainer=2472, LiquadContainer=3030, HeacvyContainer=3909, HeacvyContainer=4305 
+Ship id=702, containers= , fuelofship=5536010.671966611 
+Portid=37, X=32.18, Y=99.46, containers=LiquadContainer=20, RefrigeratedContainer=75, LiquadContainer=853, HeacvyContainer=930, HeacvyContainer=1265, HeacvyContainer=2101, HeacvyContainer=2125, BasicContainer=2525, HeacvyContainer=2553, RefrigeratedContainer=2809, HeacvyContainer=3542, RefrigeratedContainer=3596, LiquadContainer=3778, LiquadContainer=4823, RefrigeratedContainer=4882 
+Ship id=967, containers= , fuelofship=5616963.21949269, 
+Ship id=437, containers= , fuelofship=3805582.567352929 
+Portid=38, X=38.9, Y=90.06, containers=RefrigeratedContainer=204, HeacvyContainer=271, BasicContainer=841, HeacvyContainer=1436, LiquadContainer=1442, HeacvyContainer=1711, LiquadContainer=2970, BasicContainer=3388, HeacvyContainer=3582, LiquadContainer=4601 
+Ship id=159, containers=LiquadContainer=3125 , fuelofship=6922425.049908273 
+Portid=39, X=72.69, Y=5.5, containers=HeacvyContainer=815, LiquadContainer=844, LiquadContainer=2170, LiquadContainer=2921, BasicContainer=3694, HeacvyContainer=3779, BasicContainer=4674 
+Ship id=471, containers= , fuelofship=4394182.245919663 
+Portid=40, X=61.36, Y=21.55, containers=HeacvyContainer=27, HeacvyContainer=163, RefrigeratedContainer=1753, RefrigeratedContainer=2358, BasicContainer=3578, RefrigeratedContainer=4103, LiquadContainer=4174, HeacvyContainer=4705 
+Ship id=629, containers= , fuelofship=4959230.522696431, 
+Ship id=891, containers= , fuelofship=1975969.366072412, 
+Ship id=46, containers= , fuelofship=7192107.893051398 
+Portid=41, X=51.86, Y=74.06, containers=BasicContainer=125, HeacvyContainer=464, RefrigeratedContainer=480, RefrigeratedContainer=589, RefrigeratedContainer=759, RefrigeratedContainer=775, HeacvyContainer=1894, HeacvyContainer=2484, HeacvyContainer=3254, LiquadContainer=3927, RefrigeratedContainer=4231, BasicContainer=4496 
+Ship id=441, containers= , fuelofship=7140030.273232411, 
+Ship id=900, containers= , fuelofship=3879076.2947696527 
+Portid=42, X=8.45, Y=20.16, containers=LiquadContainer=217, LiquadContainer=227, LiquadContainer=451, RefrigeratedContainer=828, BasicContainer=899, RefrigeratedContainer=1364, HeacvyContainer=1589, LiquadContainer=1902, LiquadContainer=2522, RefrigeratedContainer=2863, LiquadContainer=3314, HeacvyContainer=3652, HeacvyContainer=4107, LiquadContainer=4322, LiquadContainer=4396 
+Ship id=969, containers= , fuelofship=4150915.7333795205 
+Portid=43, X=95.46, Y=50.33, containers=RefrigeratedContainer=626, BasicContainer=1274, RefrigeratedContainer=2572, RefrigeratedContainer=2663, HeacvyContainer=2914, RefrigeratedContainer=3150, HeacvyContainer=3266, LiquadContainer=3465, LiquadContainer=3536, HeacvyContainer=3912, BasicContainer=4007, LiquadContainer=4070, HeacvyContainer=4351, LiquadContainer=4794 
+Ship id=1, containers= , fuelofship=3635465.0995511403, 
+Ship id=75, containers= , fuelofship=6572748.783735273 
+Portid=44, X=68.98, Y=50.25, containers=BasicContainer=562, LiquadContainer=1216, HeacvyContainer=1303, HeacvyContainer=1515, LiquadContainer=1880, HeacvyContainer=2240, HeacvyContainer=2352, LiquadContainer=2998, LiquadContainer=3277, HeacvyContainer=3993, HeacvyContainer=4692, RefrigeratedContainer=4707 
+Ship id=529, containers= , fuelofship=2271708.674111379, 
+Ship id=5, containers= , fuelofship=5964158.789966452, 
+Ship id=606, containers= , fuelofship=4740799.734588168, 
+Ship id=320, containers= , fuelofship=3406802.6483277953 
+Portid=45, X=69.1, Y=7.79, containers=LiquadContainer=46, HeacvyContainer=733, RefrigeratedContainer=934, RefrigeratedContainer=1665, HeacvyContainer=2994, LiquadContainer=3941, HeacvyContainer=3944, RefrigeratedContainer=3982, RefrigeratedContainer=4071 
+Ship id=261, containers= , fuelofship=6701494.512369571, 
+Ship id=790, containers= , fuelofship=7019890.789716274, 
+Ship id=771, containers= , fuelofship=9036730.267051378, 
+Ship id=163, containers= , fuelofship=5572009.894021982, 
+Ship id=321, containers= , fuelofship=4627436.295182183, 
+Ship id=490, containers= , fuelofship=4031987.486986227, 
+Ship id=618, containers= , fuelofship=2345152.2817729204 
+Portid=46, X=69.65, Y=29.32, containers=HeacvyContainer=2736, HeacvyContainer=2878, LiquadContainer=3261, RefrigeratedContainer=3976, RefrigeratedContainer=4625, RefrigeratedContainer=4943 
+Ship id=682, containers= , fuelofship=2422787.504249954 
+Portid=47, X=56.67, Y=28.98, containers=HeacvyContainer=286, RefrigeratedContainer=2412, RefrigeratedContainer=3067, RefrigeratedContainer=3791, RefrigeratedContainer=3902, LiquadContainer=4050, HeacvyContainer=4562 
+Ship id=98, containers= , fuelofship=8559764.389782395 
+Portid=48, X=85.44, Y=4.26, containers=HeacvyContainer=458, HeacvyContainer=461, HeacvyContainer=537, HeacvyContainer=710, HeacvyContainer=1727, HeacvyContainer=1812, HeacvyContainer=2137, LiquadContainer=2571, HeacvyContainer=2644, RefrigeratedContainer=2771, HeacvyContainer=3485, BasicContainer=3735, HeacvyContainer=4965 
+Ship id=721, containers= , fuelofship=6005687.138406932 
+Portid=49, X=47.43, Y=56.15, containers=RefrigeratedContainer=73, HeacvyContainer=367, LiquadContainer=684, RefrigeratedContainer=1549, RefrigeratedContainer=2413, RefrigeratedContainer=2951, HeacvyContainer=3128, HeacvyContainer=3329, LiquadContainer=3335, RefrigeratedContainer=3641 
+Ship id=946, containers= , fuelofship=7783195.5092106, 
+Ship id=375, containers= , fuelofship=2716456.2975682677 
+Portid=50, X=58.11, Y=23.14, containers=HeacvyContainer=226, HeacvyContainer=385, RefrigeratedContainer=2962, HeacvyContainer=3627, HeacvyContainer=3883, HeacvyContainer=4363, LiquadContainer=4474  
+Portid=51, X=28.34, Y=45.4, containers=LiquadContainer=486, HeacvyContainer=560, LiquadContainer=919, RefrigeratedContainer=1164, LiquadContainer=1788, HeacvyContainer=3916, RefrigeratedContainer=4246 
+Ship id=103, containers= , fuelofship=2873914.381714837, 
+Ship id=824, containers= , fuelofship=3481307.278151949, 
+Ship id=280, containers= , fuelofship=5404540.361586298 
+Portid=52, X=23.02, Y=86.94, containers=LiquadContainer=16, RefrigeratedContainer=63, RefrigeratedContainer=694, HeacvyContainer=1162, HeacvyContainer=1822, RefrigeratedContainer=2349, RefrigeratedContainer=2618, HeacvyContainer=2768, BasicContainer=4220, HeacvyContainer=4795 
+Ship id=394, containers= , fuelofship=3500366.119081073, 
+Ship id=536, containers= , fuelofship=7297987.745647122, 
+Ship id=573, containers= , fuelofship=2702961.777411223, 
+Ship id=52, containers= , fuelofship=1.0132709399145836E7, 
+Ship id=706, containers= , fuelofship=6315990.999374845 
+Portid=53, X=83.92, Y=97.22, containers=LiquadContainer=341, HeacvyContainer=1253, LiquadContainer=4904 
+Ship id=100, containers= , fuelofship=5230739.976567926, 
+Ship id=197, containers= , fuelofship=4275747.680408313 
+Portid=54, X=35.0, Y=95.36, containers=LiquadContainer=2006, HeacvyContainer=2597, BasicContainer=3063, RefrigeratedContainer=3413, HeacvyContainer=3911 
+Ship id=709, containers= , fuelofship=2723636.538378539, 
+Ship id=641, containers= , fuelofship=3254108.0619861777, 
+Ship id=336, containers= , fuelofship=5752024.222739478 
+Portid=55, X=40.4, Y=79.0, containers=HeacvyContainer=38, LiquadContainer=596, HeacvyContainer=803, RefrigeratedContainer=804, HeacvyContainer=1269, HeacvyContainer=1912, HeacvyContainer=3382, HeacvyContainer=3583, HeacvyContainer=3866, LiquadContainer=3928, HeacvyContainer=4096, LiquadContainer=4512, RefrigeratedContainer=4515 
+Ship id=506, containers= , fuelofship=2747023.6848080726, 
+Ship id=424, containers= , fuelofship=3614693.2663509245, 
+Ship id=94, containers= , fuelofship=4922127.971981273 
+Portid=56, X=29.13, Y=24.87, containers=RefrigeratedContainer=858, BasicContainer=863, HeacvyContainer=1143, BasicContainer=1246, RefrigeratedContainer=1553, BasicContainer=2129, BasicContainer=2379, HeacvyContainer=2860, HeacvyContainer=4277, LiquadContainer=4384, HeacvyContainer=4920 
+Ship id=612, containers= , fuelofship=5788272.409705687, 
+Ship id=453, containers= , fuelofship=3021431.2051506476 
+Portid=57, X=85.77, Y=10.89, containers=HeacvyContainer=40, RefrigeratedContainer=345, LiquadContainer=1655, LiquadContainer=2041, BasicContainer=3788  
+Portid=58, X=30.73, Y=87.28, containers=RefrigeratedContainer=212, BasicContainer=1006, RefrigeratedContainer=1439, HeacvyContainer=1633, LiquadContainer=2636, BasicContainer=4614, RefrigeratedContainer=4628, HeacvyContainer=4994 
+Ship id=828, containers= , fuelofship=5075917.1997591555, 
+Ship id=777, containers= , fuelofship=5504952.113210667 
+Portid=59, X=35.05, Y=66.2, containers=RefrigeratedContainer=285, RefrigeratedContainer=403, LiquadContainer=1438, RefrigeratedContainer=1676, HeacvyContainer=1687, HeacvyContainer=2410, BasicContainer=3244, RefrigeratedContainer=4292, HeacvyContainer=4425 
+Ship id=524, containers= , fuelofship=3456841.287465873, 
+Ship id=592, containers= , fuelofship=3614041.8019892243, 
+Ship id=510, containers= , fuelofship=3358380.909540886, 
+Ship id=366, containers= , fuelofship=5715164.231210114 
+Portid=60, X=96.37, Y=72.04, containers=RefrigeratedContainer=998, LiquadContainer=1037, RefrigeratedContainer=1895, RefrigeratedContainer=1957, LiquadContainer=2929, LiquadContainer=3061, RefrigeratedContainer=3284, BasicContainer=4318, HeacvyContainer=4342, HeacvyContainer=4596 
+Ship id=64, containers= , fuelofship=6090963.602154206 
+Portid=61, X=20.08, Y=73.62, containers=BasicContainer=225, BasicContainer=720, HeacvyContainer=1210, BasicContainer=1331, HeacvyContainer=2416, RefrigeratedContainer=3356, LiquadContainer=3572, HeacvyContainer=3671, RefrigeratedContainer=4901 
+Ship id=787, containers= , fuelofship=5897035.971497938, 
+Ship id=628, containers= , fuelofship=2592044.884040422 
+Portid=62, X=91.94, Y=11.71, containers=RefrigeratedContainer=219, HeacvyContainer=784, HeacvyContainer=873, HeacvyContainer=1467, RefrigeratedContainer=1607, BasicContainer=1807, HeacvyContainer=2697, LiquadContainer=3313, BasicContainer=3360, LiquadContainer=4665, HeacvyContainer=4829  
+Portid=63, X=94.78, Y=85.72, containers=BasicContainer=37, RefrigeratedContainer=609, BasicContainer=1272, HeacvyContainer=1545, LiquadContainer=1653, RefrigeratedContainer=2365, LiquadContainer=3035, LiquadContainer=3695, HeacvyContainer=3730, RefrigeratedContainer=3907, BasicContainer=4822, HeacvyContainer=4870 
+Ship id=117, containers= , fuelofship=4056082.1228028843 
+Portid=64, X=59.29, Y=4.81, containers=RefrigeratedContainer=99, LiquadContainer=490, HeacvyContainer=734, HeacvyContainer=1078, RefrigeratedContainer=1455, HeacvyContainer=1634, RefrigeratedContainer=1996, BasicContainer=2085, HeacvyContainer=2353, RefrigeratedContainer=2695, RefrigeratedContainer=3025, BasicContainer=3121, HeacvyContainer=3202, RefrigeratedContainer=3411, RefrigeratedContainer=3521, RefrigeratedContainer=3565, BasicContainer=4031, HeacvyContainer=4117 
+Ship id=910, containers= , fuelofship=3038056.0460759634 
+Portid=65, X=15.48, Y=7.93, containers=RefrigeratedContainer=1489, LiquadContainer=2132, LiquadContainer=2741, HeacvyContainer=2788, HeacvyContainer=2797, BasicContainer=3718, HeacvyContainer=3748, RefrigeratedContainer=4422, RefrigeratedContainer=4537, LiquadContainer=4659, HeacvyContainer=4935 
+Ship id=716, containers= , fuelofship=6219673.964256274, 
+Ship id=319, containers= , fuelofship=8232472.950074238 
+Portid=66, X=39.61, Y=98.77, containers=RefrigeratedContainer=266, HeacvyContainer=303, RefrigeratedContainer=591, HeacvyContainer=1039, LiquadContainer=1044, HeacvyContainer=1453, HeacvyContainer=1909, HeacvyContainer=3317, LiquadContainer=4518 
+Ship id=868, containers= , fuelofship=3959206.052522895, 
+Ship id=405, containers= , fuelofship=8865666.401051268 
+Portid=67, X=79.18, Y=21.76, containers=RefrigeratedContainer=1242, LiquadContainer=2262, LiquadContainer=2892, RefrigeratedContainer=3368, RefrigeratedContainer=3644, BasicContainer=3874, LiquadContainer=4486, RefrigeratedContainer=4592 
+Ship id=577, containers= , fuelofship=6471621.290038699, 
+Ship id=177, containers= , fuelofship=4021653.231607521, 
+Ship id=887, containers= , fuelofship=3301630.2811644007 
+Portid=68, X=22.42, Y=15.07, containers=HeacvyContainer=428, LiquadContainer=946, HeacvyContainer=3044, RefrigeratedContainer=3987, RefrigeratedContainer=3990, HeacvyContainer=4176, RefrigeratedContainer=4273, HeacvyContainer=4477 
+Ship id=813, containers= , fuelofship=3045570.793505414, 
+Ship id=667, containers= , fuelofship=6205043.92357068, 
+Ship id=90, containers= , fuelofship=4460398.812767332, 
+Ship id=434, containers= , fuelofship=4839160.135341503 
+Portid=69, X=90.99, Y=46.08, containers=LiquadContainer=698, HeacvyContainer=793, LiquadContainer=847, RefrigeratedContainer=1205, RefrigeratedContainer=1617, BasicContainer=1872, LiquadContainer=1986, HeacvyContainer=4670  
+Portid=70, X=16.04, Y=22.05, containers=RefrigeratedContainer=1420, HeacvyContainer=1832, LiquadContainer=1881, LiquadContainer=2050, RefrigeratedContainer=2335, RefrigeratedContainer=2427, LiquadContainer=3165, HeacvyContainer=3285, BasicContainer=4183, RefrigeratedContainer=4337 
+Ship id=130, containers= , fuelofship=3168438.215956709, 
+Ship id=79, containers= , fuelofship=6419610.551384433 
+Portid=71, X=87.89, Y=53.67, containers=RefrigeratedContainer=574, HeacvyContainer=790, RefrigeratedContainer=836, HeacvyContainer=1508, LiquadContainer=1774, LiquadContainer=2464, LiquadContainer=2917, HeacvyContainer=3149, LiquadContainer=3414, HeacvyContainer=3723, HeacvyContainer=4187 
+Ship id=185, containers= , fuelofship=7208050.603377288, 
+Ship id=102, containers= , fuelofship=3562814.527290841, 
+Ship id=671, containers= , fuelofship=5721152.26591742 
+Portid=72, X=27.45, Y=40.53, containers=HeacvyContainer=1011, HeacvyContainer=2376, HeacvyContainer=2496, BasicContainer=3910, LiquadContainer=4567, HeacvyContainer=4855 
+Ship id=272, containers= , fuelofship=5749926.525472134, 
+Ship id=865, containers= , fuelofship=2526921.969335011, 
+Ship id=270, containers= , fuelofship=2587198.5560071263, 
+Ship id=287, containers= , fuelofship=3192041.812642554 
+Portid=73, X=48.57, Y=18.24, containers=RefrigeratedContainer=837, HeacvyContainer=867, RefrigeratedContainer=1521, HeacvyContainer=1692, RefrigeratedContainer=1931, HeacvyContainer=2685, LiquadContainer=2759, RefrigeratedContainer=3970, RefrigeratedContainer=4153, BasicContainer=4213, RefrigeratedContainer=4793 
+Ship id=251, containers= , fuelofship=4160100.4390219324 
+Portid=74, X=49.23, Y=6.3, containers=RefrigeratedContainer=283, HeacvyContainer=717, RefrigeratedContainer=776, RefrigeratedContainer=1126, RefrigeratedContainer=1275, HeacvyContainer=1401, HeacvyContainer=1793, LiquadContainer=2093, LiquadContainer=2250, HeacvyContainer=2587, RefrigeratedContainer=2765, HeacvyContainer=3193, HeacvyContainer=3269, RefrigeratedContainer=3305, BasicContainer=3719, BasicContainer=4233, RefrigeratedContainer=4453, BasicContainer=4664, HeacvyContainer=4809 
+Ship id=676, containers= , fuelofship=4473274.138862936, 
+Ship id=153, containers= , fuelofship=2601264.3701395253, 
+Ship id=461, containers= , fuelofship=1.1404933412882755E7 
+Portid=75, X=56.1, Y=88.41, containers=HeacvyContainer=14, RefrigeratedContainer=55, BasicContainer=936, RefrigeratedContainer=1053, LiquadContainer=1523, RefrigeratedContainer=1623, LiquadContainer=2151, RefrigeratedContainer=3047, LiquadContainer=3597, RefrigeratedContainer=3955, LiquadContainer=4101 
+Ship id=977, containers= , fuelofship=6482512.810373769 
+Portid=76, X=92.27, Y=66.13, containers=RefrigeratedContainer=280, HeacvyContainer=768, HeacvyContainer=913, HeacvyContainer=1796, LiquadContainer=1891, HeacvyContainer=2301, HeacvyContainer=2887, LiquadContainer=3010, HeacvyContainer=3227, HeacvyContainer=3950, HeacvyContainer=4501 
+Ship id=489, containers= , fuelofship=5450963.667138928, 
+Ship id=951, containers= , fuelofship=4887002.096924116, 
+Ship id=264, containers= , fuelofship=4113597.529920404, 
+Ship id=943, containers= , fuelofship=4951880.803928742 
+Portid=77, X=93.32, Y=92.36, containers=LiquadContainer=604, HeacvyContainer=1131, HeacvyContainer=1230, RefrigeratedContainer=1289, BasicContainer=1823, LiquadContainer=2091, RefrigeratedContainer=3237, HeacvyContainer=3782, HeacvyContainer=3793, LiquadContainer=3807, LiquadContainer=4043, LiquadContainer=4126, BasicContainer=4655, LiquadContainer=4988 
+Ship id=703, containers= , fuelofship=3369934.8776397444 
+Portid=78, X=62.86, Y=65.9, containers=LiquadContainer=126, LiquadContainer=427, HeacvyContainer=536, HeacvyContainer=1604, RefrigeratedContainer=1624, LiquadContainer=2057, LiquadContainer=2166, HeacvyContainer=2585, LiquadContainer=3011, RefrigeratedContainer=3133, HeacvyContainer=4081  
+Portid=79, X=18.46, Y=29.68, containers=RefrigeratedContainer=499, LiquadContainer=2111, HeacvyContainer=3420, LiquadContainer=3655, LiquadContainer=4448 
+Ship id=19, containers= , fuelofship=7820208.905134122 
+Portid=80, X=91.39, Y=23.66, containers=RefrigeratedContainer=1327, RefrigeratedContainer=1473, HeacvyContainer=1950, LiquadContainer=2321, LiquadContainer=2565, LiquadContainer=2857, BasicContainer=4079, HeacvyContainer=4311, HeacvyContainer=4947 
+Ship id=69, containers= , fuelofship=4272639.731520064, 
+Ship id=517, containers= , fuelofship=2759553.651089228, 
+Ship id=817, containers= , fuelofship=6552584.0594693925, 
+Ship id=882, containers= , fuelofship=5818280.868981015 
+Portid=81, X=95.35, Y=85.72, containers=LiquadContainer=1783, HeacvyContainer=1864, RefrigeratedContainer=2033, HeacvyContainer=2227, LiquadContainer=2827, LiquadContainer=2979, HeacvyContainer=3042, HeacvyContainer=3381, LiquadContainer=4497 
+Ship id=66, containers= , fuelofship=6478447.438830626 
+Portid=82, X=75.96, Y=49.64, containers=LiquadContainer=182, RefrigeratedContainer=247, HeacvyContainer=840, BasicContainer=877, BasicContainer=1182, HeacvyContainer=1258, LiquadContainer=1557, HeacvyContainer=3854, HeacvyContainer=3961, RefrigeratedContainer=4036, HeacvyContainer=4121, HeacvyContainer=4925 
+Ship id=430, containers= , fuelofship=3907909.558969711, 
+Ship id=120, containers= , fuelofship=6032846.730317138 
+Portid=83, X=53.29, Y=96.19, containers=HeacvyContainer=132, HeacvyContainer=167, BasicContainer=254, LiquadContainer=651, LiquadContainer=908, HeacvyContainer=1070, HeacvyContainer=1755, LiquadContainer=2048, HeacvyContainer=2856, LiquadContainer=3476, HeacvyContainer=3547, RefrigeratedContainer=4491, HeacvyContainer=4650, HeacvyContainer=4970  
+Portid=84, X=83.22, Y=68.47, containers=HeacvyContainer=270, BasicContainer=342, HeacvyContainer=354, HeacvyContainer=387, HeacvyContainer=1080, LiquadContainer=1749, BasicContainer=2318, LiquadContainer=2808, RefrigeratedContainer=2873, LiquadContainer=3029, RefrigeratedContainer=3180, RefrigeratedContainer=3377, RefrigeratedContainer=4298, RefrigeratedContainer=4936 
+Ship id=557, containers= , fuelofship=4776858.565782375, 
+Ship id=182, containers= , fuelofship=4538784.266879973 
+Portid=85, X=59.16, Y=39.28, containers=HeacvyContainer=357, RefrigeratedContainer=774, RefrigeratedContainer=1159, RefrigeratedContainer=1211, LiquadContainer=1500, LiquadContainer=1551, HeacvyContainer=1874, RefrigeratedContainer=2421, LiquadContainer=2799, HeacvyContainer=2836, HeacvyContainer=3255, LiquadContainer=3455, HeacvyContainer=3795, LiquadContainer=4444, RefrigeratedContainer=4495, LiquadContainer=4862 
+Ship id=50, containers= , fuelofship=7557471.904925346, 
+Ship id=357, containers= , fuelofship=6660881.36638044 
+Portid=86, X=95.29, Y=90.33, containers=RefrigeratedContainer=61, HeacvyContainer=915, HeacvyContainer=1020, BasicContainer=1568, BasicContainer=2418, RefrigeratedContainer=2424, HeacvyContainer=2460, RefrigeratedContainer=2790, HeacvyContainer=2835, LiquadContainer=3279, HeacvyContainer=3914, RefrigeratedContainer=4085, RefrigeratedContainer=4346, RefrigeratedContainer=4542, HeacvyContainer=4700, HeacvyContainer=4801  
+Portid=87, X=82.36, Y=55.82, containers=HeacvyContainer=32, LiquadContainer=172, HeacvyContainer=822, RefrigeratedContainer=4911 
+Ship id=462, containers= , fuelofship=3968327.5536843305 
+Portid=88, X=8.73, Y=67.96, containers=HeacvyContainer=119, RefrigeratedContainer=857, HeacvyContainer=864, RefrigeratedContainer=974, HeacvyContainer=1174, HeacvyContainer=1206, BasicContainer=1794, RefrigeratedContainer=4455 
+Ship id=105, containers= , fuelofship=3980194.413629414, 
+Ship id=854, containers= , fuelofship=1538210.7947062373 
+Portid=89, X=25.33, Y=1.16, containers=BasicContainer=265, HeacvyContainer=478, LiquadContainer=1145, RefrigeratedContainer=1317, LiquadContainer=1445, HeacvyContainer=2095, BasicContainer=2242, BasicContainer=2826, BasicContainer=3023, LiquadContainer=3332, RefrigeratedContainer=4411 
+Ship id=208, containers= , fuelofship=4735123.986312183, 
+Ship id=556, containers= , fuelofship=4246113.601605052, 
+Ship id=294, containers= , fuelofship=6564977.3267028155 
+Portid=90, X=49.84, Y=28.12, containers=HeacvyContainer=104, RefrigeratedContainer=237, HeacvyContainer=1113, RefrigeratedContainer=1266, HeacvyContainer=3419, HeacvyContainer=3897 
+Ship id=137, containers= , fuelofship=2978315.9525086526, 
+Ship id=849, containers= , fuelofship=5610300.898028957 
+Portid=91, X=84.65, Y=70.97, containers=RefrigeratedContainer=786, HeacvyContainer=1293, LiquadContainer=1340, LiquadContainer=2420, HeacvyContainer=3484 
+Ship id=210, containers= , fuelofship=6060743.905378027 
+Portid=92, X=69.09, Y=51.49, containers=HeacvyContainer=59, RefrigeratedContainer=394, HeacvyContainer=783, RefrigeratedContainer=2709, RefrigeratedContainer=2879, LiquadContainer=3170, LiquadContainer=3416, LiquadContainer=3463 
+Ship id=705, containers= , fuelofship=3776351.189204158, 
+Ship id=794, containers= , fuelofship=3438185.457243949 
+Portid=93, X=84.64, Y=30.98, containers=HeacvyContainer=870, BasicContainer=2648, LiquadContainer=2773, HeacvyContainer=4452, LiquadContainer=4485 
+Ship id=123, containers= , fuelofship=5809397.613394888 
+Portid=94, X=83.4, Y=66.92, containers=RefrigeratedContainer=343, HeacvyContainer=516, RefrigeratedContainer=2933, LiquadContainer=3612, HeacvyContainer=3656, RefrigeratedContainer=3876, BasicContainer=4354, LiquadContainer=4975 
+Ship id=578, containers= , fuelofship=6506221.577463877, 
+Ship id=184, containers= , fuelofship=5680548.511633427, 
+Ship id=179, containers= , fuelofship=4313146.0950848665, 
+Ship id=413, containers= , fuelofship=7784484.868651643 
+Portid=95, X=99.0, Y=96.99, containers=HeacvyContainer=181, LiquadContainer=250, HeacvyContainer=987, BasicContainer=1326, RefrigeratedContainer=2162, RefrigeratedContainer=2268, LiquadContainer=2527, HeacvyContainer=2657, HeacvyContainer=2832, BasicContainer=2939 
+Ship id=389, containers= , fuelofship=3249916.661678004, 
+Ship id=239, containers= , fuelofship=7872408.240216181, 
+Ship id=498, containers= , fuelofship=7087081.358926322 
+Portid=96, X=3.58, Y=67.78, containers=LiquadContainer=90, HeacvyContainer=471, BasicContainer=541, HeacvyContainer=637, BasicContainer=664, HeacvyContainer=1102, RefrigeratedContainer=1254, LiquadContainer=1271, HeacvyContainer=3610, HeacvyContainer=3662 
+Ship id=407, containers= , fuelofship=4946759.907109659, 
+Ship id=470, containers= , fuelofship=2481697.6114763706 
+Portid=97, X=29.51, Y=26.63, containers=LiquadContainer=368, RefrigeratedContainer=379, LiquadContainer=1086, RefrigeratedContainer=2295, RefrigeratedContainer=2902, LiquadContainer=2925, LiquadContainer=3616 
+Ship id=925, containers= , fuelofship=5433798.190814027, 
+Ship id=355, containers= , fuelofship=3892180.5060349805 
+Portid=98, X=79.24, Y=92.91, containers=LiquadContainer=91, HeacvyContainer=117, HeacvyContainer=1207, LiquadContainer=1510, HeacvyContainer=2388, HeacvyContainer=2509, HeacvyContainer=2784, LiquadContainer=2828, HeacvyContainer=3290, RefrigeratedContainer=3780, HeacvyContainer=4221, BasicContainer=4315, BasicContainer=4668, HeacvyContainer=4798 
+Ship id=594, containers= , fuelofship=2267959.3670124575, 
+Ship id=206, containers= , fuelofship=1859529.1621217676, 
+Ship id=751, containers= , fuelofship=2344491.6833936847 
+Portid=99, X=98.37, Y=74.68, containers=HeacvyContainer=1592, LiquadContainer=1743, BasicContainer=1955, HeacvyContainer=2202, HeacvyContainer=2322, LiquadContainer=2915, HeacvyContainer=4643 
+Ship id=549, containers= , fuelofship=6534252.894981129 
+Portid=100, X=91.67, Y=49.8, containers=BasicContainer=1146, HeacvyContainer=1584, LiquadContainer=1645, HeacvyContainer=1848, HeacvyContainer=2398, HeacvyContainer=2684, LiquadContainer=3353, RefrigeratedContainer=3456, RefrigeratedContainer=3611, RefrigeratedContainer=4446, RefrigeratedContainer=4457, LiquadContainer=4569, LiquadContainer=4923 
+Ship id=0, containers= , fuelofship=6553991.120016354, 
+Ship id=167, containers= , fuelofship=4961584.166231833, 
+Ship id=710, containers= , fuelofship=5092395.863326662 
+Portid=101, X=43.55, Y=94.57, containers=RefrigeratedContainer=374, RefrigeratedContainer=680, RefrigeratedContainer=745, LiquadContainer=1942, LiquadContainer=2526, LiquadContainer=3318, BasicContainer=3682, LiquadContainer=4748, HeacvyContainer=4761 
+Ship id=225, containers= , fuelofship=4769824.622930969, 
+Ship id=207, containers= , fuelofship=1136452.8819283536 
+Portid=102, X=64.88, Y=97.28, containers=LiquadContainer=17, LiquadContainer=190, LiquadContainer=1385, HeacvyContainer=1535, HeacvyContainer=1559, RefrigeratedContainer=1650, HeacvyContainer=1744, BasicContainer=2180, LiquadContainer=2333, HeacvyContainer=2662, HeacvyContainer=2767, BasicContainer=3917, HeacvyContainer=3924, HeacvyContainer=4015, RefrigeratedContainer=4119  
+Portid=103, X=81.42, Y=61.51, containers=RefrigeratedContainer=456, RefrigeratedContainer=2087, RefrigeratedContainer=3344, HeacvyContainer=3746, LiquadContainer=3771, HeacvyContainer=3957, HeacvyContainer=4634  
+Portid=104, X=81.59, Y=99.94, containers=LiquadContainer=69, RefrigeratedContainer=171, RefrigeratedContainer=705, LiquadContainer=1801, HeacvyContainer=2089, RefrigeratedContainer=2114, BasicContainer=2175, HeacvyContainer=2330, BasicContainer=2337, RefrigeratedContainer=3208, HeacvyContainer=3437, HeacvyContainer=3659 
+Ship id=377, containers= , fuelofship=5031274.076927584, 
+Ship id=852, containers= , fuelofship=6848155.235397489, 
+Ship id=401, containers= , fuelofship=4985557.947460941, 
+Ship id=778, containers= , fuelofship=6673434.162537735, 
+Ship id=584, containers= , fuelofship=4842231.315813105, 
+Ship id=611, containers= , fuelofship=3032987.234262545 
+Portid=105, X=8.76, Y=12.0, containers=HeacvyContainer=98, LiquadContainer=386, BasicContainer=643, BasicContainer=1038, RefrigeratedContainer=1532, RefrigeratedContainer=2664, HeacvyContainer=2864, LiquadContainer=3702, HeacvyContainer=4316  
+Portid=106, X=11.72, Y=91.99, containers=HeacvyContainer=436, HeacvyContainer=622, HeacvyContainer=884, HeacvyContainer=996, HeacvyContainer=1627, RefrigeratedContainer=1919, RefrigeratedContainer=1921, RefrigeratedContainer=2312, HeacvyContainer=2840, HeacvyContainer=3621, LiquadContainer=3658, HeacvyContainer=3708, HeacvyContainer=3960, RefrigeratedContainer=3981, HeacvyContainer=4723, HeacvyContainer=4872 
+Ship id=386, containers= , fuelofship=7222343.909642376, 
+Ship id=211, containers= , fuelofship=7458846.965829439, 
+Ship id=436, containers= , fuelofship=3768548.5404390534 
+Portid=107, X=21.47, Y=53.2, containers=LiquadContainer=769, LiquadContainer=1066, LiquadContainer=1079, HeacvyContainer=1437, HeacvyContainer=1573, LiquadContainer=1983, RefrigeratedContainer=3122, RefrigeratedContainer=3134, BasicContainer=3271, HeacvyContainer=3334, HeacvyContainer=3893, HeacvyContainer=4599, RefrigeratedContainer=4600 
+Ship id=672, containers= , fuelofship=4526477.851258653 
+Portid=108, X=15.47, Y=77.95, containers=BasicContainer=94, LiquadContainer=545, LiquadContainer=563, RefrigeratedContainer=661, HeacvyContainer=826, RefrigeratedContainer=1165, RefrigeratedContainer=1695, LiquadContainer=1855, RefrigeratedContainer=2563, HeacvyContainer=2757, HeacvyContainer=2853, RefrigeratedContainer=3753, HeacvyContainer=3755, LiquadContainer=4285, HeacvyContainer=4995 
+Ship id=133, containers= , fuelofship=5577837.650303622, 
+Ship id=793, containers= , fuelofship=2857915.694258783, 
+Ship id=358, containers= , fuelofship=3291161.2800396252, 
+Ship id=752, containers= , fuelofship=6184714.984745891 
+Portid=109, X=13.39, Y=9.61, containers=HeacvyContainer=575, HeacvyContainer=1465, HeacvyContainer=1818, HeacvyContainer=2940, LiquadContainer=3462, BasicContainer=4209, RefrigeratedContainer=4413, LiquadContainer=4482, HeacvyContainer=4845  
+Portid=110, X=42.49, Y=27.57, containers=LiquadContainer=136, RefrigeratedContainer=505, HeacvyContainer=771, HeacvyContainer=1282, HeacvyContainer=2668, RefrigeratedContainer=2905, LiquadContainer=3620, HeacvyContainer=3850, RefrigeratedContainer=4329, LiquadContainer=4892 
+Ship id=604, containers= , fuelofship=7365603.016497638, 
+Ship id=935, containers= , fuelofship=2771435.559711089 
+Portid=111, X=52.53, Y=24.91, containers=HeacvyContainer=199, LiquadContainer=578, HeacvyContainer=1956, BasicContainer=2273, RefrigeratedContainer=2348, LiquadContainer=2727, LiquadContainer=3026, RefrigeratedContainer=3827, RefrigeratedContainer=4010, HeacvyContainer=4062, HeacvyContainer=4808  
+Portid=112, X=9.87, Y=45.89, containers=HeacvyContainer=30, HeacvyContainer=196, HeacvyContainer=538, BasicContainer=834, RefrigeratedContainer=1224, RefrigeratedContainer=1458, LiquadContainer=1651, RefrigeratedContainer=2008, LiquadContainer=2037, HeacvyContainer=2065, RefrigeratedContainer=3552, HeacvyContainer=3651, RefrigeratedContainer=3799, HeacvyContainer=3815, LiquadContainer=3861, HeacvyContainer=4775 
+Ship id=511, containers= , fuelofship=4552709.161480476, 
+Ship id=545, containers= , fuelofship=6024787.618824227, 
+Ship id=781, containers= , fuelofship=4493497.97180251 
+Portid=113, X=49.42, Y=85.0, containers=BasicContainer=392, HeacvyContainer=571, HeacvyContainer=1042, LiquadContainer=1477, BasicContainer=1590, HeacvyContainer=1889, RefrigeratedContainer=2177, LiquadContainer=2543, HeacvyContainer=2640, HeacvyContainer=4066, HeacvyContainer=4921, LiquadContainer=4942, HeacvyContainer=4962, LiquadContainer=4980 
+Ship id=91, containers= , fuelofship=4236993.716557407, 
+Ship id=661, containers= , fuelofship=4973028.262286797, 
+Ship id=435, containers= , fuelofship=3431210.9362873826, 
+Ship id=289, containers= , fuelofship=3572080.8454519594 
+Portid=114, X=89.39, Y=90.27, containers=LiquadContainer=64, HeacvyContainer=1000, HeacvyContainer=1547, LiquadContainer=1708, HeacvyContainer=1802, LiquadContainer=2315, HeacvyContainer=2567, HeacvyContainer=2646, HeacvyContainer=2888, LiquadContainer=3099, HeacvyContainer=3523, LiquadContainer=3670, HeacvyContainer=4054, BasicContainer=4190, HeacvyContainer=4511, BasicContainer=4548  
+Portid=115, X=44.24, Y=34.8, containers=RefrigeratedContainer=333, LiquadContainer=4222, LiquadContainer=4372 
+Ship id=344, containers= , fuelofship=6294334.399472487, 
+Ship id=479, containers=HeacvyContainer=2546 , fuelofship=4125832.628599852, 
+Ship id=156, containers= , fuelofship=7411867.8177304445 
+Portid=116, X=98.65, Y=94.93, containers=HeacvyContainer=419, HeacvyContainer=916, HeacvyContainer=1646, HeacvyContainer=1689, HeacvyContainer=2023, HeacvyContainer=2191, HeacvyContainer=2235, LiquadContainer=2823, HeacvyContainer=3386, HeacvyContainer=4033, HeacvyContainer=4386, RefrigeratedContainer=4737, RefrigeratedContainer=4810, BasicContainer=4879  
+Portid=117, X=46.34, Y=36.44, containers=HeacvyContainer=304, HeacvyContainer=1858, RefrigeratedContainer=2196, HeacvyContainer=2372, HeacvyContainer=2969, LiquadContainer=3116, RefrigeratedContainer=4757, RefrigeratedContainer=4765 
+Ship id=338, containers= , fuelofship=3552009.741113404, 
+Ship id=382, containers= , fuelofship=4318414.303185916, 
+Ship id=17, containers= , fuelofship=5600505.272522548 
+Portid=118, X=61.91, Y=27.34, containers=HeacvyContainer=206, HeacvyContainer=296, HeacvyContainer=566, HeacvyContainer=1241, HeacvyContainer=1562, RefrigeratedContainer=2072, HeacvyContainer=2503, LiquadContainer=4856  
+Portid=119, X=12.92, Y=57.12, containers=HeacvyContainer=671, LiquadContainer=1660, RefrigeratedContainer=1746, HeacvyContainer=1798, RefrigeratedContainer=1901, RefrigeratedContainer=2258, LiquadContainer=3573, BasicContainer=3706, HeacvyContainer=4573, HeacvyContainer=4609, LiquadContainer=4760 
+Ship id=571, containers= , fuelofship=3058291.8183169733, 
+Ship id=433, containers= , fuelofship=2751423.0857777297, 
+Ship id=378, containers= , fuelofship=7205826.499414671 
+Portid=120, X=73.63, Y=57.04, containers=HeacvyContainer=855, LiquadContainer=2002, HeacvyContainer=2331, HeacvyContainer=2608, HeacvyContainer=2706, BasicContainer=3289, RefrigeratedContainer=4111, LiquadContainer=4123, RefrigeratedContainer=4520, RefrigeratedContainer=4759, HeacvyContainer=4784, RefrigeratedContainer=4854 
+Ship id=896, containers= , fuelofship=3962961.015626445, 
+Ship id=271, containers= , fuelofship=4120117.893325507 
+Portid=121, X=93.12, Y=65.41, containers=RefrigeratedContainer=633, HeacvyContainer=988, LiquadContainer=1031, BasicContainer=1313, LiquadContainer=1571, LiquadContainer=1702, HeacvyContainer=1721, LiquadContainer=3348, LiquadContainer=3390, LiquadContainer=4109, BasicContainer=4502, LiquadContainer=4790 
+Ship id=350, containers= , fuelofship=4324279.364558156, 
+Ship id=192, containers= , fuelofship=2571179.1835918883 
+Portid=122, X=10.57, Y=75.35, containers=RefrigeratedContainer=116, LiquadContainer=878, LiquadContainer=1119, HeacvyContainer=1189, HeacvyContainer=1495, LiquadContainer=2433, HeacvyContainer=2436, HeacvyContainer=2975, HeacvyContainer=2978, RefrigeratedContainer=4133, HeacvyContainer=4916 
+Ship id=596, containers= , fuelofship=1757442.9305290221, 
+Ship id=842, containers= , fuelofship=6236616.226658745 
+Portid=123, X=95.2, Y=40.61, containers=HeacvyContainer=211, RefrigeratedContainer=360, HeacvyContainer=860, HeacvyContainer=1093, LiquadContainer=1276, RefrigeratedContainer=1764, RefrigeratedContainer=1779, LiquadContainer=1825, HeacvyContainer=2187, HeacvyContainer=2568, LiquadContainer=2776, HeacvyContainer=3036, HeacvyContainer=3098, LiquadContainer=3963, RefrigeratedContainer=4984  
+Portid=124, X=25.55, Y=51.78, containers=LiquadContainer=1176, LiquadContainer=1998, HeacvyContainer=3002, RefrigeratedContainer=3031, LiquadContainer=3137, RefrigeratedContainer=3403, HeacvyContainer=4021, HeacvyContainer=4094, BasicContainer=4505, LiquadContainer=4615 
+Ship id=21, containers= , fuelofship=4911971.553106002, 
+Ship id=881, containers= , fuelofship=4951523.704692469, 
+Ship id=28, containers= , fuelofship=5304140.246614759 
+Portid=125, X=6.62, Y=61.72, containers=HeacvyContainer=207, BasicContainer=682, HeacvyContainer=923, BasicContainer=1482, HeacvyContainer=2536, HeacvyContainer=3355, BasicContainer=3836, BasicContainer=3918, RefrigeratedContainer=4100, LiquadContainer=4517, HeacvyContainer=4789 
+Ship id=273, containers= , fuelofship=5143244.650198218 
+Portid=126, X=57.3, Y=50.82, containers=LiquadContainer=298, RefrigeratedContainer=391, LiquadContainer=642, HeacvyContainer=1354, HeacvyContainer=1842, BasicContainer=3299, RefrigeratedContainer=3956, HeacvyContainer=4161, HeacvyContainer=4563, HeacvyContainer=4930 
+Ship id=380, containers= , fuelofship=4514200.858537992 
+Portid=127, X=91.6, Y=56.52, containers=HeacvyContainer=246, RefrigeratedContainer=827, RefrigeratedContainer=982, HeacvyContainer=1252, HeacvyContainer=1350, RefrigeratedContainer=2163, HeacvyContainer=2336, RefrigeratedContainer=2807, RefrigeratedContainer=3168, RefrigeratedContainer=3392, HeacvyContainer=4974 
+Ship id=941, containers= , fuelofship=4880936.245408789, 
+Ship id=139, containers= , fuelofship=4735851.918864949 
+Portid=128, X=1.83, Y=79.05, containers=RefrigeratedContainer=292, LiquadContainer=713, BasicContainer=1629, LiquadContainer=1659, BasicContainer=2171, HeacvyContainer=2920, HeacvyContainer=3508, RefrigeratedContainer=4237, HeacvyContainer=4417, HeacvyContainer=4428, HeacvyContainer=4479 
+Ship id=258, containers= , fuelofship=7253410.31802655, 
+Ship id=376, containers= , fuelofship=6789709.571819313 
+Portid=129, X=60.2, Y=85.53, containers=LiquadContainer=135, BasicContainer=1054, HeacvyContainer=1947, HeacvyContainer=1979, HeacvyContainer=2067, RefrigeratedContainer=3840, LiquadContainer=4579 
+Ship id=776, containers= , fuelofship=5582670.532556659, 
+Ship id=36, containers= , fuelofship=5318765.132915177, 
+Ship id=359, containers= , fuelofship=2745862.962222893 
+Portid=130, X=26.23, Y=45.71, containers=BasicContainer=107, HeacvyContainer=218, HeacvyContainer=383, RefrigeratedContainer=1518, HeacvyContainer=2131, LiquadContainer=2364, HeacvyContainer=2504, RefrigeratedContainer=2614, LiquadContainer=4249, LiquadContainer=4620 
+Ship id=364, containers= , fuelofship=6826676.947958958 
+Portid=131, X=51.86, Y=60.17, containers=BasicContainer=294, LiquadContainer=1045, LiquadContainer=1083, HeacvyContainer=1487, BasicContainer=1964, BasicContainer=2040, BasicContainer=2284, HeacvyContainer=4734, HeacvyContainer=4951 
+Ship id=445, containers= , fuelofship=6759156.807447294, 
+Ship id=61, containers= , fuelofship=4447505.343637761, 
+Ship id=24, containers= , fuelofship=4678077.086420478 
+Portid=132, X=86.15, Y=52.32, containers=LiquadContainer=920, RefrigeratedContainer=1452, RefrigeratedContainer=1469, HeacvyContainer=2047, LiquadContainer=2711, BasicContainer=3265, HeacvyContainer=3501, HeacvyContainer=4184, RefrigeratedContainer=4431, HeacvyContainer=4490, LiquadContainer=4516, HeacvyContainer=4568, RefrigeratedContainer=4582 
+Ship id=869, containers= , fuelofship=3437431.01064584, 
+Ship id=981, containers= , fuelofship=4539745.673325295, 
+Ship id=747, containers= , fuelofship=875332.4365267218 
+Portid=133, X=41.01, Y=58.75, containers=BasicContainer=362, RefrigeratedContainer=1277, BasicContainer=1803, LiquadContainer=3316, HeacvyContainer=4313, RefrigeratedContainer=4996 
+Ship id=324, containers= , fuelofship=5946576.576130861, 
+Ship id=724, containers= , fuelofship=5948483.8758639395 
+Portid=134, X=75.83, Y=48.76, containers=HeacvyContainer=129, HeacvyContainer=648, LiquadContainer=832, LiquadContainer=991, BasicContainer=1214, BasicContainer=1930, HeacvyContainer=2073, LiquadContainer=2186, BasicContainer=2486, HeacvyContainer=2744, RefrigeratedContainer=3009, RefrigeratedContainer=3222, RefrigeratedContainer=3320, HeacvyContainer=3615, LiquadContainer=3750, HeacvyContainer=4065, RefrigeratedContainer=4355, HeacvyContainer=4546, LiquadContainer=4807  
+Portid=135, X=44.06, Y=71.74, containers=HeacvyContainer=1107, HeacvyContainer=1194, HeacvyContainer=1220, HeacvyContainer=1308, LiquadContainer=3240, LiquadContainer=3934, RefrigeratedContainer=4024, RefrigeratedContainer=4458, BasicContainer=4610 
+Ship id=149, containers= , fuelofship=7983157.903791119, 
+Ship id=886, containers= , fuelofship=4205153.6550935395, 
+Ship id=111, containers= , fuelofship=3153710.8449017033 
+Portid=136, X=7.47, Y=41.07, containers=LiquadContainer=531, LiquadContainer=1088, HeacvyContainer=2098, LiquadContainer=2189, RefrigeratedContainer=2778, RefrigeratedContainer=3033, RefrigeratedContainer=3478, RefrigeratedContainer=3529, HeacvyContainer=3932, HeacvyContainer=4481  
+Portid=137, X=21.72, Y=76.27, containers=RefrigeratedContainer=2039, RefrigeratedContainer=2631, LiquadContainer=3005, HeacvyContainer=3421, RefrigeratedContainer=4268, RefrigeratedContainer=4388, LiquadContainer=4838 
+Ship id=755, containers= , fuelofship=5085308.250503585 
+Portid=138, X=12.34, Y=91.48, containers=BasicContainer=1405, HeacvyContainer=1816, LiquadContainer=2193, HeacvyContainer=3079, LiquadContainer=3218, HeacvyContainer=3614, HeacvyContainer=3769, HeacvyContainer=3814 
+Ship id=403, containers= , fuelofship=7539021.962471113 
+Portid=139, X=24.14, Y=33.58, containers=RefrigeratedContainer=130, RefrigeratedContainer=722, HeacvyContainer=859, BasicContainer=1320, LiquadContainer=2296, HeacvyContainer=3468, HeacvyContainer=3601, HeacvyContainer=3856, HeacvyContainer=4540 
+Ship id=250, containers= , fuelofship=4899624.10751319 
+Portid=140, X=78.59, Y=80.96, containers=HeacvyContainer=240, LiquadContainer=307, HeacvyContainer=795, BasicContainer=2342, HeacvyContainer=2581, LiquadContainer=2966, RefrigeratedContainer=3471 
+Ship id=586, containers= , fuelofship=5259646.052307775, 
+Ship id=647, containers= , fuelofship=6391194.506797649, 
+Ship id=640, containers= , fuelofship=5653890.98594293, 
+Ship id=961, containers= , fuelofship=8600773.111286761, 
+Ship id=507, containers= , fuelofship=1961713.419022337 
+Portid=141, X=52.12, Y=63.03, containers=BasicContainer=1488, HeacvyContainer=1938, RefrigeratedContainer=2462, BasicContainer=2690, HeacvyContainer=2866, HeacvyContainer=3066, LiquadContainer=3321, HeacvyContainer=3649, BasicContainer=3665 
+Ship id=341, containers= , fuelofship=7296478.593437692 
+Portid=142, X=68.0, Y=91.92, containers=HeacvyContainer=208, HeacvyContainer=273, BasicContainer=862, LiquadContainer=1151, HeacvyContainer=1426, RefrigeratedContainer=2795, HeacvyContainer=3667, HeacvyContainer=4155, LiquadContainer=4498, RefrigeratedContainer=4618, LiquadContainer=4744 
+Ship id=538, containers= , fuelofship=5707972.945182888, 
+Ship id=449, containers= , fuelofship=5061871.2373907, 
+Ship id=542, containers= , fuelofship=7451926.696350641 
+Portid=143, X=90.42, Y=27.27, containers=BasicContainer=498, RefrigeratedContainer=610, RefrigeratedContainer=3385, BasicContainer=4553 
+Ship id=234, containers= , fuelofship=1693580.832666049 
+Portid=144, X=52.48, Y=43.5, containers=LiquadContainer=53, LiquadContainer=628, RefrigeratedContainer=1336, HeacvyContainer=3375, BasicContainer=3451, RefrigeratedContainer=3538, HeacvyContainer=3766, LiquadContainer=4191, BasicContainer=4307, HeacvyContainer=4308, HeacvyContainer=4676, HeacvyContainer=4714 
+Ship id=4, containers= , fuelofship=3440349.5069192587 
+Portid=145, X=31.87, Y=43.96, containers=HeacvyContainer=2, RefrigeratedContainer=647, BasicContainer=777, HeacvyContainer=1400, BasicContainer=1403, HeacvyContainer=1736, HeacvyContainer=2676, RefrigeratedContainer=3120, BasicContainer=3333, HeacvyContainer=3877, RefrigeratedContainer=3879, HeacvyContainer=4469 
+Ship id=964, containers= , fuelofship=5769285.58351786, 
+Ship id=866, containers= , fuelofship=7080080.285759535 
+Portid=146, X=20.04, Y=18.56, containers=BasicContainer=269, HeacvyContainer=1072, RefrigeratedContainer=1728, HeacvyContainer=2283, LiquadContainer=2957, HeacvyContainer=3179, LiquadContainer=3338, HeacvyContainer=3358, HeacvyContainer=4605, RefrigeratedContainer=4635 
+Ship id=742, containers= , fuelofship=6000281.224940101, 
+Ship id=101, containers= , fuelofship=3241403.8190500876 
+Portid=147, X=74.0, Y=65.05, containers=HeacvyContainer=54, RefrigeratedContainer=435, HeacvyContainer=518, LiquadContainer=830, HeacvyContainer=1654, HeacvyContainer=1747, HeacvyContainer=2434, HeacvyContainer=2588, HeacvyContainer=2930, BasicContainer=2959, LiquadContainer=3330, BasicContainer=4722, RefrigeratedContainer=4912, HeacvyContainer=4977 
+Ship id=631, containers= , fuelofship=3533696.96765289 
+Portid=148, X=26.83, Y=42.71, containers=RefrigeratedContainer=519, HeacvyContainer=1396, HeacvyContainer=1959, HeacvyContainer=3059, RefrigeratedContainer=3216, RefrigeratedContainer=3998, HeacvyContainer=4314, RefrigeratedContainer=4447 
+Ship id=873, containers= , fuelofship=3490664.3657472823 
+Portid=149, X=77.16, Y=54.96, containers=RefrigeratedContainer=28, RefrigeratedContainer=413, LiquadContainer=614, RefrigeratedContainer=616, LiquadContainer=669, LiquadContainer=1304, LiquadContainer=1393, HeacvyContainer=1394, HeacvyContainer=1449, LiquadContainer=1745, RefrigeratedContainer=1866, HeacvyContainer=2751, LiquadContainer=2906, HeacvyContainer=3415, BasicContainer=4042 
+Ship id=446, containers= , fuelofship=5000581.926540901, 
+Ship id=548, containers= , fuelofship=4885390.547633743, 
+Ship id=429, containers= , fuelofship=5185675.20624766, 
+Ship id=679, containers= , fuelofship=8178265.150070453 
+Portid=150, X=12.71, Y=7.39, containers=LiquadContainer=585, RefrigeratedContainer=780, LiquadContainer=1381, RefrigeratedContainer=1425, HeacvyContainer=2739, BasicContainer=2793, LiquadContainer=2858, HeacvyContainer=3071, HeacvyContainer=3490, BasicContainer=3525, RefrigeratedContainer=3556, HeacvyContainer=4370, RefrigeratedContainer=4550 
+Ship id=885, containers= , fuelofship=5842741.665951056 
+Portid=151, X=87.8, Y=17.35, containers=HeacvyContainer=1204, RefrigeratedContainer=1546, RefrigeratedContainer=2696, RefrigeratedContainer=2720, HeacvyContainer=2946, BasicContainer=3139, HeacvyContainer=3672, HeacvyContainer=4349, BasicContainer=4867 
+Ship id=980, containers= , fuelofship=1810066.6926985933, 
+Ship id=360, containers= , fuelofship=4290525.909828466 
+Portid=152, X=10.73, Y=92.69, containers=HeacvyContainer=364, HeacvyContainer=1026, LiquadContainer=1279, RefrigeratedContainer=1661, HeacvyContainer=1966, HeacvyContainer=2066, RefrigeratedContainer=2317, LiquadContainer=2726, HeacvyContainer=2745, HeacvyContainer=3410, RefrigeratedContainer=4059, HeacvyContainer=4169, HeacvyContainer=4263, HeacvyContainer=4274, HeacvyContainer=4622 
+Ship id=547, containers= , fuelofship=8506112.69687514, 
+Ship id=527, containers= , fuelofship=8407259.657753145, 
+Ship id=420, containers= , fuelofship=7841227.151119654, 
+Ship id=955, containers= , fuelofship=5789731.726310556 
+Portid=153, X=53.95, Y=86.22, containers=HeacvyContainer=416, RefrigeratedContainer=442, RefrigeratedContainer=1051, HeacvyContainer=1136, LiquadContainer=1325, LiquadContainer=2332, RefrigeratedContainer=2341, HeacvyContainer=2429, HeacvyContainer=2437, LiquadContainer=2438, LiquadContainer=3043, HeacvyContainer=3054, LiquadContainer=3622, HeacvyContainer=3680, HeacvyContainer=4653, HeacvyContainer=4729 
+Ship id=73, containers= , fuelofship=3598974.030794253, 
+Ship id=363, containers= , fuelofship=5301465.904940726, 
+Ship id=795, containers= , fuelofship=4610661.715254049 
+Portid=154, X=33.42, Y=36.99, containers=LiquadContainer=43, LiquadContainer=552, BasicContainer=1370, HeacvyContainer=1637, LiquadContainer=1797, RefrigeratedContainer=2215, HeacvyContainer=2755, HeacvyContainer=3204, HeacvyContainer=3247, LiquadContainer=3371, LiquadContainer=3618, RefrigeratedContainer=4159, LiquadContainer=4230, LiquadContainer=4264, BasicContainer=4357, HeacvyContainer=4500, HeacvyContainer=4805, RefrigeratedContainer=4887 
+Ship id=2, containers= , fuelofship=3218391.5707903355, 
+Ship id=712, containers= , fuelofship=6200080.760579589 
+Portid=155, X=9.96, Y=38.7, containers=BasicContainer=415, BasicContainer=770, LiquadContainer=1402, HeacvyContainer=4953 
+Ship id=625, containers= , fuelofship=4684183.000288257 
+Portid=156, X=21.2, Y=92.12, containers=HeacvyContainer=147, HeacvyContainer=676, HeacvyContainer=1067, RefrigeratedContainer=2477, LiquadContainer=3424, HeacvyContainer=3838, HeacvyContainer=3913, HeacvyContainer=3986 
+Ship id=701, containers= , fuelofship=2996787.870560502 
+Portid=157, X=62.31, Y=61.25, containers=HeacvyContainer=1593, RefrigeratedContainer=2156, LiquadContainer=3457, BasicContainer=3679, RefrigeratedContainer=3683, HeacvyContainer=3787, LiquadContainer=3818, RefrigeratedContainer=3949, LiquadContainer=4336, HeacvyContainer=4588 
+Ship id=276, containers= , fuelofship=5072136.145723822 
+Portid=158, X=89.09, Y=28.63, containers=LiquadContainer=295, HeacvyContainer=1431, RefrigeratedContainer=2272, LiquadContainer=2351, RefrigeratedContainer=3480, HeacvyContainer=3548, RefrigeratedContainer=4035 
+Ship id=425, containers= , fuelofship=4789937.066441419 
+Portid=159, X=46.85, Y=7.26, containers=LiquadContainer=417, LiquadContainer=514, LiquadContainer=846, BasicContainer=1161, LiquadContainer=1833, RefrigeratedContainer=2423, HeacvyContainer=2833, LiquadContainer=3357, LiquadContainer=3657, LiquadContainer=3817, LiquadContainer=3846 
+Ship id=685, containers= , fuelofship=5059644.54869212, 
+Ship id=383, containers= , fuelofship=5208332.196401653, 
+Ship id=985, containers= , fuelofship=3492315.9070656584 
+Portid=160, X=81.2, Y=46.45, containers=HeacvyContainer=200, RefrigeratedContainer=239, RefrigeratedContainer=593, RefrigeratedContainer=1474, LiquadContainer=2010, HeacvyContainer=2326, HeacvyContainer=3089, LiquadContainer=4647 
+Ship id=343, containers= , fuelofship=3478731.4277096963, 
+Ship id=773, containers= , fuelofship=2294907.690937204 
+Portid=161, X=87.16, Y=37.41, containers=LiquadContainer=66, HeacvyContainer=223, LiquadContainer=322, RefrigeratedContainer=388, HeacvyContainer=1158, LiquadContainer=1169, BasicContainer=1635, RefrigeratedContainer=2551, RefrigeratedContainer=2877, LiquadContainer=2947, HeacvyContainer=4374, RefrigeratedContainer=4602 
+Ship id=497, containers= , fuelofship=2932023.7675718493 
+Portid=162, X=27.5, Y=40.22, containers=LiquadContainer=1141, RefrigeratedContainer=1223, HeacvyContainer=2455, RefrigeratedContainer=2674, LiquadContainer=2871, LiquadContainer=3482, HeacvyContainer=3648, LiquadContainer=3871 
+Ship id=318, containers= , fuelofship=3980366.854620344, 
+Ship id=808, containers= , fuelofship=2733034.3336486, 
+Ship id=937, containers= , fuelofship=4821910.7906918265 
+Portid=163, X=78.24, Y=22.9, containers=RefrigeratedContainer=47, RefrigeratedContainer=408, HeacvyContainer=711, RefrigeratedContainer=1022, LiquadContainer=1248, HeacvyContainer=1614, HeacvyContainer=1769, HeacvyContainer=1939, RefrigeratedContainer=1997, LiquadContainer=3018, BasicContainer=4045, HeacvyContainer=4440 
+Ship id=565, containers= , fuelofship=4087636.800359143, 
+Ship id=237, containers= , fuelofship=6260570.719773787, 
+Ship id=976, containers= , fuelofship=6310025.760703398 
+Portid=164, X=66.48, Y=61.2, containers=HeacvyContainer=729, HeacvyContainer=945, LiquadContainer=2024, RefrigeratedContainer=2249, HeacvyContainer=3256, LiquadContainer=4671 
+Ship id=579, containers= , fuelofship=4917507.805889802, 
+Ship id=683, containers= , fuelofship=4411556.580528458 
+Portid=165, X=38.4, Y=7.05, containers=RefrigeratedContainer=33, LiquadContainer=100, HeacvyContainer=121, LiquadContainer=718, HeacvyContainer=1121, LiquadContainer=2488, BasicContainer=2589, HeacvyContainer=2704, LiquadContainer=2883, BasicContainer=3646, RefrigeratedContainer=4678 
+Ship id=552, containers= , fuelofship=4980520.525430428, 
+Ship id=243, containers= , fuelofship=5442679.158801456, 
+Ship id=678, containers= , fuelofship=4645794.793116857 
+Portid=166, X=46.11, Y=45.49, containers=BasicContainer=886, LiquadContainer=1871, LiquadContainer=1953, HeacvyContainer=2583, HeacvyContainer=3545, RefrigeratedContainer=4297 
+Ship id=847, containers= , fuelofship=3935562.243137598 
+Portid=167, X=46.09, Y=17.48, containers=HeacvyContainer=131, HeacvyContainer=346, HeacvyContainer=1305, LiquadContainer=1356, LiquadContainer=2665, RefrigeratedContainer=3015, LiquadContainer=3268, HeacvyContainer=3640, HeacvyContainer=4752 
+Ship id=107, containers= , fuelofship=7978790.479318123 
+Portid=168, X=43.83, Y=75.57, containers=HeacvyContainer=404, RefrigeratedContainer=869, RefrigeratedContainer=1110, RefrigeratedContainer=1648, HeacvyContainer=1720, RefrigeratedContainer=2013, LiquadContainer=2244, HeacvyContainer=3198, LiquadContainer=3805, LiquadContainer=3915, LiquadContainer=3973, RefrigeratedContainer=4849  
+Portid=169, X=45.4, Y=57.69, containers=HeacvyContainer=882, HeacvyContainer=896, RefrigeratedContainer=2899 
+Ship id=209, containers= , fuelofship=3563403.9318858595 
+Portid=170, X=65.92, Y=8.64, containers=RefrigeratedContainer=810, HeacvyContainer=1036, LiquadContainer=1341, HeacvyContainer=1840, LiquadContainer=1977, HeacvyContainer=2367, HeacvyContainer=2533, HeacvyContainer=3021, LiquadContainer=3559  
+Portid=171, X=39.6, Y=73.09, containers=HeacvyContainer=508, HeacvyContainer=2060, HeacvyContainer=2115, BasicContainer=2133, LiquadContainer=2269, HeacvyContainer=2454, LiquadContainer=2530, RefrigeratedContainer=2918, RefrigeratedContainer=3053, LiquadContainer=3754 
+Ship id=219, containers= , fuelofship=5015175.3441362195, 
+Ship id=729, containers= , fuelofship=6379897.127006428, 
+Ship id=423, containers= , fuelofship=4805153.738918683 
+Portid=172, X=38.08, Y=59.25, containers=LiquadContainer=1657, HeacvyContainer=1850, HeacvyContainer=2320, HeacvyContainer=3080, RefrigeratedContainer=3412, LiquadContainer=3678, LiquadContainer=4590, HeacvyContainer=4730 
+Ship id=968, containers= , fuelofship=4645184.555511511, 
+Ship id=732, containers= , fuelofship=5368447.077877781, 
+Ship id=370, containers= , fuelofship=5687864.69713058 
+Portid=173, X=97.83, Y=35.31, containers=HeacvyContainer=72, LiquadContainer=496, HeacvyContainer=814, RefrigeratedContainer=951, BasicContainer=2188, HeacvyContainer=3156, HeacvyContainer=3688, RefrigeratedContainer=3691, RefrigeratedContainer=4173, HeacvyContainer=4265, HeacvyContainer=4414, LiquadContainer=4648, RefrigeratedContainer=4964 
+Ship id=688, containers= , fuelofship=5417103.910884663, 
+Ship id=226, containers= , fuelofship=7405688.973486903 
+Portid=174, X=66.06, Y=65.87, containers=HeacvyContainer=1910, BasicContainer=2817, HeacvyContainer=4270, HeacvyContainer=4663 
+Ship id=630, containers= , fuelofship=6972075.34068521 
+Portid=175, X=6.45, Y=4.25, containers=HeacvyContainer=105, HeacvyContainer=338, HeacvyContainer=483, BasicContainer=685, RefrigeratedContainer=866, RefrigeratedContainer=1516, RefrigeratedContainer=1579, RefrigeratedContainer=1700, RefrigeratedContainer=2094, HeacvyContainer=2257, LiquadContainer=2813, HeacvyContainer=2936, HeacvyContainer=3186, RefrigeratedContainer=4142, HeacvyContainer=4475, HeacvyContainer=4651 
+Ship id=268, containers= , fuelofship=2787047.6269821804 
+Portid=176, X=11.34, Y=52.45, containers=HeacvyContainer=262, LiquadContainer=2036, LiquadContainer=3130, HeacvyContainer=3741, RefrigeratedContainer=4108, RefrigeratedContainer=4612, HeacvyContainer=4682, HeacvyContainer=4746 
+Ship id=626, containers= , fuelofship=3738204.440719509, 
+Ship id=907, containers= , fuelofship=7342868.119722835, 
+Ship id=858, containers= , fuelofship=8442692.648496445 
+Portid=177, X=73.79, Y=30.56, containers=LiquadContainer=707, RefrigeratedContainer=791, HeacvyContainer=938, BasicContainer=1104, RefrigeratedContainer=2347, HeacvyContainer=2948, BasicContainer=3339, RefrigeratedContainer=3997, HeacvyContainer=4526 
+Ship id=804, containers= , fuelofship=4344363.571058381, 
+Ship id=86, containers= , fuelofship=4446881.913498331 
+Portid=178, X=25.91, Y=35.12, containers=LiquadContainer=101, RefrigeratedContainer=178, HeacvyContainer=366, LiquadContainer=887, RefrigeratedContainer=1838, RefrigeratedContainer=2282, HeacvyContainer=2391, RefrigeratedContainer=2814, RefrigeratedContainer=2846, LiquadContainer=3717, LiquadContainer=4566, RefrigeratedContainer=4696, HeacvyContainer=4997 
+Ship id=415, containers= , fuelofship=2384380.862543162 
+Portid=179, X=80.09, Y=42.28, containers=RefrigeratedContainer=399, HeacvyContainer=2357, HeacvyContainer=2652, LiquadContainer=3113, HeacvyContainer=4672 
+Ship id=305, containers= , fuelofship=5836108.241031566, 
+Ship id=135, containers= , fuelofship=4282507.934883302, 
+Ship id=877, containers= , fuelofship=7272966.150547728, 
+Ship id=202, containers= , fuelofship=5871343.572978507 
+Portid=180, X=1.44, Y=91.98, containers=LiquadContainer=1785, HeacvyContainer=4524, LiquadContainer=4764, RefrigeratedContainer=4888, HeacvyContainer=4972  
+Portid=181, X=39.53, Y=32.8, containers=HeacvyContainer=453, RefrigeratedContainer=1260, HeacvyContainer=1846, HeacvyContainer=2329, HeacvyContainer=3700 
+Ship id=352, containers= , fuelofship=4274997.215402735, 
+Ship id=957, containers= , fuelofship=2737759.2660116246 
+Portid=182, X=90.22, Y=54.71, containers=RefrigeratedContainer=251, BasicContainer=323, BasicContainer=912, LiquadContainer=1434, HeacvyContainer=1448, BasicContainer=1512, HeacvyContainer=1776, HeacvyContainer=1780, LiquadContainer=2766, RefrigeratedContainer=2811, LiquadContainer=3440, BasicContainer=3721, BasicContainer=4426, LiquadContainer=4432, RefrigeratedContainer=4536, BasicContainer=4898  
+Portid=183, X=31.26, Y=64.78, containers=RefrigeratedContainer=123, RefrigeratedContainer=259, HeacvyContainer=689, LiquadContainer=778, RefrigeratedContainer=1479, HeacvyContainer=1742, LiquadContainer=1893, RefrigeratedContainer=2124, RefrigeratedContainer=2274, HeacvyContainer=2901, RefrigeratedContainer=2997, HeacvyContainer=2999, RefrigeratedContainer=4733, HeacvyContainer=4987 
+Ship id=3, containers= , fuelofship=3961163.9541874984, 
+Ship id=670, containers= , fuelofship=3183507.14179796 
+Portid=184, X=52.32, Y=52.39, containers=HeacvyContainer=781, HeacvyContainer=792, RefrigeratedContainer=892, HeacvyContainer=1203, LiquadContainer=1322, LiquadContainer=1601, LiquadContainer=1976, HeacvyContainer=2712, HeacvyContainer=3074, LiquadContainer=3078, HeacvyContainer=3623, HeacvyContainer=3798, HeacvyContainer=4804, LiquadContainer=4914, LiquadContainer=4922  
+Portid=185, X=44.06, Y=10.44, containers=HeacvyContainer=308, HeacvyContainer=570, RefrigeratedContainer=679, LiquadContainer=976, LiquadContainer=1612, BasicContainer=2153, HeacvyContainer=2194, LiquadContainer=2407, LiquadContainer=2439, HeacvyContainer=2550, LiquadContainer=3383  
+Portid=186, X=78.99, Y=6.73, containers=RefrigeratedContainer=1100, HeacvyContainer=1792, LiquadContainer=3539, BasicContainer=3894, BasicContainer=4860 
+Ship id=269, containers= , fuelofship=2760583.919070194, 
+Ship id=204, containers= , fuelofship=6101016.909710155 
+Portid=187, X=39.91, Y=83.81, containers=HeacvyContainer=400, BasicContainer=1729, BasicContainer=2031, RefrigeratedContainer=2534, BasicContainer=3108 
+Ship id=373, containers= , fuelofship=5424746.22017189, 
+Ship id=917, containers= , fuelofship=6725900.600547321 
+Portid=188, X=49.11, Y=4.9, containers=RefrigeratedContainer=122, RefrigeratedContainer=229, HeacvyContainer=397, HeacvyContainer=1284, HeacvyContainer=1933, HeacvyContainer=2465, LiquadContainer=2900, HeacvyContainer=3171, HeacvyContainer=3226, HeacvyContainer=3626, LiquadContainer=3809, HeacvyContainer=3869, HeacvyContainer=3904, HeacvyContainer=4032, HeacvyContainer=4713, RefrigeratedContainer=4763, HeacvyContainer=4907, HeacvyContainer=4966 
+Ship id=96, containers= , fuelofship=5697727.579702968, 
+Ship id=180, containers= , fuelofship=4169742.02898603, 
+Ship id=528, containers= , fuelofship=6517593.379829258 
+Portid=189, X=58.65, Y=90.33, containers=RefrigeratedContainer=420, BasicContainer=535, HeacvyContainer=1148, HeacvyContainer=2074, RefrigeratedContainer=2084, HeacvyContainer=2252, LiquadContainer=2682, HeacvyContainer=3105, RefrigeratedContainer=4768 
+Ship id=928, containers= , fuelofship=6199752.053752436 
+Portid=190, X=49.68, Y=9.07, containers=HeacvyContainer=1324, LiquadContainer=1338, HeacvyContainer=2935, HeacvyContainer=4080, HeacvyContainer=4236, RefrigeratedContainer=4333, RefrigeratedContainer=4473, HeacvyContainer=4523 
+Ship id=400, containers= , fuelofship=5081527.52306768, 
+Ship id=806, containers= , fuelofship=6417794.050182192 
+Portid=191, X=95.58, Y=19.15, containers=RefrigeratedContainer=309, LiquadContainer=1133, RefrigeratedContainer=1351, LiquadContainer=1698, HeacvyContainer=1993, HeacvyContainer=2278, LiquadContainer=2703, HeacvyContainer=2954, BasicContainer=3575, HeacvyContainer=3734, LiquadContainer=3983, RefrigeratedContainer=4067, HeacvyContainer=4210 
+Ship id=850, containers= , fuelofship=4835619.2250058055, 
+Ship id=143, containers= , fuelofship=3036101.852401107, 
+Ship id=889, containers= , fuelofship=5352462.156348705, 
+Ship id=871, containers= , fuelofship=5853764.787040729 
+Portid=192, X=66.65, Y=40.92, containers=RefrigeratedContainer=6, LiquadContainer=785, HeacvyContainer=1052, HeacvyContainer=4416  
+Portid=193, X=74.81, Y=20.31, containers=LiquadContainer=1380, BasicContainer=1421, RefrigeratedContainer=1879, LiquadContainer=2108 
+Ship id=274, containers= , fuelofship=3163300.582655862, 
+Ship id=290, containers= , fuelofship=5881837.111948159, 
+Ship id=862, containers= , fuelofship=1443758.6866928271 
+Portid=194, X=29.31, Y=62.8, containers=HeacvyContainer=497, RefrigeratedContainer=1122, HeacvyContainer=2138, LiquadContainer=2158, RefrigeratedContainer=2541, LiquadContainer=3873  
+Portid=195, X=12.4, Y=11.8, containers=LiquadContainer=248, HeacvyContainer=289, BasicContainer=504, BasicContainer=590, LiquadContainer=667, HeacvyContainer=796, HeacvyContainer=924, HeacvyContainer=1443, RefrigeratedContainer=2613, HeacvyContainer=2691, LiquadContainer=3393, HeacvyContainer=3704, HeacvyContainer=3945, HeacvyContainer=4092, LiquadContainer=4641 
+Ship id=615, containers= , fuelofship=3652562.644494818, 
+Ship id=562, containers= , fuelofship=5645220.9537453065, 
+Ship id=803, containers= , fuelofship=1851226.858858816, 
+Ship id=979, containers= , fuelofship=4166555.6637047464, 
+Ship id=299, containers= , fuelofship=6473740.33138231 
+Portid=196, X=76.59, Y=7.77, containers=LiquadContainer=84, HeacvyContainer=393, LiquadContainer=700, HeacvyContainer=2734, HeacvyContainer=2968, LiquadContainer=3001, LiquadContainer=3532, RefrigeratedContainer=3870, BasicContainer=4442 
+Ship id=81, containers= , fuelofship=2872285.6971033337 
+Portid=197, X=44.57, Y=43.34, containers=HeacvyContainer=159, HeacvyContainer=482, LiquadContainer=586, HeacvyContainer=617, HeacvyContainer=910, HeacvyContainer=975, HeacvyContainer=1256, HeacvyContainer=1379, HeacvyContainer=2044, LiquadContainer=2865, HeacvyContainer=3280, HeacvyContainer=3315, HeacvyContainer=3599 
+Ship id=720, containers= , fuelofship=4900529.473273366 
+Portid=198, X=60.18, Y=26.89, containers=HeacvyContainer=74, LiquadContainer=443, HeacvyContainer=865, LiquadContainer=883, LiquadContainer=891, LiquadContainer=1184, LiquadContainer=1307, BasicContainer=1459, BasicContainer=2159, HeacvyContainer=2209, HeacvyContainer=2294, LiquadContainer=2432, LiquadContainer=2716, RefrigeratedContainer=3862, LiquadContainer=4519, LiquadContainer=4683, BasicContainer=4919 
+Ship id=904, containers= , fuelofship=8387184.196102666, 
+Ship id=830, containers= , fuelofship=2559129.973425012, 
+Ship id=16, containers= , fuelofship=5754637.38074694 
+Portid=199, X=90.47, Y=47.26, containers=RefrigeratedContainer=811, HeacvyContainer=942, HeacvyContainer=1376, HeacvyContainer=1395, HeacvyContainer=1399, RefrigeratedContainer=2103, LiquadContainer=2303, HeacvyContainer=2425, RefrigeratedContainer=2752, LiquadContainer=2851, LiquadContainer=3593, HeacvyContainer=3760, RefrigeratedContainer=3825, LiquadContainer=4178, HeacvyContainer=4654 
+Ship id=488, containers= , fuelofship=3651741.6687870985 
+Portid=200, X=31.67, Y=19.38, containers=LiquadContainer=31, BasicContainer=507, BasicContainer=640, LiquadContainer=1003, HeacvyContainer=1291, HeacvyContainer=1357, HeacvyContainer=1636, HeacvyContainer=1714, RefrigeratedContainer=2113, BasicContainer=2779, HeacvyContainer=2991, RefrigeratedContainer=3086, HeacvyContainer=3896, LiquadContainer=3951, HeacvyContainer=4046, BasicContainer=4779  
+Portid=201, X=21.47, Y=7.02, containers=BasicContainer=375, HeacvyContainer=599, RefrigeratedContainer=714, BasicContainer=949, BasicContainer=2134, HeacvyContainer=2666, RefrigeratedContainer=2717, RefrigeratedContainer=2742, HeacvyContainer=3060, LiquadContainer=3767, HeacvyContainer=4290, BasicContainer=4402 
+Ship id=588, containers= , fuelofship=4497805.574166425, 
+Ship id=372, containers= , fuelofship=4891040.572277858 
+Portid=202, X=20.84, Y=15.88, containers=HeacvyContainer=201, BasicContainer=753, BasicContainer=812, HeacvyContainer=1043, RefrigeratedContainer=2403, HeacvyContainer=3041, RefrigeratedContainer=3432, LiquadContainer=4585 
+Ship id=766, containers= , fuelofship=3494363.1059552347 
+Portid=203, X=2.19, Y=24.23, containers=HeacvyContainer=528, RefrigeratedContainer=608, BasicContainer=1192, HeacvyContainer=1198, HeacvyContainer=2032, HeacvyContainer=3111 
+Ship id=697, containers= , fuelofship=4245370.958819474, 
+Ship id=484, containers= , fuelofship=4103933.510507516, 
+Ship id=913, containers= , fuelofship=4105759.0157080367 
+Portid=204, X=43.41, Y=58.03, containers=HeacvyContainer=1116, RefrigeratedContainer=1261, LiquadContainer=2466, BasicContainer=3048, LiquadContainer=3598, HeacvyContainer=4918 
+Ship id=62, containers= , fuelofship=6836664.217324202, 
+Ship id=337, containers= , fuelofship=3675208.085989433 
+Portid=205, X=37.96, Y=82.02, containers=LiquadContainer=146, LiquadContainer=678, HeacvyContainer=1118, BasicContainer=1640, HeacvyContainer=2088, BasicContainer=2369, RefrigeratedContainer=2593, RefrigeratedContainer=2600, LiquadContainer=3072, HeacvyContainer=4611, HeacvyContainer=4842, HeacvyContainer=4844, HeacvyContainer=4909 
+Ship id=918, containers= , fuelofship=5314408.143304635, 
+Ship id=691, containers= , fuelofship=8345180.471902843, 
+Ship id=884, containers= , fuelofship=6588811.412601879, 
+Ship id=949, containers= , fuelofship=8068289.678654078 
+Portid=206, X=57.95, Y=8.34, containers=LiquadContainer=109, LiquadContainer=488, HeacvyContainer=600, LiquadContainer=692, LiquadContainer=1270, LiquadContainer=1863, HeacvyContainer=2022, RefrigeratedContainer=2076, HeacvyContainer=2139, RefrigeratedContainer=2538, BasicContainer=3581  
+Portid=207, X=8.14, Y=3.38, containers=LiquadContainer=1506, HeacvyContainer=1934, HeacvyContainer=2531, BasicContainer=2829, HeacvyContainer=3104, HeacvyContainer=3979, LiquadContainer=4175, LiquadContainer=4362, HeacvyContainer=4570, RefrigeratedContainer=4820, HeacvyContainer=4895 
+Ship id=786, containers= , fuelofship=6560254.0220066, 
+Ship id=922, containers= , fuelofship=2900422.9429917233, 
+Ship id=260, containers= , fuelofship=4967645.418640187 
+Portid=208, X=25.97, Y=85.67, containers=LiquadContainer=1160, HeacvyContainer=1705, LiquadContainer=1915, BasicContainer=2370, RefrigeratedContainer=2394, LiquadContainer=3426, RefrigeratedContainer=3851, HeacvyContainer=4839  
+Portid=209, X=76.02, Y=71.27, containers=BasicContainer=142, RefrigeratedContainer=1734, BasicContainer=1925, BasicContainer=2168, LiquadContainer=2219, RefrigeratedContainer=2267, BasicContainer=2721 
+Ship id=124, containers= , fuelofship=4639027.377484672, 
+Ship id=687, containers= , fuelofship=6499735.562579747, 
+Ship id=546, containers= , fuelofship=8471442.971763795, 
+Ship id=132, containers= , fuelofship=4039963.2427911386 
+Portid=210, X=33.44, Y=65.5, containers=LiquadContainer=389, LiquadContainer=1800, HeacvyContainer=1898, BasicContainer=2092, HeacvyContainer=2289, RefrigeratedContainer=2478, LiquadContainer=2498, BasicContainer=2643, LiquadContainer=2735, RefrigeratedContainer=2783, HeacvyContainer=3505, RefrigeratedContainer=4211, BasicContainer=4240, RefrigeratedContainer=4697, RefrigeratedContainer=4735 
+Ship id=650, containers= , fuelofship=2709742.980408285 
+Portid=211, X=37.91, Y=61.79, containers=BasicContainer=1213, RefrigeratedContainer=2298, RefrigeratedContainer=2381, LiquadContainer=2489, HeacvyContainer=4017, HeacvyContainer=4375, HeacvyContainer=4555 
+Ship id=428, containers= , fuelofship=9701997.723722136, 
+Ship id=505, containers= , fuelofship=6935919.458164136 
+Portid=212, X=72.64, Y=12.63, containers=BasicContainer=470, BasicContainer=1140, LiquadContainer=1945, HeacvyContainer=2630, HeacvyContainer=2932, RefrigeratedContainer=3430, LiquadContainer=3725, HeacvyContainer=4551, HeacvyContainer=4581, HeacvyContainer=4837, HeacvyContainer=4874, RefrigeratedContainer=4891  
+Portid=213, X=60.58, Y=60.8, containers=BasicContainer=70, HeacvyContainer=2719, RefrigeratedContainer=3996, HeacvyContainer=4603 
+Ship id=476, containers= , fuelofship=6038912.26576799, 
+Ship id=112, containers= , fuelofship=8978843.910990909 
+Portid=214, X=73.61, Y=92.21, containers=BasicContainer=821, BasicContainer=1897, LiquadContainer=2142, HeacvyContainer=2146, LiquadContainer=2431, RefrigeratedContainer=2949, HeacvyContainer=4382, LiquadContainer=4468, RefrigeratedContainer=4604, HeacvyContainer=4652, LiquadContainer=4721, LiquadContainer=4726, LiquadContainer=4906 
+Ship id=756, containers= , fuelofship=5110232.458990393, 
+Ship id=758, containers= , fuelofship=3772745.871249331, 
+Ship id=142, containers= , fuelofship=5231799.7052857755 
+Portid=215, X=65.61, Y=1.82, containers=LiquadContainer=663, RefrigeratedContainer=693, LiquadContainer=2862, HeacvyContainer=3039, HeacvyContainer=3189, HeacvyContainer=3282, HeacvyContainer=3405, HeacvyContainer=4244, LiquadContainer=4858 
+Ship id=168, containers= , fuelofship=3778793.45766302, 
+Ship id=311, containers= , fuelofship=3512343.479243929 
+Portid=216, X=64.79, Y=87.18, containers=HeacvyContainer=108, LiquadContainer=1123, RefrigeratedContainer=1287, LiquadContainer=1412, RefrigeratedContainer=3461, HeacvyContainer=3954, HeacvyContainer=4020, RefrigeratedContainer=4341, HeacvyContainer=4772 
+Ship id=772, containers= , fuelofship=4363918.848932765 
+Portid=217, X=18.98, Y=64.4, containers=HeacvyContainer=18, RefrigeratedContainer=281, HeacvyContainer=425, HeacvyContainer=1048, HeacvyContainer=2208, LiquadContainer=2214, HeacvyContainer=4182, RefrigeratedContainer=4278 
+Ship id=575, containers= , fuelofship=7639985.437182379 
+Portid=218, X=56.91, Y=3.36, containers=HeacvyContainer=77, RefrigeratedContainer=502, RefrigeratedContainer=583, HeacvyContainer=1422, HeacvyContainer=3606, RefrigeratedContainer=3823 
+Ship id=610, containers= , fuelofship=3762582.765232035, 
+Ship id=823, containers= , fuelofship=3908740.8858034993, 
+Ship id=939, containers= , fuelofship=4934418.492497612, 
+Ship id=995, containers= , fuelofship=3946894.961812978 
+Portid=219, X=12.78, Y=92.08, containers=BasicContainer=441, HeacvyContainer=852, BasicContainer=1009, RefrigeratedContainer=1392, RefrigeratedContainer=1791, HeacvyContainer=2988, HeacvyContainer=3238, LiquadContainer=3693, HeacvyContainer=4751, HeacvyContainer=4831, HeacvyContainer=4946, HeacvyContainer=4958  
+Portid=220, X=65.56, Y=89.05, containers=RefrigeratedContainer=276, RefrigeratedContainer=356, RefrigeratedContainer=650, LiquadContainer=747, RefrigeratedContainer=1686, HeacvyContainer=1967, LiquadContainer=2016, RefrigeratedContainer=2116, LiquadContainer=2942, LiquadContainer=3068, RefrigeratedContainer=3624, RefrigeratedContainer=3637, HeacvyContainer=4075, HeacvyContainer=4344, HeacvyContainer=4607, LiquadContainer=4698, HeacvyContainer=4983 
+Ship id=894, containers= , fuelofship=3952741.1501667965, 
+Ship id=255, containers= , fuelofship=5630362.309039784, 
+Ship id=764, containers= , fuelofship=8043735.658404202 
+Portid=221, X=10.5, Y=77.09, containers=HeacvyContainer=8, LiquadContainer=86, HeacvyContainer=319, HeacvyContainer=1388, HeacvyContainer=2449, LiquadContainer=2645, HeacvyContainer=3013, HeacvyContainer=3690, HeacvyContainer=4083, HeacvyContainer=4154, HeacvyContainer=4405  
+Portid=222, X=72.26, Y=92.39, containers=BasicContainer=553, LiquadContainer=1790, RefrigeratedContainer=3259, LiquadContainer=3947, HeacvyContainer=4073 
+Ship id=713, containers= , fuelofship=7216848.807903072, 
+Ship id=347, containers= , fuelofship=9648763.201010855, 
+Ship id=106, containers= , fuelofship=8444758.396686709, 
+Ship id=870, containers= , fuelofship=3213735.5994782336, 
+Ship id=11, containers= , fuelofship=1135896.9567732965 
+Portid=223, X=40.79, Y=22.25, containers=HeacvyContainer=424, BasicContainer=985, RefrigeratedContainer=1343, RefrigeratedContainer=1587, LiquadContainer=2953, LiquadContainer=3056, LiquadContainer=3184, HeacvyContainer=4470, LiquadContainer=4689 
+Ship id=381, containers= , fuelofship=5419806.02449556 
+Portid=224, X=58.8, Y=46.53, containers=LiquadContainer=150, RefrigeratedContainer=871, HeacvyContainer=1760, HeacvyContainer=2097, LiquadContainer=2605, HeacvyContainer=2859, HeacvyContainer=3220, HeacvyContainer=3863, RefrigeratedContainer=4023, LiquadContainer=4044, RefrigeratedContainer=4358, BasicContainer=4366, RefrigeratedContainer=4632, LiquadContainer=4773 
+Ship id=37, containers= , fuelofship=4116770.4164883653 
+Portid=225, X=16.58, Y=81.47, containers=HeacvyContainer=799, RefrigeratedContainer=1124, RefrigeratedContainer=1737, RefrigeratedContainer=2135, RefrigeratedContainer=2334, RefrigeratedContainer=2912, LiquadContainer=4106 
+Ship id=467, containers= , fuelofship=5043726.016205694, 
+Ship id=593, containers= , fuelofship=1262521.981015301 
+Portid=226, X=3.58, Y=37.13, containers=LiquadContainer=462, RefrigeratedContainer=943, RefrigeratedContainer=1186, HeacvyContainer=1280, LiquadContainer=2375, BasicContainer=2604, LiquadContainer=2689, HeacvyContainer=3373, BasicContainer=4557, LiquadContainer=4743 
+Ship id=707, containers= , fuelofship=4030102.2282740036, 
+Ship id=731, containers= , fuelofship=4530036.323050857 
+Portid=227, X=25.86, Y=44.02, containers=RefrigeratedContainer=1611, HeacvyContainer=2128, RefrigeratedContainer=2232, RefrigeratedContainer=2737, HeacvyContainer=3533, HeacvyContainer=3891, LiquadContainer=4141, RefrigeratedContainer=4150, HeacvyContainer=4685, RefrigeratedContainer=4985  
+Portid=228, X=52.68, Y=21.89, containers=RefrigeratedContainer=173, RefrigeratedContainer=623, RefrigeratedContainer=760, RefrigeratedContainer=906, HeacvyContainer=1244, HeacvyContainer=1696, HeacvyContainer=1706, LiquadContainer=1772, HeacvyContainer=1875, HeacvyContainer=1990, BasicContainer=2205, HeacvyContainer=2300, LiquadContainer=3082, HeacvyContainer=3337, LiquadContainer=3663 
+Ship id=802, containers= , fuelofship=2146286.418979432, 
+Ship id=617, containers= , fuelofship=5529656.998772973, 
+Ship id=805, containers= , fuelofship=4015473.7945104246 
+Portid=229, X=80.41, Y=30.78, containers=BasicContainer=820, HeacvyContainer=1315, RefrigeratedContainer=2327, RefrigeratedContainer=2339, RefrigeratedContainer=3494, HeacvyContainer=3681, LiquadContainer=4016, BasicContainer=4257 
+Ship id=154, containers= , fuelofship=5047511.916189644, 
+Ship id=114, containers= , fuelofship=3439580.52769659, 
+Ship id=844, containers= , fuelofship=2283521.0438191458 
+Portid=230, X=62.37, Y=70.96, containers=HeacvyContainer=1360, LiquadContainer=1817, BasicContainer=1906, RefrigeratedContainer=2077, RefrigeratedContainer=2231, LiquadContainer=2308, LiquadContainer=2518, LiquadContainer=2638, HeacvyContainer=3028, BasicContainer=3249, HeacvyContainer=3361, LiquadContainer=4048, BasicContainer=4152, HeacvyContainer=4783, RefrigeratedContainer=4969 
+Ship id=222, containers= , fuelofship=1.2438450040166887E7, 
+Ship id=104, containers= , fuelofship=8496166.297470437, 
+Ship id=224, containers= , fuelofship=6803843.221079602 
+Portid=231, X=14.62, Y=24.66, containers=HeacvyContainer=198, HeacvyContainer=344, LiquadContainer=739, HeacvyContainer=1111, RefrigeratedContainer=1869, HeacvyContainer=2247, LiquadContainer=2791, HeacvyContainer=3223, BasicContainer=3829, RefrigeratedContainer=4552, BasicContainer=4982 
+Ship id=983, containers=HeacvyContainer=966 , fuelofship=1938398.3591156753, 
+Ship id=175, containers= , fuelofship=3058194.798399841 
+Portid=232, X=29.72, Y=82.87, containers=RefrigeratedContainer=439, HeacvyContainer=524, RefrigeratedContainer=1298, LiquadContainer=1738, LiquadContainer=2161, HeacvyContainer=2611, HeacvyContainer=3491, LiquadContainer=3607, HeacvyContainer=3613, LiquadContainer=3935, LiquadContainer=4407, LiquadContainer=4598, HeacvyContainer=4900 
+Ship id=442, containers= , fuelofship=2958654.75558963, 
+Ship id=144, containers= , fuelofship=5293292.897117869 
+Portid=233, X=7.35, Y=9.45, containers=BasicContainer=313, RefrigeratedContainer=817, RefrigeratedContainer=2265, HeacvyContainer=2293, LiquadContainer=2485, HeacvyContainer=2570, RefrigeratedContainer=2848, RefrigeratedContainer=4194, HeacvyContainer=4543 
+Ship id=783, containers= , fuelofship=4900100.9799459465 
+Portid=234, X=43.57, Y=20.63, containers=LiquadContainer=979, LiquadContainer=1735, RefrigeratedContainer=1770, HeacvyContainer=1892, RefrigeratedContainer=2080, BasicContainer=2482, LiquadContainer=2855, HeacvyContainer=3964, LiquadContainer=4104, RefrigeratedContainer=4927 
+Ship id=379, containers= , fuelofship=5761120.550785059, 
+Ship id=749, containers= , fuelofship=5019048.890342839, 
+Ship id=657, containers= , fuelofship=5255403.546901172 
+Portid=235, X=2.57, Y=72.86, containers=RefrigeratedContainer=7, BasicContainer=144, RefrigeratedContainer=1057, HeacvyContainer=1577, BasicContainer=2941, HeacvyContainer=3017, HeacvyContainer=3527, LiquadContainer=4201 
+Ship id=909, containers= , fuelofship=3325856.2290047007 
+Portid=236, X=87.15, Y=37.95, containers=LiquadContainer=1056, BasicContainer=1853, RefrigeratedContainer=1987, LiquadContainer=2165, HeacvyContainer=2374, HeacvyContainer=3272, RefrigeratedContainer=3281, BasicContainer=3808, LiquadContainer=3855, LiquadContainer=4149, HeacvyContainer=4409, LiquadContainer=4471, LiquadContainer=4931 
+Ship id=636, containers= , fuelofship=3656394.5282153036, 
+Ship id=34, containers= , fuelofship=5374739.286076355 
+Portid=237, X=12.66, Y=59.46, containers=BasicContainer=115, HeacvyContainer=128, BasicContainer=189, LiquadContainer=445, RefrigeratedContainer=901, HeacvyContainer=1483, HeacvyContainer=1597, BasicContainer=1688, BasicContainer=2405, HeacvyContainer=2965, RefrigeratedContainer=3423, LiquadContainer=3564 
+Ship id=725, containers= , fuelofship=4282639.591203473, 
+Ship id=923, containers= , fuelofship=4667749.52239783 
+Portid=238, X=78.06, Y=62.86, containers=BasicContainer=485, LiquadContainer=816, BasicContainer=1041, HeacvyContainer=1427, LiquadContainer=1605, LiquadContainer=2251, LiquadContainer=2500, BasicContainer=2678, HeacvyContainer=2738, LiquadContainer=3004, LiquadContainer=3107, HeacvyContainer=3142, BasicContainer=4369, RefrigeratedContainer=4866 
+Ship id=921, containers= , fuelofship=4514736.5173105495, 
+Ship id=690, containers= , fuelofship=4614845.576486585 
+Portid=239, X=93.29, Y=49.67, containers=HeacvyContainer=306, HeacvyContainer=1647, LiquadContainer=1663, HeacvyContainer=2305, LiquadContainer=3097, RefrigeratedContainer=3522, BasicContainer=4719, BasicContainer=4745, HeacvyContainer=4841 
+Ship id=595, containers= , fuelofship=3121983.652665626, 
+Ship id=523, containers= , fuelofship=3049177.896932408, 
+Ship id=515, containers= , fuelofship=6104647.48211284 
+Portid=240, X=39.77, Y=97.05, containers=LiquadContainer=25, HeacvyContainer=57, LiquadContainer=193, RefrigeratedContainer=446, HeacvyContainer=1552, RefrigeratedContainer=1819, HeacvyContainer=3579, HeacvyContainer=4383, RefrigeratedContainer=4391, BasicContainer=4549 
+Ship id=908, containers= , fuelofship=4750051.782547785 
+Portid=241, X=22.35, Y=15.39, containers=HeacvyContainer=9, HeacvyContainer=521, BasicContainer=1015, HeacvyContainer=1178, HeacvyContainer=1507, HeacvyContainer=1644, HeacvyContainer=2355, HeacvyContainer=2680, RefrigeratedContainer=2758, RefrigeratedContainer=2775, LiquadContainer=2782, RefrigeratedContainer=3459, LiquadContainer=3543, RefrigeratedContainer=3589, LiquadContainer=4200, HeacvyContainer=4847 
+Ship id=624, containers= , fuelofship=3538318.735229129, 
+Ship id=399, containers= , fuelofship=3152906.5456759767 
+Portid=242, X=63.78, Y=17.54, containers=RefrigeratedContainer=187, RefrigeratedContainer=245, BasicContainer=1475, HeacvyContainer=1554, RefrigeratedContainer=1580, HeacvyContainer=3502, HeacvyContainer=3635, HeacvyContainer=4131, BasicContainer=4472 
+Ship id=504, containers= , fuelofship=4980515.478967028, 
+Ship id=621, containers= , fuelofship=5069021.490006473, 
+Ship id=809, containers= , fuelofship=5552707.464478286 
+Portid=243, X=9.22, Y=29.3, containers=HeacvyContainer=92, HeacvyContainer=158, LiquadContainer=192, LiquadContainer=410, RefrigeratedContainer=1368, HeacvyContainer=3295, RefrigeratedContainer=3604, HeacvyContainer=4181, HeacvyContainer=4687 
+Ship id=76, containers= , fuelofship=3032043.821623553 
+Portid=244, X=27.54, Y=3.4, containers=LiquadContainer=21, LiquadContainer=758, RefrigeratedContainer=1890, HeacvyContainer=2324, HeacvyContainer=2480, BasicContainer=2491, HeacvyContainer=3129, HeacvyContainer=4451, HeacvyContainer=4675 
+Ship id=203, containers= , fuelofship=5474623.231910598, 
+Ship id=7, containers= , fuelofship=4275221.334337393 
+Portid=245, X=81.01, Y=50.63, containers=LiquadContainer=748, LiquadContainer=1932, LiquadContainer=1963, LiquadContainer=2547, RefrigeratedContainer=2919, HeacvyContainer=3100  
+Portid=246, X=25.29, Y=56.47, containers=RefrigeratedContainer=1249, RefrigeratedContainer=1329, HeacvyContainer=1707, RefrigeratedContainer=3022, HeacvyContainer=3187, HeacvyContainer=3400, LiquadContainer=3531, HeacvyContainer=3685, BasicContainer=3764, HeacvyContainer=3849 
+Ship id=811, containers= , fuelofship=2773221.266018645, 
+Ship id=459, containers= , fuelofship=4386024.686334842 
+Portid=247, X=7.91, Y=59.55, containers=HeacvyContainer=234, HeacvyContainer=546, LiquadContainer=619, RefrigeratedContainer=766, RefrigeratedContainer=914, LiquadContainer=950, HeacvyContainer=1362, LiquadContainer=1903, RefrigeratedContainer=1924, BasicContainer=2061, LiquadContainer=2261, LiquadContainer=2275, LiquadContainer=3153, HeacvyContainer=3354, LiquadContainer=3946, RefrigeratedContainer=4097, LiquadContainer=4656, LiquadContainer=4865 
+Ship id=257, containers= , fuelofship=6719554.218917215, 
+Ship id=331, containers= , fuelofship=7476583.221082398 
+Portid=248, X=76.99, Y=24.27, containers=RefrigeratedContainer=80, HeacvyContainer=893, LiquadContainer=980, HeacvyContainer=1810, HeacvyContainer=2897, HeacvyContainer=3195, LiquadContainer=3225, LiquadContainer=3868, LiquadContainer=4004, LiquadContainer=4099, LiquadContainer=4177, RefrigeratedContainer=4296, HeacvyContainer=4359, RefrigeratedContainer=4532, RefrigeratedContainer=4631, LiquadContainer=4781, BasicContainer=4812 
+Ship id=856, containers= , fuelofship=6884956.028798319, 
+Ship id=638, containers= , fuelofship=1896900.1786464432, 
+Ship id=395, containers= , fuelofship=3781623.0532817855 
+Portid=249, X=49.5, Y=78.27, containers=RefrigeratedContainer=89, HeacvyContainer=255, HeacvyContainer=941, HeacvyContainer=1619, HeacvyContainer=1937, HeacvyContainer=1971, LiquadContainer=2178, HeacvyContainer=3449, LiquadContainer=3790, RefrigeratedContainer=3875, HeacvyContainer=4441, HeacvyContainer=4695 
+Ship id=191, containers= , fuelofship=7278369.915522252, 
+Ship id=992, containers= , fuelofship=4741983.27483092, 
+Ship id=535, containers= , fuelofship=2926749.8818301917 
+Portid=250, X=73.25, Y=77.92, containers=LiquadContainer=13, BasicContainer=133, RefrigeratedContainer=557, HeacvyContainer=1975, RefrigeratedContainer=2658, LiquadContainer=2972, LiquadContainer=3372, LiquadContainer=4424 
+Ship id=329, containers= , fuelofship=3158058.4675083677 
+Portid=251, X=89.6, Y=92.36, containers=BasicContainer=315, BasicContainer=972, BasicContainer=1299, LiquadContainer=1536, HeacvyContainer=1751, RefrigeratedContainer=1809, BasicContainer=1907, HeacvyContainer=1943, LiquadContainer=2017, LiquadContainer=2389, HeacvyContainer=2483, HeacvyContainer=2641, RefrigeratedContainer=2679, RefrigeratedContainer=2792, HeacvyContainer=3239, HeacvyContainer=3454, LiquadContainer=3716, LiquadContainer=3761, BasicContainer=4006, LiquadContainer=4215 
+Ship id=473, containers= , fuelofship=4175041.335114764, 
+Ship id=581, containers= , fuelofship=8512922.458705246 
+Portid=252, X=53.65, Y=21.6, containers=HeacvyContainer=1278, RefrigeratedContainer=1681, LiquadContainer=3174, HeacvyContainer=3293, BasicContainer=3325, HeacvyContainer=4027, HeacvyContainer=4206, HeacvyContainer=4275, HeacvyContainer=4884 
+Ship id=126, containers= , fuelofship=6490375.991658593 
+Portid=253, X=27.72, Y=87.37, containers=LiquadContainer=1032, LiquadContainer=1882, RefrigeratedContainer=2130, LiquadContainer=3292, RefrigeratedContainer=3731, LiquadContainer=4077, LiquadContainer=4198, HeacvyContainer=4260 
+Ship id=745, containers= , fuelofship=3888836.2097097123, 
+Ship id=686, containers= , fuelofship=6672986.81849111, 
+Ship id=627, containers= , fuelofship=4516458.912408272, 
+Ship id=285, containers= , fuelofship=4876433.668364019, 
+Ship id=361, containers= , fuelofship=2475795.0186558506 
+Portid=254, X=78.83, Y=18.92, containers=HeacvyContainer=291, LiquadContainer=411, LiquadContainer=986, LiquadContainer=2104, RefrigeratedContainer=2458, HeacvyContainer=4780 
+Ship id=345, containers= , fuelofship=3839914.6558231725, 
+Ship id=807, containers= , fuelofship=7017380.133612822 
+Portid=255, X=11.04, Y=48.28, containers=RefrigeratedContainer=407, RefrigeratedContainer=1240, BasicContainer=1581, HeacvyContainer=1730, LiquadContainer=2140, BasicContainer=2733, HeacvyContainer=2822, LiquadContainer=3952, HeacvyContainer=4339, HeacvyContainer=4716 
+Ship id=559, containers= , fuelofship=7692513.040006619, 
+Ship id=262, containers= , fuelofship=3811636.727692716, 
+Ship id=482, containers= , fuelofship=6370720.700318596 
+Portid=256, X=67.83, Y=52.03, containers=HeacvyContainer=579, LiquadContainer=2276, RefrigeratedContainer=3019, HeacvyContainer=3341, HeacvyContainer=3428, LiquadContainer=3517, LiquadContainer=3886 
+Ship id=115, containers= , fuelofship=2824928.170737831 
+Portid=257, X=35.1, Y=59.95, containers=HeacvyContainer=473, HeacvyContainer=1677, RefrigeratedContainer=2164, LiquadContainer=2363, RefrigeratedContainer=2443, BasicContainer=2513, LiquadContainer=2672, LiquadContainer=2882, HeacvyContainer=2950, LiquadContainer=3550, HeacvyContainer=3687, HeacvyContainer=3715, HeacvyContainer=4365, LiquadContainer=4640 
+Ship id=308, containers= , fuelofship=5094255.321860053, 
+Ship id=230, containers= , fuelofship=1512207.216193836 
+Portid=258, X=77.57, Y=40.2, containers=RefrigeratedContainer=71, HeacvyContainer=143, HeacvyContainer=1262, RefrigeratedContainer=2495, RefrigeratedContainer=3051, RefrigeratedContainer=3714 
+Ship id=970, containers= , fuelofship=3971896.0075044185, 
+Ship id=905, containers= , fuelofship=5143232.493436657 
+Portid=259, X=57.79, Y=38.31, containers=HeacvyContainer=429, HeacvyContainer=447, LiquadContainer=1014, BasicContainer=1245, RefrigeratedContainer=1697, LiquadContainer=2221, LiquadContainer=4554 
+Ship id=663, containers= , fuelofship=5371986.137257275 
+Portid=260, X=80.75, Y=55.55, containers=HeacvyContainer=78, RefrigeratedContainer=491, HeacvyContainer=631, BasicContainer=789, LiquadContainer=1731, LiquadContainer=2211, HeacvyContainer=2366, HeacvyContainer=2378, HeacvyContainer=2780, HeacvyContainer=3541, HeacvyContainer=3801, HeacvyContainer=4410, RefrigeratedContainer=4821 
+Ship id=518, containers= , fuelofship=6042407.128181622, 
+Ship id=215, containers= , fuelofship=4288007.015916129 
+Portid=261, X=31.68, Y=73.84, containers=RefrigeratedContainer=449, LiquadContainer=995, BasicContainer=1013, HeacvyContainer=1130, HeacvyContainer=2594, LiquadContainer=4973 
+Ship id=892, containers= , fuelofship=8407646.558852658, 
+Ship id=138, containers= , fuelofship=3764904.077978805 
+Portid=262, X=90.16, Y=80.54, containers=LiquadContainer=41, HeacvyContainer=540, HeacvyContainer=630, RefrigeratedContainer=824, LiquadContainer=1787, BasicContainer=1972, HeacvyContainer=2254, BasicContainer=2343, RefrigeratedContainer=2346, LiquadContainer=2913, BasicContainer=3014, HeacvyContainer=3114, HeacvyContainer=3722, RefrigeratedContainer=4229, HeacvyContainer=4284, HeacvyContainer=4667, RefrigeratedContainer=4833, HeacvyContainer=4869 
+Ship id=597, containers= , fuelofship=8278691.645103782, 
+Ship id=831, containers= , fuelofship=7530376.509437495 
+Portid=263, X=7.46, Y=74.95, containers=HeacvyContainer=348, LiquadContainer=1419, LiquadContainer=3574, RefrigeratedContainer=3843, RefrigeratedContainer=4371 
+Ship id=342, containers= , fuelofship=4848667.9959675325, 
+Ship id=165, containers= , fuelofship=6786192.285351868 
+Portid=264, X=14.34, Y=8.79, containers=RefrigeratedContainer=39, BasicContainer=160, BasicContainer=513, HeacvyContainer=662, BasicContainer=1173, HeacvyContainer=1712, HeacvyContainer=1940, HeacvyContainer=3123, RefrigeratedContainer=4306, BasicContainer=4325, HeacvyContainer=4390, LiquadContainer=4766, LiquadContainer=4788 
+Ship id=769, containers= , fuelofship=4992249.887960145, 
+Ship id=326, containers= , fuelofship=3895640.362849905, 
+Ship id=833, containers= , fuelofship=2507225.4370710393 
+Portid=265, X=73.51, Y=94.22, containers=HeacvyContainer=726, BasicContainer=1520, RefrigeratedContainer=1616, RefrigeratedContainer=2328, BasicContainer=3628, RefrigeratedContainer=3639, LiquadContainer=3848 
+Ship id=248, containers= , fuelofship=7241594.100837103, 
+Ship id=353, containers= , fuelofship=4603086.904921702, 
+Ship id=715, containers= , fuelofship=6735584.865263454 
+Portid=266, X=83.79, Y=58.47, containers=HeacvyContainer=244, RefrigeratedContainer=1089, HeacvyContainer=1369, HeacvyContainer=2026, HeacvyContainer=2764, HeacvyContainer=2961, LiquadContainer=3233, HeacvyContainer=3260, BasicContainer=4571, LiquadContainer=4594 
+Ship id=509, containers= , fuelofship=7970039.364228709, 
+Ship id=218, containers= , fuelofship=1735612.4851575214 
+Portid=267, X=93.19, Y=63.14, containers=HeacvyContainer=317, BasicContainer=933, LiquadContainer=4560, RefrigeratedContainer=4688 
+Ship id=915, containers= , fuelofship=5195825.637010357 
+Portid=268, X=77.97, Y=61.98, containers=RefrigeratedContainer=114, RefrigeratedContainer=523, RefrigeratedContainer=1105, RefrigeratedContainer=2210, RefrigeratedContainer=3643, HeacvyContainer=4001, LiquadContainer=4353 
+Ship id=733, containers= , fuelofship=3449215.567564766 
+Portid=269, X=75.13, Y=95.76, containers=LiquadContainer=761, HeacvyContainer=1090, BasicContainer=1382, LiquadContainer=1750, LiquadContainer=2236, LiquadContainer=2760, LiquadContainer=2852, HeacvyContainer=3178, RefrigeratedContainer=3758, LiquadContainer=3988, HeacvyContainer=4283, HeacvyContainer=4990 
+Ship id=494, containers= , fuelofship=3362874.3052390693, 
+Ship id=996, containers= , fuelofship=3424766.157646518, 
+Ship id=282, containers= , fuelofship=3845042.171490647, 
+Ship id=481, containers= , fuelofship=5571500.932686219, 
+Ship id=150, containers= , fuelofship=1956983.3502128976, 
+Ship id=693, containers= , fuelofship=4238639.080598083 
+Portid=270, X=40.94, Y=59.33, containers=RefrigeratedContainer=665, HeacvyContainer=1372, HeacvyContainer=3110, RefrigeratedContainer=3245, HeacvyContainer=4223, RefrigeratedContainer=4269, BasicContainer=4564 
+Ship id=563, containers= , fuelofship=4425064.400872219, 
+Ship id=291, containers= , fuelofship=2953700.2524239123, 
+Ship id=349, containers= , fuelofship=5291374.783839701 
+Portid=271, X=32.83, Y=56.67, containers=BasicContainer=231, LiquadContainer=1501, RefrigeratedContainer=2650, HeacvyContainer=3006, HeacvyContainer=3469, HeacvyContainer=3511, BasicContainer=4762 
+Ship id=393, containers= , fuelofship=3359336.168346302, 
+Ship id=815, containers= , fuelofship=7192998.123108667, 
+Ship id=763, containers= , fuelofship=6567212.602190849 
+Portid=272, X=48.12, Y=2.6, containers=LiquadContainer=56, LiquadContainer=554, HeacvyContainer=635, HeacvyContainer=2100, HeacvyContainer=2118, BasicContainer=2264, HeacvyContainer=3352, LiquadContainer=3464, HeacvyContainer=3472, RefrigeratedContainer=4127, RefrigeratedContainer=4626 
+Ship id=502, containers= , fuelofship=4574588.771035966, 
+Ship id=759, containers= , fuelofship=2506529.184011317, 
+Ship id=743, containers= , fuelofship=7581277.698498777, 
+Ship id=38, containers= , fuelofship=6776473.252310505 
+Portid=273, X=38.79, Y=4.25, containers=HeacvyContainer=802, HeacvyContainer=1084, LiquadContainer=1847, HeacvyContainer=2383, HeacvyContainer=2386, HeacvyContainer=2523, LiquadContainer=2944, BasicContainer=3106, HeacvyContainer=3175, LiquadContainer=3566, LiquadContainer=3588, LiquadContainer=4009, RefrigeratedContainer=4461, RefrigeratedContainer=4530 
+Ship id=736, containers= , fuelofship=2188762.8965660464, 
+Ship id=760, containers= , fuelofship=5881188.067084647, 
+Ship id=398, containers= , fuelofship=5840409.140483146 
+Portid=274, X=49.01, Y=78.51, containers=HeacvyContainer=409, HeacvyContainer=1058, LiquadContainer=2986, RefrigeratedContainer=3127, RefrigeratedContainer=3262, HeacvyContainer=4272, RefrigeratedContainer=4295 
+Ship id=644, containers= , fuelofship=5054252.9438259965, 
+Ship id=959, containers=HeacvyContainer=1762 , fuelofship=5639485.451950914 
+Portid=275, X=83.33, Y=72.32, containers=RefrigeratedContainer=438, HeacvyContainer=1416, LiquadContainer=1504, HeacvyContainer=2126, LiquadContainer=4835 
+Ship id=978, containers= , fuelofship=5711696.989268289 
+Portid=276, X=24.46, Y=72.01, containers=RefrigeratedContainer=175, HeacvyContainer=1055, HeacvyContainer=2524, HeacvyContainer=2876, BasicContainer=3443, LiquadContainer=3812, RefrigeratedContainer=4558, HeacvyContainer=4646 
+Ship id=998, containers= , fuelofship=4173133.1074320003, 
+Ship id=495, containers= , fuelofship=9116658.187230974, 
+Ship id=734, containers= , fuelofship=6349714.243396604, 
+Ship id=947, containers= , fuelofship=1499455.773678793 
+Portid=277, X=83.27, Y=35.21, containers=HeacvyContainer=808, HeacvyContainer=957, RefrigeratedContainer=1180, RefrigeratedContainer=1499, LiquadContainer=1767, LiquadContainer=1962, HeacvyContainer=2309, RefrigeratedContainer=2977, BasicContainer=3374, LiquadContainer=4089, LiquadContainer=4708 
+Ship id=591, containers= , fuelofship=3608656.195794033, 
+Ship id=187, containers= , fuelofship=4638336.794673713, 
+Ship id=555, containers= , fuelofship=4384046.614581877, 
+Ship id=654, containers= , fuelofship=4599209.313519998 
+Portid=278, X=35.39, Y=63.62, containers=LiquadContainer=155, HeacvyContainer=1217, RefrigeratedContainer=1314, HeacvyContainer=3569, RefrigeratedContainer=3867, RefrigeratedContainer=4415 
+Ship id=297, containers= , fuelofship=4897194.679378063, 
+Ship id=861, containers= , fuelofship=4631454.291905604, 
+Ship id=309, containers= , fuelofship=8706326.462775864 
+Portid=279, X=4.76, Y=63.96, containers=HeacvyContainer=112, HeacvyContainer=431, LiquadContainer=885, RefrigeratedContainer=948, HeacvyContainer=1888, HeacvyContainer=2086, HeacvyContainer=3094, LiquadContainer=3745, HeacvyContainer=4060, RefrigeratedContainer=4232, BasicContainer=4399, HeacvyContainer=4776 
+Ship id=723, containers= , fuelofship=4331581.164393524 
+Portid=280, X=16.33, Y=76.53, containers=LiquadContainer=353, HeacvyContainer=649, HeacvyContainer=1349, HeacvyContainer=1591, RefrigeratedContainer=2419, RefrigeratedContainer=2881, HeacvyContainer=3167, LiquadContainer=3251, HeacvyContainer=3252, LiquadContainer=3488, RefrigeratedContainer=3742, HeacvyContainer=4034, RefrigeratedContainer=4093, HeacvyContainer=4253, BasicContainer=4406, HeacvyContainer=4750 
+Ship id=893, containers= , fuelofship=7131763.042630437 
+Portid=281, X=25.22, Y=47.92, containers=HeacvyContainer=472, RefrigeratedContainer=688, LiquadContainer=819, LiquadContainer=825, RefrigeratedContainer=1334, HeacvyContainer=1602, RefrigeratedContainer=2000, RefrigeratedContainer=2408, RefrigeratedContainer=3984, HeacvyContainer=4724 
+Ship id=914, containers= , fuelofship=6716684.405503835, 
+Ship id=384, containers= , fuelofship=4953042.924284061, 
+Ship id=779, containers= , fuelofship=4878560.771289094 
+Portid=282, X=22.46, Y=40.88, containers=BasicContainer=922, HeacvyContainer=932, HeacvyContainer=2059, HeacvyContainer=2344, HeacvyContainer=2802, BasicContainer=3345, HeacvyContainer=3762 
+Ship id=558, containers= , fuelofship=2247114.1971828984, 
+Ship id=99, containers= , fuelofship=7513379.475460104 
+Portid=283, X=1.45, Y=56.4, containers=LiquadContainer=947, HeacvyContainer=1064, HeacvyContainer=1344, HeacvyContainer=3196, RefrigeratedContainer=3733, RefrigeratedContainer=3865, LiquadContainer=3995, HeacvyContainer=4217, LiquadContainer=4352 
+Ship id=493, containers= , fuelofship=3845332.8269742187 
+Portid=284, X=91.65, Y=41.81, containers=LiquadContainer=5, LiquadContainer=373, RefrigeratedContainer=1414, LiquadContainer=2428, HeacvyContainer=3206, LiquadContainer=3429, HeacvyContainer=3743 
+Ship id=698, containers= , fuelofship=4383167.861416063, 
+Ship id=613, containers= , fuelofship=4106216.8381256848 
+Portid=285, X=93.12, Y=9.96, containers=LiquadContainer=45, RefrigeratedContainer=487, HeacvyContainer=672, HeacvyContainer=1295, HeacvyContainer=2400, LiquadContainer=4028, HeacvyContainer=4877 
+Ship id=681, containers= , fuelofship=6283177.917258214, 
+Ship id=147, containers= , fuelofship=5154273.775050936, 
+Ship id=514, containers= , fuelofship=3941607.522717838 
+Portid=286, X=25.4, Y=38.37, containers=RefrigeratedContainer=621, LiquadContainer=719, RefrigeratedContainer=805, HeacvyContainer=2053, RefrigeratedContainer=2200, LiquadContainer=2286, LiquadContainer=2714, LiquadContainer=3697, LiquadContainer=3749, RefrigeratedContainer=4226, HeacvyContainer=4535 
+Ship id=711, containers= , fuelofship=8645846.483820466, 
+Ship id=155, containers= , fuelofship=6042766.4537641695 
+Portid=287, X=75.23, Y=57.46, containers=BasicContainer=361, BasicContainer=1859, LiquadContainer=2724, RefrigeratedContainer=3324, RefrigeratedContainer=3605, HeacvyContainer=3738, RefrigeratedContainer=4376  
+Portid=288, X=99.55, Y=1.16, containers=RefrigeratedContainer=58, RefrigeratedContainer=185, HeacvyContainer=522, HeacvyContainer=831, LiquadContainer=1927, HeacvyContainer=2007, RefrigeratedContainer=2027, HeacvyContainer=2616, LiquadContainer=2629, HeacvyContainer=3969, RefrigeratedContainer=4323, LiquadContainer=4619 
+Ship id=567, containers= , fuelofship=3494844.7530618208 
+Portid=289, X=14.8, Y=34.81, containers=HeacvyContainer=752, HeacvyContainer=909, LiquadContainer=1328, HeacvyContainer=1574, RefrigeratedContainer=2230, LiquadContainer=2256, HeacvyContainer=2459, RefrigeratedContainer=3083, RefrigeratedContainer=3364, RefrigeratedContainer=3660, BasicContainer=4905 
+Ship id=564, containers= , fuelofship=5354759.13290659 
+Portid=290, X=94.46, Y=33.79, containers=HeacvyContainer=97, LiquadContainer=501, HeacvyContainer=659, LiquadContainer=1333, LiquadContainer=2149, LiquadContainer=2937, LiquadContainer=3152, BasicContainer=3200, RefrigeratedContainer=3275, RefrigeratedContainer=3312, HeacvyContainer=4680, BasicContainer=4944, HeacvyContainer=4971 
+Ship id=582, containers= , fuelofship=1995224.4279052345, 
+Ship id=416, containers= , fuelofship=2788339.202952398, 
+Ship id=310, containers= , fuelofship=4021827.601962277 
+Portid=291, X=39.83, Y=63.72, containers=LiquadContainer=235, RefrigeratedContainer=1408, HeacvyContainer=1514, HeacvyContainer=2392, BasicContainer=2554, HeacvyContainer=2559, HeacvyContainer=2908, LiquadContainer=4642 
+Ship id=119, containers= , fuelofship=4222799.259114953, 
+Ship id=213, containers= , fuelofship=169396.2787063669, 
+Ship id=157, containers= , fuelofship=4729523.50212798, 
+Ship id=820, containers= , fuelofship=5188885.285482577, 
+Ship id=247, containers= , fuelofship=4369304.562901775, 
+Ship id=195, containers= , fuelofship=4111547.668259955, 
+Ship id=228, containers= , fuelofship=5050155.475957278 
+Portid=292, X=64.04, Y=95.72, containers=RefrigeratedContainer=138, HeacvyContainer=512, HeacvyContainer=636, HeacvyContainer=797, HeacvyContainer=955, HeacvyContainer=960, LiquadContainer=2259, HeacvyContainer=2867, HeacvyContainer=4487 
+Ship id=362, containers= , fuelofship=6062537.358663596, 
+Ship id=649, containers= , fuelofship=4571275.206952439, 
+Ship id=249, containers= , fuelofship=6320455.784666433 
+Portid=293, X=32.29, Y=9.47, containers=HeacvyContainer=113, LiquadContainer=299, RefrigeratedContainer=347, LiquadContainer=457, RefrigeratedContainer=534, HeacvyContainer=581, HeacvyContainer=843, HeacvyContainer=1255, LiquadContainer=1726, HeacvyContainer=2226, BasicContainer=2777, RefrigeratedContainer=3049, HeacvyContainer=3439, RefrigeratedContainer=4134, HeacvyContainer=4331, RefrigeratedContainer=4633  
+Portid=294, X=8.61, Y=56.26, containers=HeacvyContainer=970, HeacvyContainer=1149, HeacvyContainer=1622, HeacvyContainer=1658, HeacvyContainer=1815, LiquadContainer=1852, HeacvyContainer=2229, RefrigeratedContainer=2798, RefrigeratedContainer=3342, LiquadContainer=4052, LiquadContainer=4541 
+Ship id=916, containers= , fuelofship=7336655.275521899, 
+Ship id=986, containers= , fuelofship=4459775.541728851, 
+Ship id=665, containers= , fuelofship=3430954.142655092 
+Portid=295, X=64.64, Y=58.6, containers=RefrigeratedContainer=2621, LiquadContainer=3309, RefrigeratedContainer=3705, HeacvyContainer=4214, RefrigeratedContainer=4328, HeacvyContainer=4630, HeacvyContainer=4813, HeacvyContainer=4871, HeacvyContainer=4933  
+Portid=296, X=62.53, Y=71.29, containers=BasicContainer=302, LiquadContainer=444, BasicContainer=1353, HeacvyContainer=1565, RefrigeratedContainer=2772, LiquadContainer=3524, HeacvyContainer=3535, HeacvyContainer=3938, LiquadContainer=4136 
+Ship id=819, containers= , fuelofship=4894860.456428536, 
+Ship id=948, containers= , fuelofship=4166049.7847683686 
+Portid=297, X=21.7, Y=67.79, containers=HeacvyContainer=681, HeacvyContainer=900, HeacvyContainer=1827, LiquadContainer=2656, HeacvyContainer=3561, RefrigeratedContainer=3661, HeacvyContainer=3775, RefrigeratedContainer=4082, RefrigeratedContainer=4256, BasicContainer=4638 
+Ship id=652, containers= , fuelofship=2417212.1470729173, 
+Ship id=161, containers= , fuelofship=5022714.921370021, 
+Ship id=666, containers= , fuelofship=6398715.664207589 
+Portid=298, X=67.21, Y=4.3, containers=HeacvyContainer=380, HeacvyContainer=474, HeacvyContainer=656, RefrigeratedContainer=1709, LiquadContainer=2155, RefrigeratedContainer=2476, BasicContainer=3514, HeacvyContainer=3709, LiquadContainer=3975, RefrigeratedContainer=4058, HeacvyContainer=4224 
+Ship id=872, containers= , fuelofship=5207319.597749601, 
+Ship id=855, containers= , fuelofship=4177231.6055398937, 
+Ship id=898, containers= , fuelofship=4833751.275772369, 
+Ship id=919, containers= , fuelofship=3577157.840728671, 
+Ship id=762, containers= , fuelofship=6959707.711563637 
+Portid=299, X=53.85, Y=81.25, containers=RefrigeratedContainer=369, HeacvyContainer=587, HeacvyContainer=690, LiquadContainer=1127, HeacvyContainer=1555, LiquadContainer=1675, RefrigeratedContainer=1936, HeacvyContainer=2070, LiquadContainer=2505, BasicContainer=3070, LiquadContainer=3500, RefrigeratedContainer=4132, HeacvyContainer=4151, HeacvyContainer=4945 
+Ship id=963, containers= , fuelofship=4287159.333818233, 
+Ship id=812, containers= , fuelofship=5753530.490663763, 
+Ship id=451, containers= , fuelofship=7494786.710750196 
+Portid=300, X=3.27, Y=87.11, containers=HeacvyContainer=242, LiquadContainer=743, HeacvyContainer=1201, RefrigeratedContainer=1263, RefrigeratedContainer=2843, LiquadContainer=4857 
+Ship id=254, containers= , fuelofship=1082980.883942714, 
+Ship id=895, containers= , fuelofship=4203502.96541932, 
+Ship id=253, containers= , fuelofship=4787903.088115443, 
+Ship id=945, containers= , fuelofship=4954795.344134348 
+Portid=301, X=5.55, Y=98.87, containers=HeacvyContainer=466, HeacvyContainer=509, BasicContainer=565, HeacvyContainer=1625, HeacvyContainer=2609, HeacvyContainer=3234, HeacvyContainer=4875 
+Ship id=227, containers= , fuelofship=7672412.717308241, 
+Ship id=351, containers= , fuelofship=4356216.941073549 
+Portid=302, X=64.43, Y=94.94, containers=RefrigeratedContainer=842, HeacvyContainer=1300, LiquadContainer=1302, LiquadContainer=3291, HeacvyContainer=3999, HeacvyContainer=4026, LiquadContainer=4143, RefrigeratedContainer=4876 
+Ship id=427, containers= , fuelofship=4256261.583651605, 
+Ship id=622, containers= , fuelofship=7587989.494959643 
+Portid=303, X=82.03, Y=75.9, containers=RefrigeratedContainer=454, HeacvyContainer=928, HeacvyContainer=1309, LiquadContainer=2176, HeacvyContainer=3093, HeacvyContainer=3183, BasicContainer=3327, HeacvyContainer=3576, RefrigeratedContainer=3831, LiquadContainer=4595, RefrigeratedContainer=4894 
+Ship id=87, containers= , fuelofship=2866878.9882243434, 
+Ship id=737, containers= , fuelofship=6942714.615707342, 
+Ship id=295, containers= , fuelofship=2561314.8394927285, 
+Ship id=486, containers= , fuelofship=6031520.499656756, 
+Ship id=990, containers= , fuelofship=4373474.218552494 
+Portid=304, X=99.34, Y=15.32, containers=LiquadContainer=737, HeacvyContainer=999, LiquadContainer=1010, LiquadContainer=1321, LiquadContainer=1361, HeacvyContainer=1748, HeacvyContainer=1834, HeacvyContainer=2311, HeacvyContainer=2627, HeacvyContainer=2763, RefrigeratedContainer=3076, HeacvyContainer=3794, LiquadContainer=4960 
+Ship id=875, containers= , fuelofship=5756914.704227395, 
+Ship id=942, containers= , fuelofship=3525017.181627243 
+Portid=305, X=76.07, Y=84.74, containers=RefrigeratedContainer=732, HeacvyContainer=952, RefrigeratedContainer=2035, RefrigeratedContainer=2810, BasicContainer=2924, LiquadContainer=3003, BasicContainer=4069, BasicContainer=4207, HeacvyContainer=4350, BasicContainer=4488, HeacvyContainer=4556 
+Ship id=568, containers= , fuelofship=4288369.753085989 
+Portid=306, X=57.95, Y=32.25, containers=RefrigeratedContainer=50, RefrigeratedContainer=327, HeacvyContainer=1563, LiquadContainer=1887, HeacvyContainer=2263, RefrigeratedContainer=3512, HeacvyContainer=4466, HeacvyContainer=4738  
+Portid=307, X=12.93, Y=49.22, containers=RefrigeratedContainer=316, BasicContainer=351, BasicContainer=742, HeacvyContainer=1758, HeacvyContainer=2761, BasicContainer=3278, HeacvyContainer=3520, HeacvyContainer=4227, BasicContainer=4430 
+Ship id=6, containers= , fuelofship=5786634.781166267, 
+Ship id=95, containers= , fuelofship=3744873.5038428684, 
+Ship id=391, containers= , fuelofship=4982953.761361981 
+Portid=308, X=87.19, Y=68.7, containers=HeacvyContainer=79, HeacvyContainer=484, RefrigeratedContainer=756, HeacvyContainer=890, HeacvyContainer=2123, LiquadContainer=2362, RefrigeratedContainer=2447, HeacvyContainer=3154, LiquadContainer=4239, HeacvyContainer=4701, HeacvyContainer=4968 
+Ship id=8, containers= , fuelofship=2279544.031882798, 
+Ship id=31, containers= , fuelofship=8636292.90158709, 
+Ship id=23, containers= , fuelofship=5437509.080305985 
+Portid=309, X=80.7, Y=31.8, containers=HeacvyContainer=186, LiquadContainer=544, HeacvyContainer=736, RefrigeratedContainer=1091, HeacvyContainer=1095, LiquadContainer=1664, LiquadContainer=2647, HeacvyContainer=4348  
+Portid=310, X=35.3, Y=69.11, containers=BasicContainer=179, LiquadContainer=529, HeacvyContainer=564, LiquadContainer=829, HeacvyContainer=1209, RefrigeratedContainer=1759, LiquadContainer=2169, BasicContainer=2475, BasicContainer=4846 
+Ship id=334, containers= , fuelofship=5750003.425889946 
+Portid=311, X=23.38, Y=78.15, containers=BasicContainer=1004, LiquadContainer=1389, RefrigeratedContainer=1404, LiquadContainer=1522, LiquadContainer=2054, HeacvyContainer=2445, HeacvyContainer=2490, LiquadContainer=2754, RefrigeratedContainer=3433, HeacvyContainer=4364, HeacvyContainer=4509 
+Ship id=281, containers= , fuelofship=3634090.715508467 
+Portid=312, X=1.97, Y=59.92, containers=RefrigeratedContainer=337, HeacvyContainer=1060, LiquadContainer=1155, LiquadContainer=2239, HeacvyContainer=3568, RefrigeratedContainer=4815 
+Ship id=708, containers= , fuelofship=4978605.134325557, 
+Ship id=369, containers= , fuelofship=4056444.9951277478, 
+Ship id=727, containers= , fuelofship=2787522.3486026833, 
+Ship id=279, containers= , fuelofship=3882412.887753719 
+Portid=313, X=16.76, Y=89.73, containers=HeacvyContainer=1187, LiquadContainer=1630, HeacvyContainer=2181, HeacvyContainer=2338, LiquadContainer=2740, RefrigeratedContainer=4248 
+Ship id=761, containers= , fuelofship=6676170.593263233 
+Portid=314, X=35.81, Y=17.31, containers=RefrigeratedContainer=19, HeacvyContainer=312, RefrigeratedContainer=1391, HeacvyContainer=1424, LiquadContainer=1722, BasicContainer=2213, BasicContainer=2510, LiquadContainer=4645 
+Ship id=371, containers= , fuelofship=3989526.1221676464, 
+Ship id=835, containers= , fuelofship=5691111.244595777 
+Portid=315, X=4.96, Y=40.23, containers=LiquadContainer=0, RefrigeratedContainer=592, BasicContainer=1227, LiquadContainer=1576, HeacvyContainer=1671, HeacvyContainer=1719, HeacvyContainer=2426, LiquadContainer=2655, HeacvyContainer=4528, HeacvyContainer=4565  
+Portid=316, X=76.14, Y=50.18, containers=BasicContainer=1035, RefrigeratedContainer=1410, BasicContainer=2787, HeacvyContainer=3000, LiquadContainer=3554, BasicContainer=4574, HeacvyContainer=4939  
+Portid=317, X=29.05, Y=65.93, containers=LiquadContainer=35, LiquadContainer=318, LiquadContainer=1019, HeacvyContainer=1197, HeacvyContainer=1472, HeacvyContainer=1626, LiquadContainer=2003, RefrigeratedContainer=2081, RefrigeratedContainer=3757, HeacvyContainer=4135, RefrigeratedContainer=4576  
+Portid=318, X=57.46, Y=84.6, containers=RefrigeratedContainer=396, LiquadContainer=576, RefrigeratedContainer=1259, HeacvyContainer=1615, LiquadContainer=2052, HeacvyContainer=2371, HeacvyContainer=2506, HeacvyContainer=2633, HeacvyContainer=3785, LiquadContainer=4238, LiquadContainer=4666, RefrigeratedContainer=4770 
+Ship id=637, containers= , fuelofship=5030229.2189604025, 
+Ship id=897, containers= , fuelofship=5744149.6426883275, 
+Ship id=651, containers= , fuelofship=408279.2762623208 
+Portid=319, X=46.03, Y=67.9, containers=RefrigeratedContainer=153, BasicContainer=260, HeacvyContainer=931, LiquadContainer=1059, HeacvyContainer=1569, LiquadContainer=2019, RefrigeratedContainer=3034, RefrigeratedContainer=3298, RefrigeratedContainer=3816, RefrigeratedContainer=4367, LiquadContainer=4843  
+Portid=320, X=33.48, Y=75.86, containers=RefrigeratedContainer=252, HeacvyContainer=301, LiquadContainer=782, HeacvyContainer=993, LiquadContainer=3131, LiquadContainer=3864  
+Portid=321, X=73.47, Y=12.72, containers=LiquadContainer=272, HeacvyContainer=398, HeacvyContainer=588, LiquadContainer=798, HeacvyContainer=2207, RefrigeratedContainer=2384, RefrigeratedContainer=2952, LiquadContainer=2983, HeacvyContainer=3447, HeacvyContainer=3712, HeacvyContainer=4140, LiquadContainer=4742, LiquadContainer=4915, LiquadContainer=4955 
+Ship id=930, containers= , fuelofship=7140144.0826043775 
+Portid=322, X=44.75, Y=50.4, containers=LiquadContainer=500, RefrigeratedContainer=851, BasicContainer=939, RefrigeratedContainer=1908, LiquadContainer=2038, RefrigeratedContainer=2368, LiquadContainer=2463, HeacvyContainer=2653, RefrigeratedContainer=2838, RefrigeratedContainer=2868, RefrigeratedContainer=4627, HeacvyContainer=4963 
+Ship id=176, containers= , fuelofship=4072597.50234858, 
+Ship id=971, containers= , fuelofship=2107543.4349878635, 
+Ship id=521, containers= , fuelofship=5161232.574485936 
+Portid=323, X=90.05, Y=58.76, containers=LiquadContainer=184, LiquadContainer=287, RefrigeratedContainer=856, RefrigeratedContainer=3027, RefrigeratedContainer=3288, LiquadContainer=4952, RefrigeratedContainer=4989  
+Portid=324, X=74.83, Y=37.03, containers=HeacvyContainer=102, LiquadContainer=268, RefrigeratedContainer=372, BasicContainer=558, LiquadContainer=772, HeacvyContainer=1870, RefrigeratedContainer=2150, HeacvyContainer=3088, HeacvyContainer=4195, RefrigeratedContainer=4908 
+Ship id=659, containers= , fuelofship=4764831.791494679, 
+Ship id=500, containers= , fuelofship=5629183.400712369 
+Portid=325, X=60.23, Y=67.2, containers=LiquadContainer=290, LiquadContainer=594, HeacvyContainer=1017, LiquadContainer=1332, HeacvyContainer=1386, HeacvyContainer=1649, HeacvyContainer=1857, HeacvyContainer=2617, HeacvyContainer=3346, LiquadContainer=3495, HeacvyContainer=3513, LiquadContainer=4072 
+Ship id=396, containers= , fuelofship=4597316.211354528, 
+Ship id=801, containers= , fuelofship=2679545.060397784 
+Portid=326, X=6.9, Y=56.02, containers=HeacvyContainer=48, LiquadContainer=751, RefrigeratedContainer=880, LiquadContainer=1103, RefrigeratedContainer=2045, RefrigeratedContainer=2494, RefrigeratedContainer=4095, HeacvyContainer=4981  
+Portid=327, X=80.99, Y=83.91, containers=BasicContainer=339, HeacvyContainer=1668, RefrigeratedContainer=1916, LiquadContainer=2316, HeacvyContainer=2907, RefrigeratedContainer=4802, HeacvyContainer=4937 
+Ship id=259, containers= , fuelofship=4949151.507402039 
+Portid=328, X=82.85, Y=66.18, containers=LiquadContainer=652, LiquadContainer=1446, LiquadContainer=3396, HeacvyContainer=3438, HeacvyContainer=3477, HeacvyContainer=3810, HeacvyContainer=4880 
+Ship id=677, containers= , fuelofship=5281346.242192899, 
+Ship id=217, containers= , fuelofship=3929472.7884943658, 
+Ship id=825, containers= , fuelofship=5932572.496051945 
+Portid=329, X=80.21, Y=80.98, containers=HeacvyContainer=60, RefrigeratedContainer=274, RefrigeratedContainer=326, HeacvyContainer=1047, LiquadContainer=1599, RefrigeratedContainer=1861, BasicContainer=2473, RefrigeratedContainer=2532, LiquadContainer=2987, LiquadContainer=3102, BasicContainer=3160, HeacvyContainer=3389 
+Ship id=205, containers= , fuelofship=5032923.382454945, 
+Ship id=782, containers= , fuelofship=4380641.737661757, 
+Ship id=333, containers= , fuelofship=5998732.116086011, 
+Ship id=422, containers= , fuelofship=5757435.988068736 
+Portid=330, X=60.85, Y=17.44, containers=HeacvyContainer=137, LiquadContainer=300, BasicContainer=1543, LiquadContainer=1757, RefrigeratedContainer=1778, RefrigeratedContainer=2152, BasicContainer=2549, HeacvyContainer=2875, LiquadContainer=3563, LiquadContainer=3967, RefrigeratedContainer=4040, LiquadContainer=4591, HeacvyContainer=4814 
+Ship id=464, containers= , fuelofship=4550224.560252425, 
+Ship id=196, containers= , fuelofship=4672509.876770652, 
+Ship id=71, containers= , fuelofship=6702318.592009405, 
+Ship id=356, containers= , fuelofship=7498506.337730782 
+Portid=331, X=45.15, Y=68.46, containers=RefrigeratedContainer=267, HeacvyContainer=787, HeacvyContainer=1232, RefrigeratedContainer=1867, LiquadContainer=2030, RefrigeratedContainer=2055, RefrigeratedContainer=3922, LiquadContainer=4090, RefrigeratedContainer=4282, LiquadContainer=4312, LiquadContainer=4462, HeacvyContainer=4691, LiquadContainer=4926 
+Ship id=602, containers= , fuelofship=5735305.65837751, 
+Ship id=122, containers= , fuelofship=5278684.579242785, 
+Ship id=634, containers= , fuelofship=3527374.769576623 
+Portid=332, X=20.41, Y=50.18, containers=LiquadContainer=141, HeacvyContainer=517, LiquadContainer=702, BasicContainer=1384, LiquadContainer=1914, RefrigeratedContainer=2470, LiquadContainer=3050, RefrigeratedContainer=3075, HeacvyContainer=3710, RefrigeratedContainer=4084, HeacvyContainer=4589 
+Ship id=220, containers= , fuelofship=8009845.824186888, 
+Ship id=472, containers= , fuelofship=4658447.266564665, 
+Ship id=67, containers= , fuelofship=4726599.13233017 
+Portid=333, X=6.5, Y=25.74, containers=RefrigeratedContainer=12, BasicContainer=62, HeacvyContainer=469, LiquadContainer=696, BasicContainer=2291, HeacvyContainer=2705, RefrigeratedContainer=3213, HeacvyContainer=3770, LiquadContainer=4180, LiquadContainer=4343, HeacvyContainer=4545 
+Ship id=531, containers= , fuelofship=3253468.766991608, 
+Ship id=746, containers= , fuelofship=3755891.1228851695, 
+Ship id=662, containers= , fuelofship=3956298.2841080627 
+Portid=334, X=45.31, Y=63.16, containers=LiquadContainer=238, LiquadContainer=325, RefrigeratedContainer=492, RefrigeratedContainer=1286, LiquadContainer=1310, BasicContainer=1496, HeacvyContainer=1567, HeacvyContainer=2049, RefrigeratedContainer=2435, BasicContainer=2584, HeacvyContainer=2748, HeacvyContainer=2750, HeacvyContainer=3270, RefrigeratedContainer=3458, HeacvyContainer=3668, LiquadContainer=4064, HeacvyContainer=4167, HeacvyContainer=4202, RefrigeratedContainer=4439, HeacvyContainer=4774  
+Portid=335, X=68.16, Y=6.98, containers=LiquadContainer=329, BasicContainer=503, BasicContainer=738, RefrigeratedContainer=1134, HeacvyContainer=1153, HeacvyContainer=1183, BasicContainer=1225, RefrigeratedContainer=1228, LiquadContainer=1335, HeacvyContainer=1415, LiquadContainer=2009, RefrigeratedContainer=3055, HeacvyContainer=3673, LiquadContainer=4235, RefrigeratedContainer=4262, BasicContainer=4327, HeacvyContainer=4703 
+Ship id=932, containers= , fuelofship=5558760.382260576 
+Portid=336, X=47.37, Y=6.76, containers=HeacvyContainer=188, HeacvyContainer=624, LiquadContainer=1517, LiquadContainer=1773, HeacvyContainer=1845, HeacvyContainer=3519, RefrigeratedContainer=4463, RefrigeratedContainer=4644  
+Portid=337, X=73.56, Y=61.92, containers=HeacvyContainer=654, LiquadContainer=1609, HeacvyContainer=1710, RefrigeratedContainer=1917, LiquadContainer=2190, LiquadContainer=3242, HeacvyContainer=3366, HeacvyContainer=3684, HeacvyContainer=3813, RefrigeratedContainer=4196, HeacvyContainer=4694 
+Ship id=639, containers= , fuelofship=6939962.572252235, 
+Ship id=728, containers= , fuelofship=3350109.24548453, 
+Ship id=561, containers= , fuelofship=4177259.3985873805 
+Portid=338, X=19.1, Y=22.48, containers=HeacvyContainer=165, HeacvyContainer=1430, RefrigeratedContainer=2651, RefrigeratedContainer=4012, RefrigeratedContainer=4889 
+Ship id=994, containers= , fuelofship=6042007.687088717 
+Portid=339, X=93.72, Y=46.06, containers=BasicContainer=169, HeacvyContainer=848, HeacvyContainer=2399, RefrigeratedContainer=2839, LiquadContainer=2995, HeacvyContainer=4288, HeacvyContainer=4360, RefrigeratedContainer=4961 
+Ship id=452, containers= , fuelofship=7630747.833167231 
+Portid=340, X=62.61, Y=52.86, containers=HeacvyContainer=465, HeacvyContainer=580, HeacvyContainer=838, RefrigeratedContainer=1680, LiquadContainer=1717, LiquadContainer=3135, LiquadContainer=4074 
+Ship id=814, containers= , fuelofship=4091171.3118225248, 
+Ship id=267, containers= , fuelofship=8797893.735607311 
+Portid=341, X=96.54, Y=72.0, containers=HeacvyContainer=527, LiquadContainer=1046, HeacvyContainer=1074, LiquadContainer=1117, HeacvyContainer=3892, HeacvyContainer=4146 
+Ship id=692, containers= , fuelofship=6251753.583720477, 
+Ship id=785, containers= , fuelofship=6788876.571418152 
+Portid=342, X=53.11, Y=69.61, containers=HeacvyContainer=157, HeacvyContainer=658, RefrigeratedContainer=1588, LiquadContainer=2728, HeacvyContainer=2976, HeacvyContainer=3069, BasicContainer=3096, RefrigeratedContainer=3774, RefrigeratedContainer=4361, LiquadContainer=4657 
+Ship id=454, containers= , fuelofship=2381361.575112822, 
+Ship id=975, containers= , fuelofship=6312632.5103471605 
+Portid=343, X=68.03, Y=56.49, containers=HeacvyContainer=849, HeacvyContainer=1527, LiquadContainer=1583, LiquadContainer=1678, RefrigeratedContainer=2220, RefrigeratedContainer=3161, HeacvyContainer=3319, RefrigeratedContainer=3397, HeacvyContainer=3824, RefrigeratedContainer=4824 
+Ship id=469, containers= , fuelofship=5758673.449444201, 
+Ship id=178, containers= , fuelofship=4249816.452626208, 
+Ship id=330, containers= , fuelofship=4162427.6382583734 
+Portid=344, X=39.76, Y=9.95, containers=RefrigeratedContainer=151, BasicContainer=168, HeacvyContainer=715, HeacvyContainer=1642, RefrigeratedContainer=2028, HeacvyContainer=2517, LiquadContainer=3024, HeacvyContainer=4053, RefrigeratedContainer=4247, HeacvyContainer=4437, HeacvyContainer=4445, LiquadContainer=4608  
+Portid=345, X=4.27, Y=62.56, containers=RefrigeratedContainer=481, HeacvyContainer=515, HeacvyContainer=1073, HeacvyContainer=1108, HeacvyContainer=2402, HeacvyContainer=2884, HeacvyContainer=3248, BasicContainer=4950  
+Portid=346, X=47.88, Y=94.89, containers=LiquadContainer=644, HeacvyContainer=894, BasicContainer=1012, RefrigeratedContainer=1670, HeacvyContainer=1948, LiquadContainer=2069, HeacvyContainer=2713, HeacvyContainer=3012, RefrigeratedContainer=3376, BasicContainer=4212 
+Ship id=973, containers= , fuelofship=7313301.539302335, 
+Ship id=539, containers= , fuelofship=3243468.867096385 
+Portid=347, X=18.9, Y=68.38, containers=HeacvyContainer=162, BasicContainer=243, LiquadContainer=872, RefrigeratedContainer=1062, RefrigeratedContainer=1538, LiquadContainer=2610, BasicContainer=3507, HeacvyContainer=3835, HeacvyContainer=4755, RefrigeratedContainer=4940 
+Ship id=316, containers= , fuelofship=4294376.64147173, 
+Ship id=988, containers= , fuelofship=5639951.172288927, 
+Ship id=560, containers= , fuelofship=5888495.892592029 
+Portid=348, X=34.77, Y=49.87, containers=RefrigeratedContainer=93, HeacvyContainer=249, RefrigeratedContainer=602, HeacvyContainer=1132, RefrigeratedContainer=1200, HeacvyContainer=1716, RefrigeratedContainer=1988, HeacvyContainer=2107, HeacvyContainer=2302, HeacvyContainer=2922, HeacvyContainer=3370, HeacvyContainer=3483, BasicContainer=3592, HeacvyContainer=4304, LiquadContainer=4684, RefrigeratedContainer=4778 
+Ship id=200, containers= , fuelofship=5661752.179626224, 
+Ship id=348, containers= , fuelofship=3681746.1780361678, 
+Ship id=448, containers= , fuelofship=4708094.007414391 
+Portid=349, X=63.0, Y=81.63, containers=RefrigeratedContainer=876, HeacvyContainer=1375, HeacvyContainer=1470, HeacvyContainer=2197, BasicContainer=2943, RefrigeratedContainer=3363, RefrigeratedContainer=3797, HeacvyContainer=4218 
+Ship id=791, containers= , fuelofship=3185468.922779663, 
+Ship id=929, containers= , fuelofship=6622730.544960412, 
+Ship id=460, containers= , fuelofship=3802277.686076696 
+Portid=350, X=82.85, Y=2.36, containers=HeacvyContainer=963, RefrigeratedContainer=1502, RefrigeratedContainer=2184, BasicContainer=2390, RefrigeratedContainer=3448, HeacvyContainer=3580, RefrigeratedContainer=4163, RefrigeratedContainer=4164, HeacvyContainer=4261 
+Ship id=694, containers= , fuelofship=4349051.269899631, 
+Ship id=145, containers= , fuelofship=7661453.095545584 
+Portid=351, X=46.41, Y=10.57, containers=RefrigeratedContainer=183, RefrigeratedContainer=455, RefrigeratedContainer=547, RefrigeratedContainer=1075, LiquadContainer=1290, LiquadContainer=1390, LiquadContainer=1918, HeacvyContainer=1922, RefrigeratedContainer=2441, HeacvyContainer=2501, RefrigeratedContainer=3119, LiquadContainer=3546, HeacvyContainer=3617, LiquadContainer=3638, HeacvyContainer=3971 
+Ship id=33, containers= , fuelofship=4191056.5336051523 
+Portid=352, X=77.17, Y=12.66, containers=HeacvyContainer=701, RefrigeratedContainer=1085, RefrigeratedContainer=1195, HeacvyContainer=1196, LiquadContainer=1359, BasicContainer=1713, HeacvyContainer=1886, LiquadContainer=1992, HeacvyContainer=2574, HeacvyContainer=3888, HeacvyContainer=4014, LiquadContainer=4387, HeacvyContainer=4514, HeacvyContainer=4932 
+Ship id=984, containers= , fuelofship=5539984.2238211455, 
+Ship id=368, containers= , fuelofship=6959191.458433163, 
+Ship id=839, containers= , fuelofship=5506890.3745555645, 
+Ship id=810, containers= , fuelofship=3135083.5387160336 
+Portid=353, X=35.24, Y=87.39, containers=HeacvyContainer=874, RefrigeratedContainer=1233, HeacvyContainer=2414, RefrigeratedContainer=3052, HeacvyContainer=3203, LiquadContainer=3570, HeacvyContainer=4991 
+Ship id=512, containers= , fuelofship=6829464.859595463, 
+Ship id=551, containers= , fuelofship=4765455.248625458, 
+Ship id=53, containers= , fuelofship=6991882.167018159 
+Portid=354, X=21.88, Y=31.05, containers=BasicContainer=232, HeacvyContainer=1418, LiquadContainer=1856, HeacvyContainer=1980, LiquadContainer=2557, HeacvyContainer=3422, HeacvyContainer=3560, HeacvyContainer=3841, LiquadContainer=4192, RefrigeratedContainer=4503, BasicContainer=4508, RefrigeratedContainer=4786 
+Ship id=189, containers= , fuelofship=3806989.0329804523, 
+Ship id=530, containers= , fuelofship=4101018.7688706247 
+Portid=355, X=89.97, Y=49.03, containers=RefrigeratedContainer=330, HeacvyContainer=724, BasicContainer=935, BasicContainer=967, HeacvyContainer=1188, LiquadContainer=1723, LiquadContainer=3828, LiquadContainer=3953, HeacvyContainer=4381  
+Portid=356, X=88.55, Y=55.72, containers=LiquadContainer=149, RefrigeratedContainer=835, RefrigeratedContainer=1409, LiquadContainer=1564, BasicContainer=1585, RefrigeratedContainer=1595, RefrigeratedContainer=1620, HeacvyContainer=2453, HeacvyContainer=3608, BasicContainer=4319, HeacvyContainer=4513 
+Ship id=789, containers= , fuelofship=5852447.675942781, 
+Ship id=306, containers= , fuelofship=5261990.719920509 
+Portid=357, X=35.43, Y=44.41, containers=HeacvyContainer=305, HeacvyContainer=1081, RefrigeratedContainer=1139, RefrigeratedContainer=2992, RefrigeratedContainer=4098, HeacvyContainer=4250, RefrigeratedContainer=4739 
+Ship id=421, containers= , fuelofship=2547286.2105044643, 
+Ship id=232, containers= , fuelofship=2008139.2776417534, 
+Ship id=750, containers= , fuelofship=3856175.88918583, 
+Ship id=43, containers= , fuelofship=2769941.9743956258 
+Portid=358, X=23.19, Y=99.63, containers=HeacvyContainer=256, RefrigeratedContainer=704, HeacvyContainer=845, LiquadContainer=861, HeacvyContainer=1024, LiquadContainer=1106, HeacvyContainer=1628, LiquadContainer=2144, HeacvyContainer=2479, RefrigeratedContainer=2556, BasicContainer=4124 
+Ship id=533, containers= , fuelofship=3609960.126663353 
+Portid=359, X=23.93, Y=34.78, containers=LiquadContainer=140, LiquadContainer=334, RefrigeratedContainer=495, HeacvyContainer=555, HeacvyContainer=818, RefrigeratedContainer=962, HeacvyContainer=1544, HeacvyContainer=3091, LiquadContainer=3143, LiquadContainer=3294, LiquadContainer=4013, BasicContainer=4693, RefrigeratedContainer=4718 
+Ship id=199, containers= , fuelofship=7833131.678728404 
+Portid=360, X=43.48, Y=18.92, containers=RefrigeratedContainer=390, RefrigeratedContainer=953, HeacvyContainer=959, RefrigeratedContainer=1865, HeacvyContainer=2540, HeacvyContainer=2548, RefrigeratedContainer=2698, LiquadContainer=2702  
+Portid=361, X=48.45, Y=28.64, containers=RefrigeratedContainer=210, HeacvyContainer=1222, RefrigeratedContainer=1497, LiquadContainer=1952, RefrigeratedContainer=2141, RefrigeratedContainer=4368, HeacvyContainer=4712 
+Ship id=59, containers= , fuelofship=5445607.99378008, 
+Ship id=619, containers= , fuelofship=2180911.726196932 
+Portid=362, X=62.28, Y=91.9, containers=RefrigeratedContainer=222, RefrigeratedContainer=236, LiquadContainer=645, HeacvyContainer=897, RefrigeratedContainer=1739, HeacvyContainer=1754, HeacvyContainer=2179, RefrigeratedContainer=2415, HeacvyContainer=2634, LiquadContainer=3378, LiquadContainer=3726 
+Ship id=325, containers= , fuelofship=6174436.682520935, 
+Ship id=263, containers= , fuelofship=3263271.1446362203, 
+Ship id=284, containers= , fuelofship=3494085.367056984, 
+Ship id=173, containers= , fuelofship=7155346.109296187 
+Portid=363, X=60.11, Y=43.46, containers=HeacvyContainer=85, LiquadContainer=331, RefrigeratedContainer=2157, BasicContainer=2870, RefrigeratedContainer=3401, HeacvyContainer=4464, HeacvyContainer=4827  
+Portid=364, X=44.25, Y=65.22, containers=BasicContainer=629, LiquadContainer=1548, HeacvyContainer=1851, RefrigeratedContainer=1973, HeacvyContainer=2224, HeacvyContainer=3577, BasicContainer=3768, RefrigeratedContainer=4091, HeacvyContainer=4102, LiquadContainer=4478, LiquadContainer=4819 
+Ship id=93, containers= , fuelofship=4028769.9099842245, 
+Ship id=160, containers= , fuelofship=4847309.35027823, 
+Ship id=541, containers= , fuelofship=1412812.744840799, 
+Ship id=653, containers= , fuelofship=3973989.424649278, 
+Ship id=447, containers= , fuelofship=1413449.6571172832 
+Portid=365, X=89.16, Y=25.27, containers=HeacvyContainer=606, RefrigeratedContainer=1519, HeacvyContainer=2195, BasicContainer=2281, RefrigeratedContainer=3802, BasicContainer=4986 
+Ship id=194, containers= , fuelofship=5319152.790946122, 
+Ship id=952, containers= , fuelofship=2331471.4927989165, 
+Ship id=172, containers=HeacvyContainer=467 , fuelofship=3912290.867693716 
+Portid=366, X=99.53, Y=90.75, containers=BasicContainer=677, HeacvyContainer=744, BasicContainer=954, RefrigeratedContainer=1191, LiquadContainer=1476, HeacvyContainer=2805, RefrigeratedContainer=3619, HeacvyContainer=3732, HeacvyContainer=3889, HeacvyContainer=4086, LiquadContainer=4334 
+Ship id=859, containers= , fuelofship=2500293.968909746 
+Portid=367, X=64.44, Y=16.73, containers=LiquadContainer=382, LiquadContainer=773, HeacvyContainer=1339, LiquadContainer=1541, RefrigeratedContainer=2699, RefrigeratedContainer=2830, RefrigeratedContainer=4002, LiquadContainer=4782 
+Ship id=962, containers= , fuelofship=2800978.073541825, 
+Ship id=519, containers= , fuelofship=4154086.106778943 
+Portid=368, X=36.2, Y=1.49, containers=RefrigeratedContainer=164, HeacvyContainer=414, LiquadContainer=479, RefrigeratedContainer=1219, HeacvyContainer=3103, LiquadContainer=3267, HeacvyContainer=4139, RefrigeratedContainer=4803, RefrigeratedContainer=4913, LiquadContainer=4976 
+Ship id=989, containers= , fuelofship=7473023.223227078, 
+Ship id=188, containers= , fuelofship=6544449.73141797 
+Portid=369, X=84.07, Y=97.59, containers=HeacvyContainer=423, RefrigeratedContainer=903, LiquadContainer=905, RefrigeratedContainer=2083, RefrigeratedContainer=2203, RefrigeratedContainer=3584, RefrigeratedContainer=3819 
+Ship id=302, containers= , fuelofship=5278017.602324812, 
+Ship id=240, containers= , fuelofship=5687212.578125386 
+Portid=370, X=84.43, Y=34.55, containers=HeacvyContainer=476, HeacvyContainer=675, HeacvyContainer=723, HeacvyContainer=854, LiquadContainer=997, LiquadContainer=1433, HeacvyContainer=1542, RefrigeratedContainer=2241, HeacvyContainer=2990, LiquadContainer=3192, LiquadContainer=3276, BasicContainer=3301, BasicContainer=3398, HeacvyContainer=4377, HeacvyContainer=4412 
+Ship id=265, containers= , fuelofship=5425565.786717775, 
+Ship id=503, containers= , fuelofship=2838143.3336422774 
+Portid=371, X=97.1, Y=67.22, containers=HeacvyContainer=241, HeacvyContainer=660, LiquadContainer=1537, BasicContainer=1608, HeacvyContainer=1941, HeacvyContainer=2248, LiquadContainer=2387, HeacvyContainer=3007, RefrigeratedContainer=4234, RefrigeratedContainer=4547, RefrigeratedContainer=4706, RefrigeratedContainer=4799 
+Ship id=252, containers= , fuelofship=5044526.978472538, 
+Ship id=633, containers= , fuelofship=5770650.9833758185 
+Portid=372, X=9.32, Y=4.99, containers=RefrigeratedContainer=106, RefrigeratedContainer=118, BasicContainer=176, HeacvyContainer=293, BasicContainer=641, LiquadContainer=668, RefrigeratedContainer=1030, HeacvyContainer=1129, BasicContainer=1464, LiquadContainer=2306, HeacvyContainer=3921, HeacvyContainer=4115, LiquadContainer=4484 
+Ship id=18, containers= , fuelofship=5018718.621721469, 
+Ship id=32, containers= , fuelofship=5412695.803471722 
+Portid=373, X=12.67, Y=51.03, containers=RefrigeratedContainer=209, LiquadContainer=426, LiquadContainer=532, RefrigeratedContainer=875, RefrigeratedContainer=1493, RefrigeratedContainer=1968, LiquadContainer=2898, HeacvyContainer=3182, LiquadContainer=3450, LiquadContainer=3752, RefrigeratedContainer=3994, HeacvyContainer=4373 
+Ship id=501, containers= , fuelofship=4045888.866602932, 
+Ship id=166, containers= , fuelofship=6504435.555406786, 
+Ship id=540, containers= , fuelofship=5488538.1154425815 
+Portid=374, X=60.8, Y=19.93, containers=RefrigeratedContainer=3, BasicContainer=11, LiquadContainer=166, BasicContainer=940, HeacvyContainer=1613, HeacvyContainer=1694, LiquadContainer=2729, HeacvyContainer=3236, LiquadContainer=4144, BasicContainer=4817 
+Ship id=388, containers= , fuelofship=4544878.427304482, 
+Ship id=323, containers= , fuelofship=7728522.969423412, 
+Ship id=956, containers= , fuelofship=5829560.33158703, 
+Ship id=940, containers= , fuelofship=6003227.895026738 
+Portid=375, X=17.56, Y=2.58, containers=HeacvyContainer=282, BasicContainer=1142, LiquadContainer=1725, HeacvyContainer=2206, HeacvyContainer=2393, LiquadContainer=2514, HeacvyContainer=2861, LiquadContainer=3307, LiquadContainer=3943, BasicContainer=4105, HeacvyContainer=4450 
+Ship id=9, containers= , fuelofship=5324687.253930423 
+Portid=376, X=13.1, Y=19.86, containers=LiquadContainer=36, HeacvyContainer=973, HeacvyContainer=1566, BasicContainer=3728, HeacvyContainer=3803, HeacvyContainer=3901, RefrigeratedContainer=4529 
+Ship id=544, containers= , fuelofship=4446609.530503214, 
+Ship id=278, containers= , fuelofship=8358209.069343187 
+Portid=377, X=64.82, Y=18.29, containers=HeacvyContainer=170, BasicContainer=1023, HeacvyContainer=1494, HeacvyContainer=1666, BasicContainer=1683, RefrigeratedContainer=4883 
+Ship id=829, containers= , fuelofship=4871134.017472517, 
+Ship id=84, containers= , fuelofship=3276154.741575495 
+Portid=378, X=75.48, Y=19.5, containers=BasicContainer=83, RefrigeratedContainer=674, HeacvyContainer=1383, BasicContainer=1511, HeacvyContainer=2056, BasicContainer=2746, RefrigeratedContainer=2958, RefrigeratedContainer=2984, LiquadContainer=3172, RefrigeratedContainer=3906, LiquadContainer=4427, HeacvyContainer=4811  
+Portid=379, X=26.14, Y=39.06, containers=RefrigeratedContainer=526, LiquadContainer=607, LiquadContainer=1468, RefrigeratedContainer=2731, RefrigeratedContainer=2825, RefrigeratedContainer=3974, HeacvyContainer=4193 
+Ship id=906, containers= , fuelofship=5225623.836103877 
+Portid=380, X=67.11, Y=6.64, containers=HeacvyContainer=1763, BasicContainer=2174, LiquadContainer=2938, HeacvyContainer=3155, LiquadContainer=3241, HeacvyContainer=3387, HeacvyContainer=3800 
+Ship id=554, containers= , fuelofship=4122868.74655014, 
+Ship id=440, containers= , fuelofship=7067110.221586988 
+Portid=381, X=27.4, Y=78.68, containers=HeacvyContainer=1667, HeacvyContainer=2886, RefrigeratedContainer=3283, LiquadContainer=3632, HeacvyContainer=3675, HeacvyContainer=4392, RefrigeratedContainer=4917 
+Ship id=999, containers= , fuelofship=4147071.7530349763, 
+Ship id=216, containers= , fuelofship=3698560.838863841, 
+Ship id=534, containers= , fuelofship=2808292.5504319994, 
+Ship id=327, containers= , fuelofship=9869734.069139691, 
+Ship id=623, containers= , fuelofship=4178897.6317286873, 
+Ship id=480, containers= , fuelofship=2524920.6170193367 
+Portid=382, X=95.33, Y=21.94, containers=RefrigeratedContainer=1480, RefrigeratedContainer=1904, RefrigeratedContainer=2469, RefrigeratedContainer=3166, BasicContainer=3724, BasicContainer=4114, LiquadContainer=4521, RefrigeratedContainer=4806 
+Ship id=944, containers= , fuelofship=4066781.4193218453, 
+Ship id=48, containers= , fuelofship=2584495.422198952 
+Portid=383, X=89.56, Y=96.95, containers=HeacvyContainer=371, BasicContainer=889, LiquadContainer=992, LiquadContainer=1101, HeacvyContainer=1128, LiquadContainer=1342, LiquadContainer=1985, HeacvyContainer=1995, LiquadContainer=2020, RefrigeratedContainer=2373, RefrigeratedContainer=2577, HeacvyContainer=3300, HeacvyContainer=4011, HeacvyContainer=4320, RefrigeratedContainer=4749 
+Ship id=635, containers= , fuelofship=3639182.6319726114, 
+Ship id=738, containers= , fuelofship=6302621.091970365 
+Portid=384, X=50.6, Y=92.13, containers=LiquadContainer=572, RefrigeratedContainer=888, RefrigeratedContainer=1005, HeacvyContainer=1989, HeacvyContainer=2314, HeacvyContainer=2452, BasicContainer=2499, BasicContainer=2537, HeacvyContainer=2893, LiquadContainer=3138, HeacvyContainer=3146, LiquadContainer=3173, HeacvyContainer=3470, HeacvyContainer=3473, LiquadContainer=3686, LiquadContainer=3707, HeacvyContainer=4148, LiquadContainer=4280 
+Ship id=589, containers= , fuelofship=9257043.561582202, 
+Ship id=550, containers= , fuelofship=2301898.4320694865, 
+Ship id=680, containers= , fuelofship=4254539.7248722315, 
+Ship id=412, containers= , fuelofship=5011949.401311527, 
+Ship id=314, containers= , fuelofship=3578066.4088723618 
+Portid=385, X=13.01, Y=30.03, containers=LiquadContainer=1002, HeacvyContainer=1306, LiquadContainer=1311, RefrigeratedContainer=2043, HeacvyContainer=2850, RefrigeratedContainer=3214, HeacvyContainer=3435, LiquadContainer=3634, HeacvyContainer=3751, LiquadContainer=4476, HeacvyContainer=4572, LiquadContainer=4754  
+Portid=386, X=95.13, Y=91.71, containers=LiquadContainer=52, BasicContainer=127, RefrigeratedContainer=320, HeacvyContainer=625, RefrigeratedContainer=1839, HeacvyContainer=2292, HeacvyContainer=3064, LiquadContainer=3351, HeacvyContainer=3367, BasicContainer=3966, RefrigeratedContainer=4421 
+Ship id=993, containers= , fuelofship=5376783.016720242 
+Portid=387, X=77.59, Y=71.45, containers=RefrigeratedContainer=615, HeacvyContainer=984, HeacvyContainer=1413, RefrigeratedContainer=1693, BasicContainer=2354, HeacvyContainer=3253, LiquadContainer=3466, LiquadContainer=3487, RefrigeratedContainer=3650, BasicContainer=3736, RefrigeratedContainer=4897  
+Portid=388, X=49.48, Y=29.77, containers=HeacvyContainer=384, BasicContainer=754, HeacvyContainer=2385, HeacvyContainer=2981, HeacvyContainer=3698, HeacvyContainer=3826, BasicContainer=4662 
+Ship id=775, containers= , fuelofship=3863032.4426799873 
+Portid=389, X=80.3, Y=10.49, containers=HeacvyContainer=377, BasicContainer=2837, RefrigeratedContainer=2885, LiquadContainer=3647, HeacvyContainer=4345, HeacvyContainer=4649, RefrigeratedContainer=4673 
+Ship id=607, containers= , fuelofship=7483612.6781193465 
+Portid=390, X=91.99, Y=27.71, containers=HeacvyContainer=421, HeacvyContainer=904, HeacvyContainer=964, LiquadContainer=1097, HeacvyContainer=2451, HeacvyContainer=4956, HeacvyContainer=4957 
+Ship id=827, containers= , fuelofship=2782564.9904560093, 
+Ship id=526, containers= , fuelofship=5178067.510322035, 
+Ship id=838, containers= , fuelofship=6209422.438011149, 
+Ship id=834, containers= , fuelofship=4663943.639106129, 
+Ship id=590, containers= , fuelofship=7001525.906719834 
+Portid=391, X=22.85, Y=55.77, containers=RefrigeratedContainer=432, HeacvyContainer=450, LiquadContainer=1231, HeacvyContainer=1461, HeacvyContainer=1632, RefrigeratedContainer=2071, HeacvyContainer=3201, HeacvyContainer=4003, LiquadContainer=4717 
+Ship id=848, containers= , fuelofship=2222108.566580763, 
+Ship id=63, containers= , fuelofship=5333282.079308028, 
+Ship id=392, containers= , fuelofship=4828879.873978549, 
+Ship id=924, containers= , fuelofship=5415463.991809281, 
+Ship id=30, containers= , fuelofship=4185646.6770187886 
+Portid=392, X=92.95, Y=40.91, containers=BasicContainer=332, RefrigeratedContainer=582, HeacvyContainer=1157, LiquadContainer=2297, HeacvyContainer=2492, RefrigeratedContainer=3328, RefrigeratedContainer=3402, LiquadContainer=3492 
+Ship id=645, containers= , fuelofship=7077426.104320926, 
+Ship id=483, containers= , fuelofship=8423438.769606948, 
+Ship id=499, containers= , fuelofship=5001298.667290221, 
+Ship id=54, containers= , fuelofship=1067231.6738968014, 
+Ship id=601, containers= , fuelofship=4469928.951581313 
+Portid=393, X=66.9, Y=59.64, containers=RefrigeratedContainer=569, LiquadContainer=699, LiquadContainer=1944, LiquadContainer=2401, HeacvyContainer=3497, BasicContainer=3696, RefrigeratedContainer=3806, BasicContainer=3853, RefrigeratedContainer=4000  
+Portid=394, X=36.35, Y=83.03, containers=HeacvyContainer=44, LiquadContainer=194, LiquadContainer=1218, LiquadContainer=1345, HeacvyContainer=2555, HeacvyContainer=2595, LiquadContainer=3147, RefrigeratedContainer=4459, LiquadContainer=4577 
+Ship id=25, containers= , fuelofship=6247834.484399089, 
+Ship id=128, containers= , fuelofship=8751048.202485938, 
+Ship id=455, containers= , fuelofship=5021634.552035647, 
+Ship id=374, containers= , fuelofship=5521663.299964626 
+Portid=395, X=97.45, Y=65.95, containers=HeacvyContainer=1251, BasicContainer=1556, BasicContainer=1849, HeacvyContainer=2204, HeacvyContainer=2535, HeacvyContainer=2602, RefrigeratedContainer=3322, BasicContainer=3434 
+Ship id=409, containers= , fuelofship=4405748.301265598 
+Portid=396, X=1.05, Y=36.24, containers=RefrigeratedContainer=10, HeacvyContainer=494, RefrigeratedContainer=542, HeacvyContainer=721, BasicContainer=741, RefrigeratedContainer=921, RefrigeratedContainer=1672, RefrigeratedContainer=3020, HeacvyContainer=4580 
+Ship id=668, containers= , fuelofship=3009725.2730908636, 
+Ship id=193, containers= , fuelofship=4970205.529542928, 
+Ship id=164, containers= , fuelofship=4828082.868772861 
+Portid=397, X=66.58, Y=95.52, containers=LiquadContainer=310, HeacvyContainer=1007, RefrigeratedContainer=1181, RefrigeratedContainer=1854, LiquadContainer=2246, BasicContainer=2955, RefrigeratedContainer=3215, HeacvyContainer=3830 
+Ship id=44, containers= , fuelofship=5799978.0397413345, 
+Ship id=298, containers= , fuelofship=6156922.221660006, 
+Ship id=431, containers= , fuelofship=6203159.46230081 
+Portid=398, X=77.28, Y=62.15, containers=LiquadContainer=82, HeacvyContainer=297, HeacvyContainer=2143, LiquadContainer=2260, LiquadContainer=2580, RefrigeratedContainer=2660, HeacvyContainer=3590, RefrigeratedContainer=3882, HeacvyContainer=3890, RefrigeratedContainer=4403 
+Ship id=972, containers= , fuelofship=2678562.064926168 
+Portid=399, X=78.44, Y=85.93, containers=HeacvyContainer=463, HeacvyContainer=655, BasicContainer=1264, HeacvyContainer=1366, HeacvyContainer=2015, HeacvyContainer=3331, RefrigeratedContainer=3359, HeacvyContainer=3729, BasicContainer=4289, LiquadContainer=4959, HeacvyContainer=4979 
+Ship id=522, containers= , fuelofship=3619557.392715799 
+Portid=400, X=54.29, Y=8.06, containers=RefrigeratedContainer=971, LiquadContainer=1294, RefrigeratedContainer=2160, LiquadContainer=3243, HeacvyContainer=3821, HeacvyContainer=4507, LiquadContainer=4791 
+Ship id=902, containers= , fuelofship=4380789.513062596, 
+Ship id=88, containers= , fuelofship=4289045.447548912 
+Portid=401, X=80.58, Y=78.69, containers=RefrigeratedContainer=603, RefrigeratedContainer=2233, RefrigeratedContainer=2582, HeacvyContainer=2904, HeacvyContainer=3008, LiquadContainer=4037 
+Ship id=744, containers= , fuelofship=4954958.395723649, 
+Ship id=174, containers= , fuelofship=1630553.9943962465 
+Portid=402, X=13.07, Y=32.77, containers=RefrigeratedContainer=370, HeacvyContainer=597, HeacvyContainer=881, HeacvyContainer=1777, LiquadContainer=2192, LiquadContainer=2515, HeacvyContainer=3940, LiquadContainer=4255, HeacvyContainer=4317, HeacvyContainer=4902 
+Ship id=837, containers= , fuelofship=2633615.8095731568, 
+Ship id=212, containers= , fuelofship=5224016.847400653, 
+Ship id=903, containers= , fuelofship=3606908.221171783 
+Portid=403, X=9.54, Y=46.92, containers=HeacvyContainer=1144, RefrigeratedContainer=1185, HeacvyContainer=2687, BasicContainer=3442, LiquadContainer=3537, RefrigeratedContainer=4018, LiquadContainer=4125, LiquadContainer=4189 
+Ship id=354, containers= , fuelofship=9351592.544728592, 
+Ship id=599, containers= , fuelofship=4477328.072600331 
+Portid=404, X=32.96, Y=50.45, containers=LiquadContainer=1170, RefrigeratedContainer=1572, RefrigeratedContainer=2001, HeacvyContainer=2090, HeacvyContainer=3016, LiquadContainer=3219, RefrigeratedContainer=4792 
+Ship id=266, containers= , fuelofship=4096385.1154442104, 
+Ship id=658, containers= , fuelofship=6295881.448292214, 
+Ship id=477, containers= , fuelofship=3088296.159398752 
+Portid=405, X=17.99, Y=69.47, containers=HeacvyContainer=448, HeacvyContainer=762, HeacvyContainer=1114, RefrigeratedContainer=1199, RefrigeratedContainer=2223, HeacvyContainer=2225, LiquadContainer=2448, HeacvyContainer=2639, HeacvyContainer=3136, BasicContainer=3479, LiquadContainer=3985, RefrigeratedContainer=3989, LiquadContainer=4245, RefrigeratedContainer=4686, LiquadContainer=4948 
+Ship id=726, containers=RefrigeratedContainer=1929 , fuelofship=5624427.269509485, 
+Ship id=796, containers= , fuelofship=6057839.4526271885 
+Portid=406, X=36.92, Y=97.41, containers=HeacvyContainer=148, HeacvyContainer=359, LiquadContainer=468, LiquadContainer=530, RefrigeratedContainer=2117, HeacvyContainer=2404, LiquadContainer=2762, RefrigeratedContainer=3880, HeacvyContainer=3992, LiquadContainer=4030, RefrigeratedContainer=4267, RefrigeratedContainer=4830 
+Ship id=55, containers= , fuelofship=8116279.2735571535, 
+Ship id=68, containers= , fuelofship=2244359.6745740226, 
+Ship id=456, containers= , fuelofship=5017448.959885675, 
+Ship id=92, containers= , fuelofship=6957404.745615192 
+Portid=407, X=46.25, Y=36.8, containers=RefrigeratedContainer=493, HeacvyContainer=969, BasicContainer=1316, HeacvyContainer=1429, LiquadContainer=2198, LiquadContainer=2561, HeacvyContainer=3045, LiquadContainer=3340, LiquadContainer=3369, HeacvyContainer=4252, HeacvyContainer=4753  
+Portid=408, X=74.81, Y=36.11, containers=HeacvyContainer=139, HeacvyContainer=214, HeacvyContainer=275, BasicContainer=584, RefrigeratedContainer=767, RefrigeratedContainer=1491, HeacvyContainer=1639, RefrigeratedContainer=3304 
+Ship id=965, containers= , fuelofship=3043576.9802696262, 
+Ship id=572, containers= , fuelofship=4992472.397640696, 
+Ship id=411, containers= , fuelofship=6716165.529948909 
+Portid=409, X=98.02, Y=60.39, containers=LiquadContainer=1071, RefrigeratedContainer=1099, RefrigeratedContainer=1526, RefrigeratedContainer=2082, RefrigeratedContainer=2222, HeacvyContainer=2796, BasicContainer=2816, HeacvyContainer=3528, RefrigeratedContainer=4063, RefrigeratedContainer=4934 
+Ship id=27, containers= , fuelofship=5231521.450015906 
+Portid=410, X=2.77, Y=55.82, containers=HeacvyContainer=687, RefrigeratedContainer=968, HeacvyContainer=1281, HeacvyContainer=2927, LiquadContainer=3162, HeacvyContainer=3540, RefrigeratedContainer=4699, HeacvyContainer=4758, HeacvyContainer=4954 
+Ship id=673, containers= , fuelofship=3424459.021668832, 
+Ship id=236, containers= , fuelofship=8414688.387922496 
+Portid=411, X=78.74, Y=43.49, containers=RefrigeratedContainer=620, HeacvyContainer=1417, HeacvyContainer=2068, LiquadContainer=3081, RefrigeratedContainer=3132, RefrigeratedContainer=3446, HeacvyContainer=3530, RefrigeratedContainer=4480, HeacvyContainer=4510 
+Ship id=674, containers= , fuelofship=4528967.283973617, 
+Ship id=432, containers= , fuelofship=3480023.318495937, 
+Ship id=864, containers= , fuelofship=5750123.117921809, 
+Ship id=822, containers= , fuelofship=2131882.425421259, 
+Ship id=890, containers= , fuelofship=4479413.150683249 
+Portid=412, X=26.11, Y=53.33, containers=HeacvyContainer=22, HeacvyContainer=95, HeacvyContainer=1156, BasicContainer=1237, LiquadContainer=1534, LiquadContainer=1610, BasicContainer=2245, LiquadContainer=2304, HeacvyContainer=3544, HeacvyContainer=3562, RefrigeratedContainer=3881, RefrigeratedContainer=3959 
+Ship id=256, containers= , fuelofship=5617075.291525002 
+Portid=413, X=88.69, Y=63.76, containers=HeacvyContainer=691, HeacvyContainer=2578, HeacvyContainer=2694, HeacvyContainer=2730, RefrigeratedContainer=3287, LiquadContainer=3475, HeacvyContainer=3504, BasicContainer=3692, RefrigeratedContainer=3834, HeacvyContainer=4204, HeacvyContainer=4291 
+Ship id=899, containers= , fuelofship=5453914.4416483855 
+Portid=414, X=70.1, Y=60.47, containers=BasicContainer=1236, RefrigeratedContainer=1928, LiquadContainer=1954, LiquadContainer=2620, HeacvyContainer=2831, RefrigeratedContainer=3887, HeacvyContainer=3895, BasicContainer=4088 
+Ship id=799, containers= , fuelofship=3292686.125859597, 
+Ship id=513, containers= , fuelofship=7609063.390992219, 
+Ship id=739, containers= , fuelofship=6318193.7243395625 
+Portid=415, X=29.6, Y=84.87, containers=HeacvyContainer=750, RefrigeratedContainer=1900, HeacvyContainer=1905, RefrigeratedContainer=2558, RefrigeratedContainer=2619, RefrigeratedContainer=3474, HeacvyContainer=4047, HeacvyContainer=4128, HeacvyContainer=4186, LiquadContainer=4208 
+Ship id=798, containers= , fuelofship=2283967.246775723, 
+Ship id=675, containers= , fuelofship=6140709.858434975, 
+Ship id=443, containers= , fuelofship=5869216.0182783315 
+Portid=416, X=26.08, Y=1.15, containers=LiquadContainer=1150, RefrigeratedContainer=2029, LiquadContainer=2461, RefrigeratedContainer=2569, LiquadContainer=4438, HeacvyContainer=4467  
+Portid=417, X=83.37, Y=81.17, containers=LiquadContainer=728, BasicContainer=1034, RefrigeratedContainer=1363, BasicContainer=2519, LiquadContainer=2812, RefrigeratedContainer=2834, RefrigeratedContainer=3677, LiquadContainer=4242, LiquadContainer=4338 
+Ship id=57, containers= , fuelofship=5427023.662321601, 
+Ship id=880, containers= , fuelofship=5655772.200847306, 
+Ship id=190, containers= , fuelofship=7052136.016752024 
+Portid=418, X=25.0, Y=30.51, containers=HeacvyContainer=376, HeacvyContainer=3380, RefrigeratedContainer=3452, HeacvyContainer=3837, HeacvyContainer=4890 
+Ship id=332, containers= , fuelofship=3989861.1476283423 
+Portid=419, X=39.84, Y=80.67, containers=LiquadContainer=1432, LiquadContainer=2078, HeacvyContainer=2119, HeacvyContainer=2422, HeacvyContainer=3557, RefrigeratedContainer=4185, HeacvyContainer=4197 
+Ship id=845, containers= , fuelofship=4906567.822681332, 
+Ship id=717, containers= , fuelofship=2598605.5254831635 
+Portid=420, X=46.6, Y=99.25, containers=BasicContainer=475, LiquadContainer=813, RefrigeratedContainer=1172, LiquadContainer=1202, BasicContainer=1860, HeacvyContainer=2487, LiquadContainer=2743, HeacvyContainer=3833, HeacvyContainer=4162, RefrigeratedContainer=4527 
+Ship id=313, containers= , fuelofship=3587721.0545639484 
+Portid=421, X=81.42, Y=77.87, containers=LiquadContainer=174, HeacvyContainer=2804, HeacvyContainer=3199, RefrigeratedContainer=4886 
+Ship id=49, containers= , fuelofship=4216574.122802734, 
+Ship id=29, containers= , fuelofship=2361587.069350302 
+Portid=422, X=71.15, Y=19.07, containers=HeacvyContainer=177, HeacvyContainer=1027, HeacvyContainer=1669, HeacvyContainer=2564, LiquadContainer=2586, LiquadContainer=2889, LiquadContainer=3141, RefrigeratedContainer=4165, LiquadContainer=4279, HeacvyContainer=4531 
+Ship id=860, containers= , fuelofship=6597711.067036289, 
+Ship id=722, containers= , fuelofship=2557117.97343662 
+Portid=423, X=14.79, Y=41.0, containers=HeacvyContainer=277, HeacvyContainer=430, HeacvyContainer=807, LiquadContainer=989, LiquadContainer=1575, HeacvyContainer=1638, LiquadContainer=2497, HeacvyContainer=3631, RefrigeratedContainer=4116  
+Portid=424, X=31.01, Y=59.48, containers=HeacvyContainer=1138, RefrigeratedContainer=2280, HeacvyContainer=2590, HeacvyContainer=2774, RefrigeratedContainer=3040, RefrigeratedContainer=3362, HeacvyContainer=4710, RefrigeratedContainer=4885 
+Ship id=245, containers= , fuelofship=4832846.168533357, 
+Ship id=570, containers= , fuelofship=2711240.822737141, 
+Ship id=605, containers= , fuelofship=2032919.0783235761, 
+Ship id=753, containers= , fuelofship=5865442.91979649 
+Portid=425, X=35.35, Y=6.53, containers=RefrigeratedContainer=1550, BasicContainer=1830, BasicContainer=3832, BasicContainer=4347 
+Ship id=574, containers= , fuelofship=4821595.539617086, 
+Ship id=475, containers= , fuelofship=6366253.176230483, 
+Ship id=127, containers= , fuelofship=5118108.333233261 
+Portid=426, X=85.45, Y=18.18, containers=HeacvyContainer=1250, RefrigeratedContainer=1466, HeacvyContainer=1844, RefrigeratedContainer=3503, LiquadContainer=4061, LiquadContainer=4433, LiquadContainer=4460, RefrigeratedContainer=4586 
+Ship id=788, containers= , fuelofship=4906266.316646304, 
+Ship id=418, containers= , fuelofship=3472731.854767157, 
+Ship id=603, containers= , fuelofship=6792067.608985417, 
+Ship id=689, containers= , fuelofship=7058229.045026643 
+Portid=427, X=40.48, Y=62.62, containers=RefrigeratedContainer=253, HeacvyContainer=459, HeacvyContainer=1367, LiquadContainer=1407, HeacvyContainer=2212, BasicContainer=2238, RefrigeratedContainer=2359, HeacvyContainer=2820, RefrigeratedContainer=2956, HeacvyContainer=3228, LiquadContainer=4385 
+Ship id=152, containers= , fuelofship=4829604.107322016 
+Portid=428, X=91.62, Y=71.28, containers=RefrigeratedContainer=65, RefrigeratedContainer=1923, HeacvyContainer=2845, RefrigeratedContainer=3101, HeacvyContainer=3185, RefrigeratedContainer=4938 
+Ship id=14, containers= , fuelofship=3553172.8887799243, 
+Ship id=468, containers= , fuelofship=7232981.728731946, 
+Ship id=583, containers= , fuelofship=4600405.768672584 
+Portid=429, X=51.89, Y=7.08, containers=LiquadContainer=216, LiquadContainer=618, RefrigeratedContainer=632, HeacvyContainer=1451, HeacvyContainer=1883, HeacvyContainer=2185, HeacvyContainer=2529, LiquadContainer=2632, LiquadContainer=2677, HeacvyContainer=3878, HeacvyContainer=4606 
+Ship id=78, containers= , fuelofship=5178253.533095402 
+Portid=430, X=60.29, Y=3.2, containers=HeacvyContainer=1040, BasicContainer=1063, HeacvyContainer=1724, HeacvyContainer=2430, HeacvyContainer=2844, RefrigeratedContainer=2847, RefrigeratedContainer=3188, BasicContainer=4029  
+Portid=431, X=21.61, Y=62.2, containers=RefrigeratedContainer=961, HeacvyContainer=1808, LiquadContainer=2145, HeacvyContainer=4251 
+Ship id=616, containers= , fuelofship=7026731.822195435, 
+Ship id=867, containers= , fuelofship=4207454.64338355 
+Portid=432, X=84.12, Y=78.92, containers=LiquadContainer=2520, HeacvyContainer=2971, RefrigeratedContainer=3145, RefrigeratedContainer=3701, HeacvyContainer=4129, LiquadContainer=4489 
+Ship id=235, containers= , fuelofship=7034659.152408982, 
+Ship id=797, containers= , fuelofship=5205016.521749097, 
+Ship id=65, containers= , fuelofship=5191836.671548047 
+Portid=433, X=92.93, Y=60.51, containers=HeacvyContainer=365, LiquadContainer=879, HeacvyContainer=1505, RefrigeratedContainer=1631, HeacvyContainer=1641, LiquadContainer=2021, HeacvyContainer=2512, LiquadContainer=2732, LiquadContainer=3126, HeacvyContainer=3148, BasicContainer=3343, LiquadContainer=3436, HeacvyContainer=3586, RefrigeratedContainer=3929, RefrigeratedContainer=4310, RefrigeratedContainer=4583  
+Portid=434, X=60.24, Y=24.78, containers=HeacvyContainer=257, RefrigeratedContainer=731, HeacvyContainer=2781, HeacvyContainer=3553, HeacvyContainer=3676, LiquadContainer=3781, HeacvyContainer=4019, HeacvyContainer=4076, HeacvyContainer=4639 
+Ship id=58, containers= , fuelofship=5559788.87034435 
+Portid=435, X=58.24, Y=11.17, containers=HeacvyContainer=220, LiquadContainer=1050, LiquadContainer=1318, LiquadContainer=2237, HeacvyContainer=2502, HeacvyContainer=2542, RefrigeratedContainer=3311, HeacvyContainer=3980, LiquadContainer=4137, HeacvyContainer=4326, BasicContainer=4393 
+Ship id=201, containers= , fuelofship=6566256.787978613, 
+Ship id=643, containers= , fuelofship=4450957.967732126, 
+Ship id=288, containers= , fuelofship=3878498.823452287 
+Portid=436, X=47.58, Y=89.63, containers=LiquadContainer=76, RefrigeratedContainer=352, HeacvyContainer=477, LiquadContainer=533, HeacvyContainer=1061, HeacvyContainer=1539, RefrigeratedContainer=2217, RefrigeratedContainer=2361, RefrigeratedContainer=3157, RefrigeratedContainer=3158, LiquadContainer=4436, RefrigeratedContainer=4787  
+Portid=437, X=99.18, Y=36.01, containers=HeacvyContainer=195, HeacvyContainer=433, HeacvyContainer=595, BasicContainer=2051, HeacvyContainer=3394, RefrigeratedContainer=4205, BasicContainer=4593, RefrigeratedContainer=4861 
+Ship id=821, containers= , fuelofship=3074526.6610129788 
+Portid=438, X=92.43, Y=40.89, containers=LiquadContainer=568, RefrigeratedContainer=1076, BasicContainer=1835, RefrigeratedContainer=2895, RefrigeratedContainer=3163, LiquadContainer=3689, HeacvyContainer=3968, RefrigeratedContainer=4868 
+Ship id=938, containers= , fuelofship=9254021.795282992, 
+Ship id=151, containers= , fuelofship=2444519.186016794 
+Portid=439, X=98.03, Y=42.82, containers=HeacvyContainer=539, LiquadContainer=1137, BasicContainer=1423, HeacvyContainer=1752, HeacvyContainer=2270, HeacvyContainer=2279, LiquadContainer=2960, HeacvyContainer=3302, RefrigeratedContainer=3884, RefrigeratedContainer=4158, RefrigeratedContainer=4335 
+Ship id=931, containers= , fuelofship=3312186.2646539304, 
+Ship id=229, containers= , fuelofship=7439152.03456337, 
+Ship id=339, containers= , fuelofship=1887207.195717726 
+Portid=440, X=47.06, Y=44.07, containers=HeacvyContainer=611, RefrigeratedContainer=1273, RefrigeratedContainer=1292, BasicContainer=1503, LiquadContainer=1733, RefrigeratedContainer=2096, RefrigeratedContainer=2625, LiquadContainer=2693, HeacvyContainer=4068, LiquadContainer=4300, HeacvyContainer=4449, HeacvyContainer=4796 
+Ship id=231, containers= , fuelofship=5386610.855922917, 
+Ship id=465, containers= , fuelofship=5006158.873242341, 
+Ship id=843, containers= , fuelofship=6206839.002867336 
+Portid=441, X=33.79, Y=87.73, containers=RefrigeratedContainer=263, LiquadContainer=437, HeacvyContainer=926, LiquadContainer=1179, LiquadContainer=1529, LiquadContainer=2628, LiquadContainer=2700, HeacvyContainer=3037, RefrigeratedContainer=3210, RefrigeratedContainer=3516, RefrigeratedContainer=4404, LiquadContainer=4941 
+Ship id=365, containers= , fuelofship=4521959.433350654 
+Portid=442, X=70.53, Y=35.9, containers=LiquadContainer=2310, HeacvyContainer=2903, RefrigeratedContainer=3395, HeacvyContainer=3822, BasicContainer=4302, HeacvyContainer=4434, HeacvyContainer=4544, HeacvyContainer=4728 
+Ship id=171, containers= , fuelofship=5760696.372468641, 
+Ship id=664, containers= , fuelofship=5943394.733177915 
+Portid=443, X=11.54, Y=18.22, containers=RefrigeratedContainer=23, HeacvyContainer=401, HeacvyContainer=434, BasicContainer=673, HeacvyContainer=929, LiquadContainer=1484, HeacvyContainer=1878, RefrigeratedContainer=2313, BasicContainer=3109, HeacvyContainer=3379, HeacvyContainer=4395, RefrigeratedContainer=4800, HeacvyContainer=4852 
+Ship id=110, containers= , fuelofship=5765841.323284407, 
+Ship id=129, containers= , fuelofship=3918378.3927985127, 
+Ship id=134, containers= , fuelofship=5744201.099074847 
+Portid=444, X=90.31, Y=10.4, containers=HeacvyContainer=1163, HeacvyContainer=2012, RefrigeratedContainer=2444, HeacvyContainer=2596, HeacvyContainer=2692, HeacvyContainer=3526, RefrigeratedContainer=3903, HeacvyContainer=4401, LiquadContainer=4584, LiquadContainer=4720, RefrigeratedContainer=4949 
+Ship id=960, containers= , fuelofship=6592150.772875643, 
+Ship id=74, containers= , fuelofship=1154107.3120184622 
+Portid=445, X=56.93, Y=91.19, containers=LiquadContainer=51, HeacvyContainer=653, LiquadContainer=977, LiquadContainer=1951, BasicContainer=3115 
+Ship id=158, containers= , fuelofship=6806104.774176078, 
+Ship id=41, containers= , fuelofship=4369507.914984804, 
+Ship id=367, containers= , fuelofship=5437019.504742876, 
+Ship id=933, containers= , fuelofship=5213854.885549489, 
+Ship id=700, containers= , fuelofship=8439456.432209067, 
+Ship id=241, containers= , fuelofship=1875458.4040550357 
+Portid=446, X=33.73, Y=31.98, containers=HeacvyContainer=1444, HeacvyContainer=2982, HeacvyContainer=3258, HeacvyContainer=3703, HeacvyContainer=4005, RefrigeratedContainer=4156, RefrigeratedContainer=4756, BasicContainer=4899, HeacvyContainer=5000 
+Ship id=474, containers= , fuelofship=5811548.0576377865, 
+Ship id=414, containers= , fuelofship=6037674.402974697 
+Portid=447, X=46.78, Y=73.71, containers=LiquadContainer=1348, HeacvyContainer=1761, HeacvyContainer=2598, RefrigeratedContainer=2967, RefrigeratedContainer=4286, RefrigeratedContainer=4398  
+Portid=448, X=10.33, Y=66.59, containers=LiquadContainer=224, HeacvyContainer=1171, LiquadContainer=1337, HeacvyContainer=2909  
+Portid=449, X=62.42, Y=62.95, containers=LiquadContainer=96, HeacvyContainer=1120, LiquadContainer=1829, BasicContainer=2058, LiquadContainer=2228, HeacvyContainer=2849, HeacvyContainer=3058, BasicContainer=3587, LiquadContainer=4039, HeacvyContainer=4301, HeacvyContainer=4725 
+Ship id=140, containers= , fuelofship=4186640.575963339 
+Portid=450, X=74.76, Y=92.26, containers=RefrigeratedContainer=3594, HeacvyContainer=3642, LiquadContainer=4504  
+Portid=451, X=91.98, Y=10.35, containers=LiquadContainer=336, BasicContainer=2255, HeacvyContainer=2785, LiquadContainer=3350, LiquadContainer=3772, HeacvyContainer=4400, LiquadContainer=4408, RefrigeratedContainer=4613, LiquadContainer=4731, RefrigeratedContainer=4903 
+Ship id=214, containers= , fuelofship=2489228.5006847326, 
+Ship id=620, containers= , fuelofship=3612596.8927182704, 
+Ship id=926, containers= , fuelofship=2917393.9642844363 
+Portid=452, X=28.93, Y=59.94, containers=HeacvyContainer=49, RefrigeratedContainer=81, LiquadContainer=1065, LiquadContainer=1826, RefrigeratedContainer=2769, HeacvyContainer=2980, HeacvyContainer=3978, LiquadContainer=4110, LiquadContainer=4661, BasicContainer=4711, HeacvyContainer=4769, LiquadContainer=4834 
+Ship id=987, containers= , fuelofship=5174321.0198419895 
+Portid=453, X=97.99, Y=77.98, containers=LiquadContainer=284, HeacvyContainer=1208, LiquadContainer=1355, HeacvyContainer=1974, RefrigeratedContainer=2121, RefrigeratedContainer=4309, HeacvyContainer=4859, HeacvyContainer=4873 
+Ship id=646, containers= , fuelofship=6850763.449031262, 
+Ship id=719, containers= , fuelofship=3706446.56902614, 
+Ship id=335, containers= , fuelofship=5607175.474567968 
+Portid=454, X=31.83, Y=30.47, containers=LiquadContainer=937, LiquadContainer=1243, HeacvyContainer=1533, LiquadContainer=1684, LiquadContainer=1926, BasicContainer=2397, HeacvyContainer=2649, RefrigeratedContainer=3046, HeacvyContainer=3176, HeacvyContainer=3842, HeacvyContainer=4465, LiquadContainer=4669  
+Portid=455, X=28.53, Y=39.51, containers=HeacvyContainer=278, RefrigeratedContainer=550, LiquadContainer=567, RefrigeratedContainer=1021, HeacvyContainer=2106, RefrigeratedContainer=2147, BasicContainer=2271, RefrigeratedContainer=2456, LiquadContainer=2671, RefrigeratedContainer=3231, RefrigeratedContainer=3852, HeacvyContainer=4533, LiquadContainer=4910  
+Portid=456, X=78.65, Y=51.13, containers=RefrigeratedContainer=765, HeacvyContainer=868, BasicContainer=2508, HeacvyContainer=2576, RefrigeratedContainer=2819, RefrigeratedContainer=2824, HeacvyContainer=3221, LiquadContainer=4287 
+Ship id=648, containers= , fuelofship=1841053.0449023743, 
+Ship id=876, containers= , fuelofship=3955039.6936908048, 
+Ship id=704, containers= , fuelofship=6937022.421317346, 
+Ship id=656, containers= , fuelofship=5279874.4968184475 
+Portid=457, X=48.05, Y=60.07, containers=HeacvyContainer=328, BasicContainer=561, LiquadContainer=730, HeacvyContainer=740, RefrigeratedContainer=2323, RefrigeratedContainer=2675, HeacvyContainer=3177, LiquadContainer=3498, RefrigeratedContainer=3645 
+Ship id=832, containers= , fuelofship=7154638.670627585 
+Portid=458, X=44.09, Y=65.33, containers=HeacvyContainer=657, HeacvyContainer=1135, RefrigeratedContainer=1374, LiquadContainer=2127, HeacvyContainer=2266, RefrigeratedContainer=2380, LiquadContainer=2560, RefrigeratedContainer=2708, BasicContainer=2985, RefrigeratedContainer=4828 
+Ship id=953, containers= , fuelofship=4371496.548340366, 
+Ship id=748, containers= , fuelofship=2704748.7816327326 
+Portid=459, X=98.28, Y=91.43, containers=HeacvyContainer=110, HeacvyContainer=203, HeacvyContainer=749, LiquadContainer=983, BasicContainer=1221, RefrigeratedContainer=1288, RefrigeratedContainer=1373, LiquadContainer=1965, RefrigeratedContainer=2552, HeacvyContainer=2626, HeacvyContainer=2654, LiquadContainer=2854, LiquadContainer=3349, LiquadContainer=4658, LiquadContainer=4767, LiquadContainer=4825, HeacvyContainer=4826 
+Ship id=233, containers= , fuelofship=3531721.747603277, 
+Ship id=457, containers= , fuelofship=2725484.636528313, 
+Ship id=10, containers= , fuelofship=2965786.1135872263 
+Portid=460, X=57.65, Y=82.05, containers=HeacvyContainer=757, HeacvyContainer=1094, LiquadContainer=1441, RefrigeratedContainer=2442, HeacvyContainer=2521, HeacvyContainer=2869, RefrigeratedContainer=3297, HeacvyContainer=3518, HeacvyContainer=3711, RefrigeratedContainer=4736 
+Ship id=303, containers= , fuelofship=4707708.060411233, 
+Ship id=695, containers= , fuelofship=7512559.955630196 
+Portid=461, X=71.2, Y=86.42, containers=HeacvyContainer=839, HeacvyContainer=1069, HeacvyContainer=1098, HeacvyContainer=1970, RefrigeratedContainer=2277, HeacvyContainer=3230, RefrigeratedContainer=3499, RefrigeratedContainer=3942, RefrigeratedContainer=4420  
+Portid=462, X=47.13, Y=61.95, containers=LiquadContainer=506, LiquadContainer=1008, HeacvyContainer=1193, HeacvyContainer=1398, RefrigeratedContainer=1440, BasicContainer=2562, LiquadContainer=2683, RefrigeratedContainer=2923 
+Ship id=72, containers= , fuelofship=4431222.610391006, 
+Ship id=417, containers= , fuelofship=2071508.476586674, 
+Ship id=181, containers= , fuelofship=3915192.044003519, 
+Ship id=116, containers= , fuelofship=5522934.046284963 
+Portid=463, X=11.27, Y=91.48, containers=LiquadContainer=152, LiquadContainer=279, BasicContainer=288, LiquadContainer=735, HeacvyContainer=911, LiquadContainer=1025, RefrigeratedContainer=1447, HeacvyContainer=2287, HeacvyContainer=2566, BasicContainer=3212, LiquadContainer=3310, HeacvyContainer=3792, RefrigeratedContainer=3905, RefrigeratedContainer=4389 
+Ship id=296, containers= , fuelofship=5053015.271934604 
+Portid=464, X=79.99, Y=94.55, containers=HeacvyContainer=161, HeacvyContainer=205, LiquadContainer=258, HeacvyContainer=1411, LiquadContainer=1960, LiquadContainer=2803, RefrigeratedContainer=3191, RefrigeratedContainer=3306, HeacvyContainer=4147, HeacvyContainer=4172, LiquadContainer=4241, HeacvyContainer=4259, LiquadContainer=4623, HeacvyContainer=4928  
+Portid=465, X=78.91, Y=74.29, containers=LiquadContainer=213, RefrigeratedContainer=264, RefrigeratedContainer=666, LiquadContainer=925, BasicContainer=1247, RefrigeratedContainer=2841, RefrigeratedContainer=3555, HeacvyContainer=3872, LiquadContainer=4506  
+Portid=466, X=49.64, Y=70.31, containers=HeacvyContainer=221, HeacvyContainer=363, HeacvyContainer=712, LiquadContainer=1435, RefrigeratedContainer=1509, RefrigeratedContainer=1528, LiquadContainer=1603, RefrigeratedContainer=1982, LiquadContainer=2753, LiquadContainer=3062, HeacvyContainer=3217, RefrigeratedContainer=3510, RefrigeratedContainer=4025, HeacvyContainer=4160, RefrigeratedContainer=4740, RefrigeratedContainer=4771 
+Ship id=410, containers= , fuelofship=5344174.146016903, 
+Ship id=816, containers= , fuelofship=7845358.222323616, 
+Ship id=312, containers= , fuelofship=6528199.2713640565, 
+Ship id=920, containers= , fuelofship=8278303.587034131 
+Portid=467, X=83.63, Y=96.44, containers=LiquadContainer=965, LiquadContainer=1235, HeacvyContainer=2112, LiquadContainer=2622, RefrigeratedContainer=4629, RefrigeratedContainer=4681 
+Ship id=954, containers= , fuelofship=4440576.105173539, 
+Ship id=293, containers= , fuelofship=3535381.769506885, 
+Ship id=974, containers= , fuelofship=7668466.476122567, 
+Ship id=26, containers= , fuelofship=2236845.0172050884, 
+Ship id=800, containers= , fuelofship=3158810.6777098896 
+Portid=468, X=48.09, Y=40.08, containers=HeacvyContainer=440, LiquadContainer=1492, LiquadContainer=1768, HeacvyContainer=2172, HeacvyContainer=2507, RefrigeratedContainer=2681, LiquadContainer=2891, HeacvyContainer=3489 
+Ship id=684, containers= , fuelofship=5645298.433997006, 
+Ship id=426, containers= , fuelofship=4841843.695279181, 
+Ship id=408, containers= , fuelofship=4978310.679142607, 
+Ship id=22, containers= , fuelofship=3655718.4717294257 
+Portid=469, X=62.32, Y=91.5, containers=RefrigeratedContainer=103, LiquadContainer=1001, RefrigeratedContainer=1312, LiquadContainer=1490, RefrigeratedContainer=1775, LiquadContainer=1828, LiquadContainer=2511, RefrigeratedContainer=3509, RefrigeratedContainer=3549, RefrigeratedContainer=3664, HeacvyContainer=3796, BasicContainer=3991, RefrigeratedContainer=4243, HeacvyContainer=4715, HeacvyContainer=4851 
+Ship id=56, containers= , fuelofship=4780030.9824568955, 
+Ship id=911, containers= , fuelofship=3894687.4325178624 
+Portid=470, X=53.35, Y=71.15, containers=RefrigeratedContainer=202, HeacvyContainer=833, LiquadContainer=1297, LiquadContainer=1899, LiquadContainer=2406, RefrigeratedContainer=2747, RefrigeratedContainer=3235, LiquadContainer=3600 
+Ship id=718, containers= , fuelofship=3615016.5710800095 
+Portid=471, X=28.68, Y=54.52, containers=HeacvyContainer=120, HeacvyContainer=1428, LiquadContainer=1586, LiquadContainer=1652, HeacvyContainer=1862, BasicContainer=1877, LiquadContainer=2011, HeacvyContainer=2218, RefrigeratedContainer=2624, RefrigeratedContainer=3164, LiquadContainer=3209, RefrigeratedContainer=3453 
+Ship id=404, containers= , fuelofship=7136675.039834863, 
+Ship id=741, containers= , fuelofship=3596007.620360242 
+Portid=472, X=62.99, Y=90.67, containers=HeacvyContainer=1152, RefrigeratedContainer=1824, RefrigeratedContainer=1884, LiquadContainer=3232, LiquadContainer=3845, HeacvyContainer=3857, LiquadContainer=4188, RefrigeratedContainer=4617, BasicContainer=4702, LiquadContainer=4992 
+Ship id=346, containers= , fuelofship=5677433.618986707, 
+Ship id=458, containers= , fuelofship=4316262.563854924 
+Portid=473, X=5.45, Y=40.75, containers=HeacvyContainer=215, RefrigeratedContainer=1371, HeacvyContainer=1481, HeacvyContainer=1485, BasicContainer=1486, BasicContainer=1525, LiquadContainer=1836, LiquadContainer=1841, HeacvyContainer=1984, HeacvyContainer=2715, HeacvyContainer=2722, HeacvyContainer=3257, HeacvyContainer=3926, BasicContainer=4878  
+Portid=474, X=97.54, Y=17.85, containers=LiquadContainer=29, RefrigeratedContainer=87, BasicContainer=1560, LiquadContainer=1715, HeacvyContainer=2182, RefrigeratedContainer=2575, LiquadContainer=2606 
+Ship id=198, containers= , fuelofship=6277111.639575931 
+Portid=475, X=48.26, Y=66.5, containers=HeacvyContainer=340, HeacvyContainer=1513, LiquadContainer=2099, HeacvyContainer=2120, RefrigeratedContainer=3087, RefrigeratedContainer=3365, HeacvyContainer=3920, BasicContainer=3965, LiquadContainer=4022, BasicContainer=4276, LiquadContainer=4397, RefrigeratedContainer=4993 
+Ship id=642, containers= , fuelofship=4658829.680664794, 
+Ship id=857, containers= , fuelofship=6185397.96277274, 
+Ship id=927, containers= , fuelofship=3884378.8327259333 
+Portid=476, X=40.43, Y=24.03, containers=RefrigeratedContainer=703, LiquadContainer=1347, HeacvyContainer=1813, HeacvyContainer=2154, RefrigeratedContainer=2516, HeacvyContainer=2667, HeacvyContainer=2673, HeacvyContainer=2916, HeacvyContainer=3602, BasicContainer=3669, RefrigeratedContainer=4379, HeacvyContainer=4679, HeacvyContainer=4785 
+Ship id=632, containers= , fuelofship=6187292.245798062 
+Portid=477, X=53.99, Y=31.32, containers=HeacvyContainer=111, BasicContainer=755, HeacvyContainer=1978, BasicContainer=2290, LiquadContainer=2360, LiquadContainer=2544, BasicContainer=3197, HeacvyContainer=3427, HeacvyContainer=3445 
+Ship id=846, containers= , fuelofship=3371910.518254259, 
+Ship id=958, containers= , fuelofship=5428054.180438911, 
+Ship id=244, containers= , fuelofship=3776404.484875393, 
+Ship id=47, containers= , fuelofship=6544424.922091959 
+Portid=478, X=94.89, Y=32.63, containers=HeacvyContainer=311, HeacvyContainer=800, BasicContainer=944, LiquadContainer=1215, RefrigeratedContainer=1781, BasicContainer=1935, HeacvyContainer=2005, HeacvyContainer=2457, HeacvyContainer=2528, HeacvyContainer=3190, HeacvyContainer=3326, HeacvyContainer=3811, RefrigeratedContainer=4271, HeacvyContainer=4324, LiquadContainer=4454, BasicContainer=4494 
+Ship id=585, containers= , fuelofship=2444969.7387000024, 
+Ship id=221, containers= , fuelofship=7066524.63526949, 
+Ship id=765, containers= , fuelofship=7213384.165639588, 
+Ship id=608, containers= , fuelofship=2442172.315941222, 
+Ship id=70, containers= , fuelofship=5246000.301620362, 
+Ship id=576, containers= , fuelofship=3766882.215652871, 
+Ship id=286, containers= , fuelofship=4309778.528885659 
+Portid=479, X=98.77, Y=52.34, containers=BasicContainer=24, RefrigeratedContainer=191, HeacvyContainer=489, LiquadContainer=1582, RefrigeratedContainer=1598, BasicContainer=2075, LiquadContainer=2467, RefrigeratedContainer=2623, HeacvyContainer=2890, HeacvyContainer=2894, BasicContainer=3406, LiquadContainer=3551, RefrigeratedContainer=3666, LiquadContainer=3777, RefrigeratedContainer=4157, HeacvyContainer=4203, HeacvyContainer=4294, RefrigeratedContainer=4637 
+Ship id=730, containers= , fuelofship=3610225.4009020324, 
+Ship id=492, containers= , fuelofship=5894492.2148666335, 
+Ship id=818, containers= , fuelofship=4065806.281270338 
+Portid=480, X=88.6, Y=36.39, containers=LiquadContainer=2794, RefrigeratedContainer=2910, HeacvyContainer=3211, HeacvyContainer=3720, LiquadContainer=3744, HeacvyContainer=3898, HeacvyContainer=3936, LiquadContainer=4840 
+Ship id=696, containers= , fuelofship=1903930.9448541321, 
+Ship id=85, containers= , fuelofship=6264420.607693054, 
+Ship id=186, containers= , fuelofship=4302507.274045388, 
+Ship id=162, containers= , fuelofship=5620888.709585947, 
+Ship id=950, containers= , fuelofship=7372299.298662127 
+Portid=481, X=49.97, Y=7.93, containers=HeacvyContainer=460, LiquadContainer=1018, LiquadContainer=2974, LiquadContainer=4130 
+Ship id=485, containers= , fuelofship=2980594.1710029785, 
+Ship id=387, containers= , fuelofship=6188409.426989263, 
+Ship id=13, containers= , fuelofship=5864085.195688367 
+Portid=482, X=57.09, Y=76.74, containers=LiquadContainer=1, HeacvyContainer=779, HeacvyContainer=978, RefrigeratedContainer=1096, RefrigeratedContainer=3847, BasicContainer=3948, RefrigeratedContainer=4863 
+Ship id=767, containers= , fuelofship=2789272.060227574, 
+Ship id=496, containers= , fuelofship=3540550.073795749, 
+Ship id=543, containers= , fuelofship=6229530.36628029 
+Portid=483, X=31.5, Y=81.4, containers=LiquadContainer=197, HeacvyContainer=639, LiquadContainer=1109, HeacvyContainer=1147, HeacvyContainer=1166, HeacvyContainer=1570, LiquadContainer=1771, LiquadContainer=2079, HeacvyContainer=2471, LiquadContainer=3057, HeacvyContainer=3444, RefrigeratedContainer=3506, RefrigeratedContainer=4225 
+Ship id=131, containers= , fuelofship=2838913.686723639 
+Portid=484, X=7.1, Y=63.61, containers=HeacvyContainer=551, HeacvyContainer=902, BasicContainer=1319, RefrigeratedContainer=1811, LiquadContainer=1873, HeacvyContainer=2014, HeacvyContainer=2934, RefrigeratedContainer=3486, LiquadContainer=3625, LiquadContainer=3727, RefrigeratedContainer=4057, LiquadContainer=4145, LiquadContainer=4258, RefrigeratedContainer=4578, LiquadContainer=4690 
+Ship id=315, containers= , fuelofship=8973018.424361078, 
+Ship id=874, containers= , fuelofship=5736298.9362570755 
+Portid=485, X=94.2, Y=4.98, containers=HeacvyContainer=638, LiquadContainer=716, LiquadContainer=1323, LiquadContainer=1594, LiquadContainer=1799, LiquadContainer=2382, HeacvyContainer=2545, HeacvyContainer=3092, RefrigeratedContainer=3467, RefrigeratedContainer=4293, LiquadContainer=4456, HeacvyContainer=4499, HeacvyContainer=4967 
+Ship id=569, containers= , fuelofship=4422177.685193112, 
+Ship id=83, containers= , fuelofship=9899116.971781949, 
+Ship id=183, containers= , fuelofship=4235113.8543831175 
+Portid=486, X=4.78, Y=3.09, containers=HeacvyContainer=228, LiquadContainer=261, RefrigeratedContainer=627, LiquadContainer=746, BasicContainer=4041, LiquadContainer=4122, RefrigeratedContainer=4559 
+Ship id=246, containers= , fuelofship=3109175.536762885, 
+Ship id=520, containers= , fuelofship=1744280.0227445096 
+Portid=487, X=76.97, Y=43.22, containers=RefrigeratedContainer=156, LiquadContainer=1125, RefrigeratedContainer=1498, RefrigeratedContainer=1999, LiquadContainer=2201, HeacvyContainer=3118, RefrigeratedContainer=3296, BasicContainer=4999 
+Ship id=113, containers= , fuelofship=4516564.647754671, 
+Ship id=283, containers= , fuelofship=4299075.39007694, 
+Ship id=780, containers= , fuelofship=8333963.798510041 
+Portid=488, X=9.2, Y=54.19, containers=BasicContainer=15, HeacvyContainer=355, RefrigeratedContainer=1016, RefrigeratedContainer=1077, RefrigeratedContainer=1177, LiquadContainer=1330, HeacvyContainer=1994, RefrigeratedContainer=2042, BasicContainer=2880, HeacvyContainer=2973, RefrigeratedContainer=3496, HeacvyContainer=3674, HeacvyContainer=3747, LiquadContainer=3765, HeacvyContainer=3919, LiquadContainer=3972 
+Ship id=487, containers= , fuelofship=6431684.64949831, 
+Ship id=322, containers= , fuelofship=3346695.547191155 
+Portid=489, X=92.33, Y=96.36, containers=HeacvyContainer=1212, LiquadContainer=1229, LiquadContainer=1377, BasicContainer=3140, RefrigeratedContainer=3609, BasicContainer=4741, HeacvyContainer=4797 
+Ship id=109, containers= , fuelofship=4406857.271515818, 
+Ship id=141, containers= , fuelofship=3957372.4144623755 
+Portid=490, X=71.98, Y=78.48, containers=HeacvyContainer=418, HeacvyContainer=452, LiquadContainer=556, LiquadContainer=918, LiquadContainer=2004, BasicContainer=3713, HeacvyContainer=3962, RefrigeratedContainer=4330, RefrigeratedContainer=4418, RefrigeratedContainer=4624 
+Ship id=51, containers= , fuelofship=1.049736058439268E7, 
+Ship id=566, containers= , fuelofship=4349223.492579455, 
+Ship id=146, containers= , fuelofship=6544982.009103592 
+Portid=491, X=74.45, Y=72.27, containers=BasicContainer=2637, BasicContainer=2874, HeacvyContainer=3263, RefrigeratedContainer=3391, HeacvyContainer=3441, HeacvyContainer=3629, RefrigeratedContainer=4621 
+Ship id=406, containers= , fuelofship=1339711.526227151 
+Portid=492, X=12.91, Y=96.92, containers=LiquadContainer=525, HeacvyContainer=613, LiquadContainer=1092, HeacvyContainer=1301, LiquadContainer=1691, RefrigeratedContainer=2996, HeacvyContainer=3481, HeacvyContainer=3820, BasicContainer=4356, HeacvyContainer=4677 
+Ship id=851, containers= , fuelofship=3423610.409547721, 
+Ship id=991, containers= , fuelofship=5176148.662387051 
+Portid=493, X=43.92, Y=87.05, containers=LiquadContainer=324, LiquadContainer=406, HeacvyContainer=708, HeacvyContainer=981, LiquadContainer=2136, HeacvyContainer=3090, HeacvyContainer=3207, HeacvyContainer=3515, LiquadContainer=3759, LiquadContainer=4747  
+Portid=494, X=19.62, Y=28.37, containers=BasicContainer=412, RefrigeratedContainer=686, HeacvyContainer=1786, HeacvyContainer=2046, HeacvyContainer=2446, HeacvyContainer=3169, LiquadContainer=3205, RefrigeratedContainer=3425, BasicContainer=3786, HeacvyContainer=3931 
+Ship id=170, containers= , fuelofship=6814659.419798377, 
+Ship id=655, containers= , fuelofship=2116447.265665313 
+Portid=495, X=79.36, Y=38.81, containers=HeacvyContainer=349, HeacvyContainer=709, HeacvyContainer=1029, LiquadContainer=1460, LiquadContainer=1741, RefrigeratedContainer=2340, BasicContainer=2592, LiquadContainer=2615, HeacvyContainer=2842, HeacvyContainer=3404, LiquadContainer=3740, RefrigeratedContainer=4709 
+Ship id=587, containers= , fuelofship=5397503.499006259, 
+Ship id=580, containers= , fuelofship=6029654.285794949, 
+Ship id=757, containers= , fuelofship=5036874.710305109, 
+Ship id=888, containers= , fuelofship=5509218.950311784 
+Portid=496, X=64.33, Y=62.83, containers=BasicContainer=233, LiquadContainer=378, HeacvyContainer=1457, RefrigeratedContainer=3124, LiquadContainer=3783, LiquadContainer=3937, RefrigeratedContainer=4113, RefrigeratedContainer=4219 
+Ship id=792, containers=HeacvyContainer=4853 , fuelofship=3244005.3313269066, 
+Ship id=419, containers= , fuelofship=5244105.018061535, 
+Ship id=307, containers= , fuelofship=4403034.437175903, 
+Ship id=136, containers= , fuelofship=7106909.86663475, 
+Ship id=508, containers= , fuelofship=7541851.754602603, 
+Ship id=390, containers= , fuelofship=2446163.811569871, 
+Ship id=879, containers= , fuelofship=6749454.385314475, 
+Ship id=439, containers= , fuelofship=5270207.6328733545, 
+Ship id=402, containers= , fuelofship=2607023.0310394987 
+Portid=497, X=98.74, Y=77.29, containers=HeacvyContainer=26, LiquadContainer=180, HeacvyContainer=520, BasicContainer=577, RefrigeratedContainer=958, LiquadContainer=994, BasicContainer=1352, HeacvyContainer=1561, LiquadContainer=1837, RefrigeratedContainer=1946, LiquadContainer=2993, BasicContainer=3417, HeacvyContainer=4836, HeacvyContainer=4924 
+Ship id=35, containers= , fuelofship=5016271.781356268, 
+Ship id=982, containers= , fuelofship=4147979.782042569 
+Portid=498, X=46.42, Y=92.3, containers=HeacvyContainer=511, LiquadContainer=1167, HeacvyContainer=1175, HeacvyContainer=1690, RefrigeratedContainer=2199, LiquadContainer=2234, RefrigeratedContainer=3159, HeacvyContainer=3409, HeacvyContainer=3431, LiquadContainer=3977, LiquadContainer=4051, HeacvyContainer=4216, BasicContainer=4850 
+Ship id=301, containers= , fuelofship=3079484.4761968567, 
+Ship id=853, containers= , fuelofship=3247461.027297777, 
+Ship id=669, containers= , fuelofship=4540939.56328587 
+Portid=499, X=85.17, Y=25.47, containers=HeacvyContainer=350, RefrigeratedContainer=1346, RefrigeratedContainer=2635, RefrigeratedContainer=2945, LiquadContainer=3636, HeacvyContainer=3776, HeacvyContainer=4492, BasicContainer=4539 
+Ship id=878, containers= , fuelofship=8650924.393138671, 
+Ship id=553, containers= , fuelofship=5903834.637037277 
+Portid=500, X=93.72, Y=36.19, containers=RefrigeratedContainer=907, HeacvyContainer=1820, LiquadContainer=2064, LiquadContainer=2806, RefrigeratedContainer=3303, LiquadContainer=3399, HeacvyContainer=3930, HeacvyContainer=4056, HeacvyContainer=4380  
